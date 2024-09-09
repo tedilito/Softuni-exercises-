@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\Softuni_Advanced_c#\StackAndQueues\MatchingBrackets\bin\Debug\net8.0\MatchingBrackets.exe
+C:\Users\tedil\source\repos\Softuni_Advanced_c#\StackAndQueues\MatchingBrackets\bin\Debug\net8.0\MatchingBrackets.deps.json
+C:\Users\tedil\source\repos\Softuni_Advanced_c#\StackAndQueues\MatchingBrackets\bin\Debug\net8.0\MatchingBrackets.runtimeconfig.json
+C:\Users\tedil\source\repos\Softuni_Advanced_c#\StackAndQueues\MatchingBrackets\bin\Debug\net8.0\MatchingBrackets.dll
+C:\Users\tedil\source\repos\Softuni_Advanced_c#\StackAndQueues\MatchingBrackets\bin\Debug\net8.0\MatchingBrackets.pdb
+C:\Users\tedil\source\repos\Softuni_Advanced_c#\StackAndQueues\MatchingBrackets\obj\Debug\net8.0\MatchingBrackets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\Softuni_Advanced_c#\StackAndQueues\MatchingBrackets\obj\Debug\net8.0\MatchingBrackets.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\Softuni_Advanced_c#\StackAndQueues\MatchingBrackets\obj\Debug\net8.0\MatchingBrackets.AssemblyInfo.cs
+C:\Users\tedil\source\repos\Softuni_Advanced_c#\StackAndQueues\MatchingBrackets\obj\Debug\net8.0\MatchingBrackets.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\Softuni_Advanced_c#\StackAndQueues\MatchingBrackets\obj\Debug\net8.0\MatchingBrackets.dll
+C:\Users\tedil\source\repos\Softuni_Advanced_c#\StackAndQueues\MatchingBrackets\obj\Debug\net8.0\refint\MatchingBrackets.dll
+C:\Users\tedil\source\repos\Softuni_Advanced_c#\StackAndQueues\MatchingBrackets\obj\Debug\net8.0\MatchingBrackets.pdb
+C:\Users\tedil\source\repos\Softuni_Advanced_c#\StackAndQueues\MatchingBrackets\obj\Debug\net8.0\MatchingBrackets.genruntimeconfig.cache
+C:\Users\tedil\source\repos\Softuni_Advanced_c#\StackAndQueues\MatchingBrackets\obj\Debug\net8.0\ref\MatchingBrackets.dll
