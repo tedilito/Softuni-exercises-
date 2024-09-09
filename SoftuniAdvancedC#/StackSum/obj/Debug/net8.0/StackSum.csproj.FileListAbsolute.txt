@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\Softuni_Advanced_c#\StackAndQueues\StackSum\bin\Debug\net8.0\StackSum.exe
+C:\Users\tedil\source\repos\Softuni_Advanced_c#\StackAndQueues\StackSum\bin\Debug\net8.0\StackSum.deps.json
+C:\Users\tedil\source\repos\Softuni_Advanced_c#\StackAndQueues\StackSum\bin\Debug\net8.0\StackSum.runtimeconfig.json
+C:\Users\tedil\source\repos\Softuni_Advanced_c#\StackAndQueues\StackSum\bin\Debug\net8.0\StackSum.dll
+C:\Users\tedil\source\repos\Softuni_Advanced_c#\StackAndQueues\StackSum\bin\Debug\net8.0\StackSum.pdb
+C:\Users\tedil\source\repos\Softuni_Advanced_c#\StackAndQueues\StackSum\obj\Debug\net8.0\StackSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\Softuni_Advanced_c#\StackAndQueues\StackSum\obj\Debug\net8.0\StackSum.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\Softuni_Advanced_c#\StackAndQueues\StackSum\obj\Debug\net8.0\StackSum.AssemblyInfo.cs
+C:\Users\tedil\source\repos\Softuni_Advanced_c#\StackAndQueues\StackSum\obj\Debug\net8.0\StackSum.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\Softuni_Advanced_c#\StackAndQueues\StackSum\obj\Debug\net8.0\StackSum.dll
+C:\Users\tedil\source\repos\Softuni_Advanced_c#\StackAndQueues\StackSum\obj\Debug\net8.0\refint\StackSum.dll
+C:\Users\tedil\source\repos\Softuni_Advanced_c#\StackAndQueues\StackSum\obj\Debug\net8.0\StackSum.pdb
+C:\Users\tedil\source\repos\Softuni_Advanced_c#\StackAndQueues\StackSum\obj\Debug\net8.0\StackSum.genruntimeconfig.cache
+C:\Users\tedil\source\repos\Softuni_Advanced_c#\StackAndQueues\StackSum\obj\Debug\net8.0\ref\StackSum.dll

@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\Softuni_Advanced_c#\StackAndQueues\Supermarket\bin\Debug\net8.0\Supermarket.exe
+C:\Users\tedil\source\repos\Softuni_Advanced_c#\StackAndQueues\Supermarket\bin\Debug\net8.0\Supermarket.deps.json
+C:\Users\tedil\source\repos\Softuni_Advanced_c#\StackAndQueues\Supermarket\bin\Debug\net8.0\Supermarket.runtimeconfig.json
+C:\Users\tedil\source\repos\Softuni_Advanced_c#\StackAndQueues\Supermarket\bin\Debug\net8.0\Supermarket.dll
+C:\Users\tedil\source\repos\Softuni_Advanced_c#\StackAndQueues\Supermarket\bin\Debug\net8.0\Supermarket.pdb
+C:\Users\tedil\source\repos\Softuni_Advanced_c#\StackAndQueues\Supermarket\obj\Debug\net8.0\Supermarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\Softuni_Advanced_c#\StackAndQueues\Supermarket\obj\Debug\net8.0\Supermarket.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\Softuni_Advanced_c#\StackAndQueues\Supermarket\obj\Debug\net8.0\Supermarket.AssemblyInfo.cs
+C:\Users\tedil\source\repos\Softuni_Advanced_c#\StackAndQueues\Supermarket\obj\Debug\net8.0\Supermarket.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\Softuni_Advanced_c#\StackAndQueues\Supermarket\obj\Debug\net8.0\Supermarket.dll
+C:\Users\tedil\source\repos\Softuni_Advanced_c#\StackAndQueues\Supermarket\obj\Debug\net8.0\refint\Supermarket.dll
+C:\Users\tedil\source\repos\Softuni_Advanced_c#\StackAndQueues\Supermarket\obj\Debug\net8.0\Supermarket.pdb
+C:\Users\tedil\source\repos\Softuni_Advanced_c#\StackAndQueues\Supermarket\obj\Debug\net8.0\Supermarket.genruntimeconfig.cache
+C:\Users\tedil\source\repos\Softuni_Advanced_c#\StackAndQueues\Supermarket\obj\Debug\net8.0\ref\Supermarket.dll
