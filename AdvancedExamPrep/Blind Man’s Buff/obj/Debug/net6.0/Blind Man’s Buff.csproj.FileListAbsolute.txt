@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\AdvancedExamPrep\Blind Man’s Buff\bin\Debug\net6.0\Blind Man’s Buff.exe
+C:\Users\tedil\source\repos\AdvancedExamPrep\Blind Man’s Buff\bin\Debug\net6.0\Blind Man’s Buff.deps.json
+C:\Users\tedil\source\repos\AdvancedExamPrep\Blind Man’s Buff\bin\Debug\net6.0\Blind Man’s Buff.runtimeconfig.json
+C:\Users\tedil\source\repos\AdvancedExamPrep\Blind Man’s Buff\bin\Debug\net6.0\Blind Man’s Buff.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\Blind Man’s Buff\bin\Debug\net6.0\Blind Man’s Buff.pdb
+C:\Users\tedil\source\repos\AdvancedExamPrep\Blind Man’s Buff\obj\Debug\net6.0\Blind Man’s Buff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\AdvancedExamPrep\Blind Man’s Buff\obj\Debug\net6.0\Blind Man’s Buff.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\Blind Man’s Buff\obj\Debug\net6.0\Blind Man’s Buff.AssemblyInfo.cs
+C:\Users\tedil\source\repos\AdvancedExamPrep\Blind Man’s Buff\obj\Debug\net6.0\Blind Man’s Buff.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\Blind Man’s Buff\obj\Debug\net6.0\Blind Man’s Buff.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\Blind Man’s Buff\obj\Debug\net6.0\refint\Blind Man’s Buff.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\Blind Man’s Buff\obj\Debug\net6.0\Blind Man’s Buff.pdb
+C:\Users\tedil\source\repos\AdvancedExamPrep\Blind Man’s Buff\obj\Debug\net6.0\Blind Man’s Buff.genruntimeconfig.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\Blind Man’s Buff\obj\Debug\net6.0\ref\Blind Man’s Buff.dll

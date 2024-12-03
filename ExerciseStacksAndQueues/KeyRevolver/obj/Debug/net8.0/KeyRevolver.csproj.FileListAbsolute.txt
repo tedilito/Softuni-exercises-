@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\KeyRevolver\obj\Debug\net8.0\KeyRevolver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\KeyRevolver\obj\Debug\net8.0\KeyRevolver.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\KeyRevolver\obj\Debug\net8.0\KeyRevolver.AssemblyInfo.cs
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\KeyRevolver\obj\Debug\net8.0\KeyRevolver.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\KeyRevolver\bin\Debug\net8.0\KeyRevolver.exe
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\KeyRevolver\bin\Debug\net8.0\KeyRevolver.deps.json
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\KeyRevolver\bin\Debug\net8.0\KeyRevolver.runtimeconfig.json
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\KeyRevolver\bin\Debug\net8.0\KeyRevolver.dll
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\KeyRevolver\bin\Debug\net8.0\KeyRevolver.pdb
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\KeyRevolver\obj\Debug\net8.0\KeyRevolver.dll
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\KeyRevolver\obj\Debug\net8.0\refint\KeyRevolver.dll
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\KeyRevolver\obj\Debug\net8.0\KeyRevolver.pdb
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\KeyRevolver\obj\Debug\net8.0\KeyRevolver.genruntimeconfig.cache
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\KeyRevolver\obj\Debug\net8.0\ref\KeyRevolver.dll

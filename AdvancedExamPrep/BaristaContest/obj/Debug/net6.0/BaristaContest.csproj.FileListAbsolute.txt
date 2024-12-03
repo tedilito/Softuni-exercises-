@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\AdvancedExamPrep\BaristaContest\bin\Debug\net6.0\BaristaContest.exe
+C:\Users\tedil\source\repos\AdvancedExamPrep\BaristaContest\bin\Debug\net6.0\BaristaContest.deps.json
+C:\Users\tedil\source\repos\AdvancedExamPrep\BaristaContest\bin\Debug\net6.0\BaristaContest.runtimeconfig.json
+C:\Users\tedil\source\repos\AdvancedExamPrep\BaristaContest\bin\Debug\net6.0\BaristaContest.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\BaristaContest\bin\Debug\net6.0\BaristaContest.pdb
+C:\Users\tedil\source\repos\AdvancedExamPrep\BaristaContest\obj\Debug\net6.0\BaristaContest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\AdvancedExamPrep\BaristaContest\obj\Debug\net6.0\BaristaContest.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\BaristaContest\obj\Debug\net6.0\BaristaContest.AssemblyInfo.cs
+C:\Users\tedil\source\repos\AdvancedExamPrep\BaristaContest\obj\Debug\net6.0\BaristaContest.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\BaristaContest\obj\Debug\net6.0\BaristaContest.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\BaristaContest\obj\Debug\net6.0\refint\BaristaContest.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\BaristaContest\obj\Debug\net6.0\BaristaContest.pdb
+C:\Users\tedil\source\repos\AdvancedExamPrep\BaristaContest\obj\Debug\net6.0\BaristaContest.genruntimeconfig.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\BaristaContest\obj\Debug\net6.0\ref\BaristaContest.dll

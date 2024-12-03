@@ -1,0 +1,4 @@
+C:\Users\tedil\source\repos\AdvancedExamPrep\AdvancedExamPrep\obj\Debug\net6.0\AdvancedExamPrep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\AdvancedExamPrep\AdvancedExamPrep\obj\Debug\net6.0\AdvancedExamPrep.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\AdvancedExamPrep\obj\Debug\net6.0\AdvancedExamPrep.AssemblyInfo.cs
+C:\Users\tedil\source\repos\AdvancedExamPrep\AdvancedExamPrep\obj\Debug\net6.0\AdvancedExamPrep.csproj.CoreCompileInputs.cache

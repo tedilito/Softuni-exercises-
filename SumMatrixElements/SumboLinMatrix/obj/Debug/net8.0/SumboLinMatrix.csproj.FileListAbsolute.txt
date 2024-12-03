@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\SumMatrixElements\SumboLinMatrix\bin\Debug\net8.0\SumboLinMatrix.exe
+C:\Users\tedil\source\repos\SumMatrixElements\SumboLinMatrix\bin\Debug\net8.0\SumboLinMatrix.deps.json
+C:\Users\tedil\source\repos\SumMatrixElements\SumboLinMatrix\bin\Debug\net8.0\SumboLinMatrix.runtimeconfig.json
+C:\Users\tedil\source\repos\SumMatrixElements\SumboLinMatrix\bin\Debug\net8.0\SumboLinMatrix.dll
+C:\Users\tedil\source\repos\SumMatrixElements\SumboLinMatrix\bin\Debug\net8.0\SumboLinMatrix.pdb
+C:\Users\tedil\source\repos\SumMatrixElements\SumboLinMatrix\obj\Debug\net8.0\SumboLinMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\SumMatrixElements\SumboLinMatrix\obj\Debug\net8.0\SumboLinMatrix.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\SumMatrixElements\SumboLinMatrix\obj\Debug\net8.0\SumboLinMatrix.AssemblyInfo.cs
+C:\Users\tedil\source\repos\SumMatrixElements\SumboLinMatrix\obj\Debug\net8.0\SumboLinMatrix.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\SumMatrixElements\SumboLinMatrix\obj\Debug\net8.0\SumboLinMatrix.dll
+C:\Users\tedil\source\repos\SumMatrixElements\SumboLinMatrix\obj\Debug\net8.0\refint\SumboLinMatrix.dll
+C:\Users\tedil\source\repos\SumMatrixElements\SumboLinMatrix\obj\Debug\net8.0\SumboLinMatrix.pdb
+C:\Users\tedil\source\repos\SumMatrixElements\SumboLinMatrix\obj\Debug\net8.0\SumboLinMatrix.genruntimeconfig.cache
+C:\Users\tedil\source\repos\SumMatrixElements\SumboLinMatrix\obj\Debug\net8.0\ref\SumboLinMatrix.dll

@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\AdvancedExamPrep\Navy Battle\bin\Debug\net6.0\Navy Battle.exe
+C:\Users\tedil\source\repos\AdvancedExamPrep\Navy Battle\bin\Debug\net6.0\Navy Battle.deps.json
+C:\Users\tedil\source\repos\AdvancedExamPrep\Navy Battle\bin\Debug\net6.0\Navy Battle.runtimeconfig.json
+C:\Users\tedil\source\repos\AdvancedExamPrep\Navy Battle\bin\Debug\net6.0\Navy Battle.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\Navy Battle\bin\Debug\net6.0\Navy Battle.pdb
+C:\Users\tedil\source\repos\AdvancedExamPrep\Navy Battle\obj\Debug\net6.0\Navy Battle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\AdvancedExamPrep\Navy Battle\obj\Debug\net6.0\Navy Battle.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\Navy Battle\obj\Debug\net6.0\Navy Battle.AssemblyInfo.cs
+C:\Users\tedil\source\repos\AdvancedExamPrep\Navy Battle\obj\Debug\net6.0\Navy Battle.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\Navy Battle\obj\Debug\net6.0\Navy Battle.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\Navy Battle\obj\Debug\net6.0\refint\Navy Battle.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\Navy Battle\obj\Debug\net6.0\Navy Battle.pdb
+C:\Users\tedil\source\repos\AdvancedExamPrep\Navy Battle\obj\Debug\net6.0\Navy Battle.genruntimeconfig.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\Navy Battle\obj\Debug\net6.0\ref\Navy Battle.dll

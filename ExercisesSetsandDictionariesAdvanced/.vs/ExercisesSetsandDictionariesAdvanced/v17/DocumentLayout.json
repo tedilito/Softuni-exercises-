@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tedil\\source\\repos\\ExercisesSetsandDictionariesAdvanced\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02AFCF44-EB2B-460E-A698-1F3BA8D0F278}|ForceBook\\ForceBook.csproj|c:\\users\\tedil\\source\\repos\\exercisessetsanddictionariesadvanced\\forcebook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02AFCF44-EB2B-460E-A698-1F3BA8D0F278}|ForceBook\\ForceBook.csproj|solutionrelative:forcebook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C445D6E-9610-4066-ACB5-95550264EC97}|SoftuniExamResults\\SoftuniExamResults.csproj|c:\\users\\tedil\\source\\repos\\exercisessetsanddictionariesadvanced\\softuniexamresults\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C445D6E-9610-4066-ACB5-95550264EC97}|SoftuniExamResults\\SoftuniExamResults.csproj|solutionrelative:softuniexamresults\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A6B1D4B-3B23-4563-A83B-D402E5D4F67F}|Ranking\\Ranking.csproj|c:\\users\\tedil\\source\\repos\\exercisessetsanddictionariesadvanced\\ranking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A6B1D4B-3B23-4563-A83B-D402E5D4F67F}|Ranking\\Ranking.csproj|solutionrelative:ranking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4118065-009B-4E00-93DD-1748E0A3C443}|UniqueUsernames\\UniqueUsernames.csproj|c:\\users\\tedil\\source\\repos\\exercisessetsanddictionariesadvanced\\uniqueusernames\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4118065-009B-4E00-93DD-1748E0A3C443}|UniqueUsernames\\UniqueUsernames.csproj|solutionrelative:uniqueusernames\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6B64C0A-4F5E-4169-AA2A-F8C35C5031A9}|TheV-Logger\\TheV-Logger.csproj|c:\\users\\tedil\\source\\repos\\exercisessetsanddictionariesadvanced\\thev-logger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6B64C0A-4F5E-4169-AA2A-F8C35C5031A9}|TheV-Logger\\TheV-Logger.csproj|solutionrelative:thev-logger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB962C2-667F-46CF-9077-1C617D4C0EE7}|Wardrobe\\Wardrobe.csproj|c:\\users\\tedil\\source\\repos\\exercisessetsanddictionariesadvanced\\wardrobe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDB962C2-667F-46CF-9077-1C617D4C0EE7}|Wardrobe\\Wardrobe.csproj|solutionrelative:wardrobe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B9E578-6BCD-41F7-932D-CF9A8CF2DE5D}|CountSymbols\\CountSymbols.csproj|c:\\users\\tedil\\source\\repos\\exercisessetsanddictionariesadvanced\\countsymbols\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B9E578-6BCD-41F7-932D-CF9A8CF2DE5D}|CountSymbols\\CountSymbols.csproj|solutionrelative:countsymbols\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E61F4E-E84B-41FF-B1E2-DDDC603BB127}|EvenTimes\\EvenTimes.csproj|c:\\users\\tedil\\source\\repos\\exercisessetsanddictionariesadvanced\\eventimes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E61F4E-E84B-41FF-B1E2-DDDC603BB127}|EvenTimes\\EvenTimes.csproj|solutionrelative:eventimes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCEC845-3D86-4D19-830F-48388B369A4A}|PereodicTable\\PereodicTable.csproj|c:\\users\\tedil\\source\\repos\\exercisessetsanddictionariesadvanced\\pereodictable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FCEC845-3D86-4D19-830F-48388B369A4A}|PereodicTable\\PereodicTable.csproj|solutionrelative:pereodictable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF0BAE20-0B3E-4363-A413-CFF3160CF094}|SetsOfElements\\SetsOfElements.csproj|c:\\users\\tedil\\source\\repos\\exercisessetsanddictionariesadvanced\\setsofelements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF0BAE20-0B3E-4363-A413-CFF3160CF094}|SetsOfElements\\SetsOfElements.csproj|solutionrelative:setsofelements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExercisesSetsandDictionariesAdvanced\\ForceBook\\Program.cs",
+              "RelativeDocumentMoniker": "ForceBook\\Program.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExercisesSetsandDictionariesAdvanced\\ForceBook\\Program.cs",
+              "RelativeToolTip": "ForceBook\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T12:25:01.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExercisesSetsandDictionariesAdvanced\\SoftuniExamResults\\Program.cs",
+              "RelativeDocumentMoniker": "SoftuniExamResults\\Program.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExercisesSetsandDictionariesAdvanced\\SoftuniExamResults\\Program.cs",
+              "RelativeToolTip": "SoftuniExamResults\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T11:24:21.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExercisesSetsandDictionariesAdvanced\\Ranking\\Program.cs",
+              "RelativeDocumentMoniker": "Ranking\\Program.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExercisesSetsandDictionariesAdvanced\\Ranking\\Program.cs",
+              "RelativeToolTip": "Ranking\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T10:29:42.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExercisesSetsandDictionariesAdvanced\\TheV-Logger\\Program.cs",
+              "RelativeDocumentMoniker": "TheV-Logger\\Program.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExercisesSetsandDictionariesAdvanced\\TheV-Logger\\Program.cs",
+              "RelativeToolTip": "TheV-Logger\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAkwC0AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T08:11:56.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExercisesSetsandDictionariesAdvanced\\Wardrobe\\Program.cs",
+              "RelativeDocumentMoniker": "Wardrobe\\Program.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExercisesSetsandDictionariesAdvanced\\Wardrobe\\Program.cs",
+              "RelativeToolTip": "Wardrobe\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T20:09:41.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExercisesSetsandDictionariesAdvanced\\CountSymbols\\Program.cs",
+              "RelativeDocumentMoniker": "CountSymbols\\Program.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExercisesSetsandDictionariesAdvanced\\CountSymbols\\Program.cs",
+              "RelativeToolTip": "CountSymbols\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T20:00:21.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExercisesSetsandDictionariesAdvanced\\EvenTimes\\Program.cs",
+              "RelativeDocumentMoniker": "EvenTimes\\Program.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExercisesSetsandDictionariesAdvanced\\EvenTimes\\Program.cs",
+              "RelativeToolTip": "EvenTimes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T19:55:10.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExercisesSetsandDictionariesAdvanced\\PereodicTable\\Program.cs",
+              "RelativeDocumentMoniker": "PereodicTable\\Program.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExercisesSetsandDictionariesAdvanced\\PereodicTable\\Program.cs",
+              "RelativeToolTip": "PereodicTable\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T19:49:19.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExercisesSetsandDictionariesAdvanced\\SetsOfElements\\Program.cs",
+              "RelativeDocumentMoniker": "SetsOfElements\\Program.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExercisesSetsandDictionariesAdvanced\\SetsOfElements\\Program.cs",
+              "RelativeToolTip": "SetsOfElements\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T19:13:18.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExercisesSetsandDictionariesAdvanced\\UniqueUsernames\\Program.cs",
+              "RelativeDocumentMoniker": "UniqueUsernames\\Program.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExercisesSetsandDictionariesAdvanced\\UniqueUsernames\\Program.cs",
+              "RelativeToolTip": "UniqueUsernames\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T19:09:14.377Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

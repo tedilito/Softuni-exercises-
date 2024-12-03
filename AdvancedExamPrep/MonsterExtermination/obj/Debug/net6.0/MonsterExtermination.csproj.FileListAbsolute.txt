@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\AdvancedExamPrep\MonsterExtermination\bin\Debug\net6.0\MonsterExtermination.exe
+C:\Users\tedil\source\repos\AdvancedExamPrep\MonsterExtermination\bin\Debug\net6.0\MonsterExtermination.deps.json
+C:\Users\tedil\source\repos\AdvancedExamPrep\MonsterExtermination\bin\Debug\net6.0\MonsterExtermination.runtimeconfig.json
+C:\Users\tedil\source\repos\AdvancedExamPrep\MonsterExtermination\bin\Debug\net6.0\MonsterExtermination.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\MonsterExtermination\bin\Debug\net6.0\MonsterExtermination.pdb
+C:\Users\tedil\source\repos\AdvancedExamPrep\MonsterExtermination\obj\Debug\net6.0\MonsterExtermination.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\AdvancedExamPrep\MonsterExtermination\obj\Debug\net6.0\MonsterExtermination.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\MonsterExtermination\obj\Debug\net6.0\MonsterExtermination.AssemblyInfo.cs
+C:\Users\tedil\source\repos\AdvancedExamPrep\MonsterExtermination\obj\Debug\net6.0\MonsterExtermination.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\MonsterExtermination\obj\Debug\net6.0\MonsterExtermination.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\MonsterExtermination\obj\Debug\net6.0\refint\MonsterExtermination.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\MonsterExtermination\obj\Debug\net6.0\MonsterExtermination.pdb
+C:\Users\tedil\source\repos\AdvancedExamPrep\MonsterExtermination\obj\Debug\net6.0\MonsterExtermination.genruntimeconfig.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\MonsterExtermination\obj\Debug\net6.0\ref\MonsterExtermination.dll

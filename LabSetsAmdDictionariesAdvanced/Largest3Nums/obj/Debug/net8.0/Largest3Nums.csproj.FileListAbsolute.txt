@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\Largest3Nums\bin\Debug\net8.0\Largest3Nums.exe
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\Largest3Nums\bin\Debug\net8.0\Largest3Nums.deps.json
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\Largest3Nums\bin\Debug\net8.0\Largest3Nums.runtimeconfig.json
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\Largest3Nums\bin\Debug\net8.0\Largest3Nums.dll
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\Largest3Nums\bin\Debug\net8.0\Largest3Nums.pdb
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\Largest3Nums\obj\Debug\net8.0\Largest3Nums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\Largest3Nums\obj\Debug\net8.0\Largest3Nums.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\Largest3Nums\obj\Debug\net8.0\Largest3Nums.AssemblyInfo.cs
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\Largest3Nums\obj\Debug\net8.0\Largest3Nums.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\Largest3Nums\obj\Debug\net8.0\Largest3Nums.dll
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\Largest3Nums\obj\Debug\net8.0\refint\Largest3Nums.dll
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\Largest3Nums\obj\Debug\net8.0\Largest3Nums.pdb
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\Largest3Nums\obj\Debug\net8.0\Largest3Nums.genruntimeconfig.cache
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\Largest3Nums\obj\Debug\net8.0\ref\Largest3Nums.dll

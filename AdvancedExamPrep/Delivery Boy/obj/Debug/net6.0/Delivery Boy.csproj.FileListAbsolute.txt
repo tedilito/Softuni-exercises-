@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\AdvancedExamPrep\Delivery Boy\bin\Debug\net6.0\Delivery Boy.exe
+C:\Users\tedil\source\repos\AdvancedExamPrep\Delivery Boy\bin\Debug\net6.0\Delivery Boy.deps.json
+C:\Users\tedil\source\repos\AdvancedExamPrep\Delivery Boy\bin\Debug\net6.0\Delivery Boy.runtimeconfig.json
+C:\Users\tedil\source\repos\AdvancedExamPrep\Delivery Boy\bin\Debug\net6.0\Delivery Boy.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\Delivery Boy\bin\Debug\net6.0\Delivery Boy.pdb
+C:\Users\tedil\source\repos\AdvancedExamPrep\Delivery Boy\obj\Debug\net6.0\Delivery Boy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\AdvancedExamPrep\Delivery Boy\obj\Debug\net6.0\Delivery Boy.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\Delivery Boy\obj\Debug\net6.0\Delivery Boy.AssemblyInfo.cs
+C:\Users\tedil\source\repos\AdvancedExamPrep\Delivery Boy\obj\Debug\net6.0\Delivery Boy.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\Delivery Boy\obj\Debug\net6.0\Delivery Boy.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\Delivery Boy\obj\Debug\net6.0\refint\Delivery Boy.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\Delivery Boy\obj\Debug\net6.0\Delivery Boy.pdb
+C:\Users\tedil\source\repos\AdvancedExamPrep\Delivery Boy\obj\Debug\net6.0\Delivery Boy.genruntimeconfig.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\Delivery Boy\obj\Debug\net6.0\ref\Delivery Boy.dll

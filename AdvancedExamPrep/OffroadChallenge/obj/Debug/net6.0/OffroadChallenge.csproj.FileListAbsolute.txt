@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\AdvancedExamPrep\OffroadChallenge\bin\Debug\net6.0\OffroadChallenge.exe
+C:\Users\tedil\source\repos\AdvancedExamPrep\OffroadChallenge\bin\Debug\net6.0\OffroadChallenge.deps.json
+C:\Users\tedil\source\repos\AdvancedExamPrep\OffroadChallenge\bin\Debug\net6.0\OffroadChallenge.runtimeconfig.json
+C:\Users\tedil\source\repos\AdvancedExamPrep\OffroadChallenge\bin\Debug\net6.0\OffroadChallenge.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\OffroadChallenge\bin\Debug\net6.0\OffroadChallenge.pdb
+C:\Users\tedil\source\repos\AdvancedExamPrep\OffroadChallenge\obj\Debug\net6.0\OffroadChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\AdvancedExamPrep\OffroadChallenge\obj\Debug\net6.0\OffroadChallenge.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\OffroadChallenge\obj\Debug\net6.0\OffroadChallenge.AssemblyInfo.cs
+C:\Users\tedil\source\repos\AdvancedExamPrep\OffroadChallenge\obj\Debug\net6.0\OffroadChallenge.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\OffroadChallenge\obj\Debug\net6.0\OffroadChallenge.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\OffroadChallenge\obj\Debug\net6.0\refint\OffroadChallenge.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\OffroadChallenge\obj\Debug\net6.0\OffroadChallenge.pdb
+C:\Users\tedil\source\repos\AdvancedExamPrep\OffroadChallenge\obj\Debug\net6.0\OffroadChallenge.genruntimeconfig.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\OffroadChallenge\obj\Debug\net6.0\ref\OffroadChallenge.dll

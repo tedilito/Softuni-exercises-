@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tedil\\source\\repos\\LabSetsAmdDictionariesAdvanced\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9952FC5-D77D-4C33-98DD-877807AEB1F4}|The V-Logger\\The V-Logger.csproj|c:\\users\\tedil\\source\\repos\\labsetsamddictionariesadvanced\\the v-logger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9952FC5-D77D-4C33-98DD-877807AEB1F4}|The V-Logger\\The V-Logger.csproj|solutionrelative:the v-logger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF6B01C-83CF-4598-9687-C3E0E797C7FC}|CitiesbyContinentandCountry\\CitiesbyContinentandCountry.csproj|c:\\users\\tedil\\source\\repos\\labsetsamddictionariesadvanced\\citiesbycontinentandcountry\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF6B01C-83CF-4598-9687-C3E0E797C7FC}|CitiesbyContinentandCountry\\CitiesbyContinentandCountry.csproj|solutionrelative:citiesbycontinentandcountry\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66434C4C-EBAE-4ADB-BE66-E4534F2A2829}|SoftuniParty\\SoftuniParty.csproj|c:\\users\\tedil\\source\\repos\\labsetsamddictionariesadvanced\\softuniparty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66434C4C-EBAE-4ADB-BE66-E4534F2A2829}|SoftuniParty\\SoftuniParty.csproj|solutionrelative:softuniparty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA8A39A4-F115-455E-A4C1-DA0B4FD62D07}|ParkingLot\\ParkingLot.csproj|c:\\users\\tedil\\source\\repos\\labsetsamddictionariesadvanced\\parkinglot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA8A39A4-F115-455E-A4C1-DA0B4FD62D07}|ParkingLot\\ParkingLot.csproj|solutionrelative:parkinglot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{581E9BAF-B029-4B6B-AB1B-D822A836D674}|RecordUniqueNames\\RecordUniqueNames.csproj|c:\\users\\tedil\\source\\repos\\labsetsamddictionariesadvanced\\recorduniquenames\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{581E9BAF-B029-4B6B-AB1B-D822A836D674}|RecordUniqueNames\\RecordUniqueNames.csproj|solutionrelative:recorduniquenames\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EBEE894-5675-4DB8-AA8A-8CBA989431CA}|ProductShop\\ProductShop.csproj|c:\\users\\tedil\\source\\repos\\labsetsamddictionariesadvanced\\productshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EBEE894-5675-4DB8-AA8A-8CBA989431CA}|ProductShop\\ProductShop.csproj|solutionrelative:productshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F71AFFB4-841A-49B8-A106-36E6FA049BCD}|Largest3Nums\\Largest3Nums.csproj|c:\\users\\tedil\\source\\repos\\labsetsamddictionariesadvanced\\largest3nums\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F71AFFB4-841A-49B8-A106-36E6FA049BCD}|Largest3Nums\\Largest3Nums.csproj|solutionrelative:largest3nums\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7494ABB2-2F96-4F61-9E87-290C33ED0C02}|AverageStudentGrades\\AverageStudentGrades.csproj|c:\\users\\tedil\\source\\repos\\labsetsamddictionariesadvanced\\averagestudentgrades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7494ABB2-2F96-4F61-9E87-290C33ED0C02}|AverageStudentGrades\\AverageStudentGrades.csproj|solutionrelative:averagestudentgrades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D22AB7-C821-4347-8401-6339EA2D4427}|CountSameValuesinArray\\CountSameValuesinArray.csproj|c:\\users\\tedil\\source\\repos\\labsetsamddictionariesadvanced\\countsamevaluesinarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D22AB7-C821-4347-8401-6339EA2D4427}|CountSameValuesinArray\\CountSameValuesinArray.csproj|solutionrelative:countsamevaluesinarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\LabSetsAmdDictionariesAdvanced\\The V-Logger\\Program.cs",
+              "RelativeDocumentMoniker": "The V-Logger\\Program.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\LabSetsAmdDictionariesAdvanced\\The V-Logger\\Program.cs",
+              "RelativeToolTip": "The V-Logger\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T19:45:36.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\LabSetsAmdDictionariesAdvanced\\SoftuniParty\\Program.cs",
+              "RelativeDocumentMoniker": "SoftuniParty\\Program.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\LabSetsAmdDictionariesAdvanced\\SoftuniParty\\Program.cs",
+              "RelativeToolTip": "SoftuniParty\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T22:09:52.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\LabSetsAmdDictionariesAdvanced\\ParkingLot\\Program.cs",
+              "RelativeDocumentMoniker": "ParkingLot\\Program.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\LabSetsAmdDictionariesAdvanced\\ParkingLot\\Program.cs",
+              "RelativeToolTip": "ParkingLot\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T21:49:45.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\LabSetsAmdDictionariesAdvanced\\RecordUniqueNames\\Program.cs",
+              "RelativeDocumentMoniker": "RecordUniqueNames\\Program.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\LabSetsAmdDictionariesAdvanced\\RecordUniqueNames\\Program.cs",
+              "RelativeToolTip": "RecordUniqueNames\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T21:43:41.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\LabSetsAmdDictionariesAdvanced\\CitiesbyContinentandCountry\\Program.cs",
+              "RelativeDocumentMoniker": "CitiesbyContinentandCountry\\Program.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\LabSetsAmdDictionariesAdvanced\\CitiesbyContinentandCountry\\Program.cs",
+              "RelativeToolTip": "CitiesbyContinentandCountry\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T21:28:28.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\LabSetsAmdDictionariesAdvanced\\ProductShop\\Program.cs",
+              "RelativeDocumentMoniker": "ProductShop\\Program.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\LabSetsAmdDictionariesAdvanced\\ProductShop\\Program.cs",
+              "RelativeToolTip": "ProductShop\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T21:06:25.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\LabSetsAmdDictionariesAdvanced\\Largest3Nums\\Program.cs",
+              "RelativeDocumentMoniker": "Largest3Nums\\Program.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\LabSetsAmdDictionariesAdvanced\\Largest3Nums\\Program.cs",
+              "RelativeToolTip": "Largest3Nums\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T20:55:08.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\LabSetsAmdDictionariesAdvanced\\AverageStudentGrades\\Program.cs",
+              "RelativeDocumentMoniker": "AverageStudentGrades\\Program.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\LabSetsAmdDictionariesAdvanced\\AverageStudentGrades\\Program.cs",
+              "RelativeToolTip": "AverageStudentGrades\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T20:35:51.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\LabSetsAmdDictionariesAdvanced\\CountSameValuesinArray\\Program.cs",
+              "RelativeDocumentMoniker": "CountSameValuesinArray\\Program.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\LabSetsAmdDictionariesAdvanced\\CountSameValuesinArray\\Program.cs",
+              "RelativeToolTip": "CountSameValuesinArray\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T20:22:18.49Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

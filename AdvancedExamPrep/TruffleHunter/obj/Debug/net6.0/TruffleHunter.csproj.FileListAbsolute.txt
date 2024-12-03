@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\AdvancedExamPrep\TruffleHunter\obj\Debug\net6.0\TruffleHunter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\AdvancedExamPrep\TruffleHunter\obj\Debug\net6.0\TruffleHunter.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\TruffleHunter\obj\Debug\net6.0\TruffleHunter.AssemblyInfo.cs
+C:\Users\tedil\source\repos\AdvancedExamPrep\TruffleHunter\obj\Debug\net6.0\TruffleHunter.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\TruffleHunter\bin\Debug\net6.0\TruffleHunter.exe
+C:\Users\tedil\source\repos\AdvancedExamPrep\TruffleHunter\bin\Debug\net6.0\TruffleHunter.deps.json
+C:\Users\tedil\source\repos\AdvancedExamPrep\TruffleHunter\bin\Debug\net6.0\TruffleHunter.runtimeconfig.json
+C:\Users\tedil\source\repos\AdvancedExamPrep\TruffleHunter\bin\Debug\net6.0\TruffleHunter.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\TruffleHunter\bin\Debug\net6.0\TruffleHunter.pdb
+C:\Users\tedil\source\repos\AdvancedExamPrep\TruffleHunter\obj\Debug\net6.0\TruffleHunter.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\TruffleHunter\obj\Debug\net6.0\refint\TruffleHunter.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\TruffleHunter\obj\Debug\net6.0\TruffleHunter.pdb
+C:\Users\tedil\source\repos\AdvancedExamPrep\TruffleHunter\obj\Debug\net6.0\TruffleHunter.genruntimeconfig.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\TruffleHunter\obj\Debug\net6.0\ref\TruffleHunter.dll

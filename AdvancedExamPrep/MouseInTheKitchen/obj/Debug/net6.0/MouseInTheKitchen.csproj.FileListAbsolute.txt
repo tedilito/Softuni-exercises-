@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\AdvancedExamPrep\MouseInTheKitchen\bin\Debug\net6.0\MouseInTheKitchen.exe
+C:\Users\tedil\source\repos\AdvancedExamPrep\MouseInTheKitchen\bin\Debug\net6.0\MouseInTheKitchen.deps.json
+C:\Users\tedil\source\repos\AdvancedExamPrep\MouseInTheKitchen\bin\Debug\net6.0\MouseInTheKitchen.runtimeconfig.json
+C:\Users\tedil\source\repos\AdvancedExamPrep\MouseInTheKitchen\bin\Debug\net6.0\MouseInTheKitchen.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\MouseInTheKitchen\bin\Debug\net6.0\MouseInTheKitchen.pdb
+C:\Users\tedil\source\repos\AdvancedExamPrep\MouseInTheKitchen\obj\Debug\net6.0\MouseInTheKitchen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\AdvancedExamPrep\MouseInTheKitchen\obj\Debug\net6.0\MouseInTheKitchen.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\MouseInTheKitchen\obj\Debug\net6.0\MouseInTheKitchen.AssemblyInfo.cs
+C:\Users\tedil\source\repos\AdvancedExamPrep\MouseInTheKitchen\obj\Debug\net6.0\MouseInTheKitchen.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\MouseInTheKitchen\obj\Debug\net6.0\MouseInTheKitchen.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\MouseInTheKitchen\obj\Debug\net6.0\refint\MouseInTheKitchen.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\MouseInTheKitchen\obj\Debug\net6.0\MouseInTheKitchen.pdb
+C:\Users\tedil\source\repos\AdvancedExamPrep\MouseInTheKitchen\obj\Debug\net6.0\MouseInTheKitchen.genruntimeconfig.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\MouseInTheKitchen\obj\Debug\net6.0\ref\MouseInTheKitchen.dll

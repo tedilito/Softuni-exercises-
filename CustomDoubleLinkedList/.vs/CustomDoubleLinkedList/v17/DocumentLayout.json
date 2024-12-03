@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tedil\\source\\repos\\CustomDoubleLinkedList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{461D602C-9C9A-4DD8-BEA4-50BD0D281E79}|CustomDoubleLinkedList.csproj|c:\\users\\tedil\\source\\repos\\customdoublelinkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{461D602C-9C9A-4DD8-BEA4-50BD0D281E79}|CustomDoubleLinkedList.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{461D602C-9C9A-4DD8-BEA4-50BD0D281E79}|CustomDoubleLinkedList.csproj|c:\\users\\tedil\\source\\repos\\customdoublelinkedlist\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{461D602C-9C9A-4DD8-BEA4-50BD0D281E79}|CustomDoubleLinkedList.csproj|solutionrelative:node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{461D602C-9C9A-4DD8-BEA4-50BD0D281E79}|CustomDoubleLinkedList.csproj|c:\\users\\tedil\\source\\repos\\customdoublelinkedlist\\customdoublylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{461D602C-9C9A-4DD8-BEA4-50BD0D281E79}|CustomDoubleLinkedList.csproj|solutionrelative:customdoublylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomDoublyLinkedList.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\CustomDoubleLinkedList\\CustomDoublyLinkedList.cs",
+              "RelativeDocumentMoniker": "CustomDoublyLinkedList.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\CustomDoubleLinkedList\\CustomDoublyLinkedList.cs",
+              "RelativeToolTip": "CustomDoublyLinkedList.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAGYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T19:00:24.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Node.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\CustomDoubleLinkedList\\Node.cs",
+              "RelativeDocumentMoniker": "Node.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\CustomDoubleLinkedList\\Node.cs",
+              "RelativeToolTip": "Node.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T18:59:27.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\CustomDoubleLinkedList\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\CustomDoubleLinkedList\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T18:53:04.008Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

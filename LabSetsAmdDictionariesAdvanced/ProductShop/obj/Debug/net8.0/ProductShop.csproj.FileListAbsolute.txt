@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\ProductShop\obj\Debug\net8.0\ProductShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\ProductShop\obj\Debug\net8.0\ProductShop.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\ProductShop\obj\Debug\net8.0\ProductShop.AssemblyInfo.cs
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\ProductShop\obj\Debug\net8.0\ProductShop.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\ProductShop\bin\Debug\net8.0\ProductShop.exe
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\ProductShop\bin\Debug\net8.0\ProductShop.deps.json
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\ProductShop\bin\Debug\net8.0\ProductShop.runtimeconfig.json
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\ProductShop\bin\Debug\net8.0\ProductShop.dll
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\ProductShop\bin\Debug\net8.0\ProductShop.pdb
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\ProductShop\obj\Debug\net8.0\ProductShop.dll
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\ProductShop\obj\Debug\net8.0\refint\ProductShop.dll
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\ProductShop\obj\Debug\net8.0\ProductShop.pdb
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\ProductShop\obj\Debug\net8.0\ProductShop.genruntimeconfig.cache
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\ProductShop\obj\Debug\net8.0\ref\ProductShop.dll

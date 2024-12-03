@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\AdvancedExamPrep\MealPlan\obj\Debug\net6.0\MealPlan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\AdvancedExamPrep\MealPlan\obj\Debug\net6.0\MealPlan.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\MealPlan\obj\Debug\net6.0\MealPlan.AssemblyInfo.cs
+C:\Users\tedil\source\repos\AdvancedExamPrep\MealPlan\obj\Debug\net6.0\MealPlan.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\MealPlan\bin\Debug\net6.0\MealPlan.exe
+C:\Users\tedil\source\repos\AdvancedExamPrep\MealPlan\bin\Debug\net6.0\MealPlan.deps.json
+C:\Users\tedil\source\repos\AdvancedExamPrep\MealPlan\bin\Debug\net6.0\MealPlan.runtimeconfig.json
+C:\Users\tedil\source\repos\AdvancedExamPrep\MealPlan\bin\Debug\net6.0\MealPlan.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\MealPlan\bin\Debug\net6.0\MealPlan.pdb
+C:\Users\tedil\source\repos\AdvancedExamPrep\MealPlan\obj\Debug\net6.0\MealPlan.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\MealPlan\obj\Debug\net6.0\refint\MealPlan.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\MealPlan\obj\Debug\net6.0\MealPlan.pdb
+C:\Users\tedil\source\repos\AdvancedExamPrep\MealPlan\obj\Debug\net6.0\MealPlan.genruntimeconfig.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\MealPlan\obj\Debug\net6.0\ref\MealPlan.dll

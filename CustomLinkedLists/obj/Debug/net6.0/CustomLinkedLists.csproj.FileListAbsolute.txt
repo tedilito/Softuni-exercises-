@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\CustomLinkedLists\obj\Debug\net6.0\CustomLinkedLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\CustomLinkedLists\obj\Debug\net6.0\CustomLinkedLists.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\CustomLinkedLists\obj\Debug\net6.0\CustomLinkedLists.AssemblyInfo.cs
+C:\Users\tedil\source\repos\CustomLinkedLists\obj\Debug\net6.0\CustomLinkedLists.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\CustomLinkedLists\bin\Debug\net6.0\CustomLinkedLists.exe
+C:\Users\tedil\source\repos\CustomLinkedLists\bin\Debug\net6.0\CustomLinkedLists.deps.json
+C:\Users\tedil\source\repos\CustomLinkedLists\bin\Debug\net6.0\CustomLinkedLists.runtimeconfig.json
+C:\Users\tedil\source\repos\CustomLinkedLists\bin\Debug\net6.0\CustomLinkedLists.dll
+C:\Users\tedil\source\repos\CustomLinkedLists\bin\Debug\net6.0\CustomLinkedLists.pdb
+C:\Users\tedil\source\repos\CustomLinkedLists\obj\Debug\net6.0\CustomLinkedLists.dll
+C:\Users\tedil\source\repos\CustomLinkedLists\obj\Debug\net6.0\refint\CustomLinkedLists.dll
+C:\Users\tedil\source\repos\CustomLinkedLists\obj\Debug\net6.0\CustomLinkedLists.pdb
+C:\Users\tedil\source\repos\CustomLinkedLists\obj\Debug\net6.0\CustomLinkedLists.genruntimeconfig.cache
+C:\Users\tedil\source\repos\CustomLinkedLists\obj\Debug\net6.0\ref\CustomLinkedLists.dll

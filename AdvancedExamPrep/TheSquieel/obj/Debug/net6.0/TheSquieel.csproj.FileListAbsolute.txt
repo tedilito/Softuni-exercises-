@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\AdvancedExamPrep\TheSquieel\bin\Debug\net6.0\TheSquieel.exe
+C:\Users\tedil\source\repos\AdvancedExamPrep\TheSquieel\bin\Debug\net6.0\TheSquieel.deps.json
+C:\Users\tedil\source\repos\AdvancedExamPrep\TheSquieel\bin\Debug\net6.0\TheSquieel.runtimeconfig.json
+C:\Users\tedil\source\repos\AdvancedExamPrep\TheSquieel\bin\Debug\net6.0\TheSquieel.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\TheSquieel\bin\Debug\net6.0\TheSquieel.pdb
+C:\Users\tedil\source\repos\AdvancedExamPrep\TheSquieel\obj\Debug\net6.0\TheSquieel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\AdvancedExamPrep\TheSquieel\obj\Debug\net6.0\TheSquieel.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\TheSquieel\obj\Debug\net6.0\TheSquieel.AssemblyInfo.cs
+C:\Users\tedil\source\repos\AdvancedExamPrep\TheSquieel\obj\Debug\net6.0\TheSquieel.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\TheSquieel\obj\Debug\net6.0\TheSquieel.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\TheSquieel\obj\Debug\net6.0\refint\TheSquieel.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\TheSquieel\obj\Debug\net6.0\TheSquieel.pdb
+C:\Users\tedil\source\repos\AdvancedExamPrep\TheSquieel\obj\Debug\net6.0\TheSquieel.genruntimeconfig.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\TheSquieel\obj\Debug\net6.0\ref\TheSquieel.dll

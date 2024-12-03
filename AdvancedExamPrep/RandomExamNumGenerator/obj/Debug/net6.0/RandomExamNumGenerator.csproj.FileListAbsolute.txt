@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\AdvancedExamPrep\RandomExamNumGenerator\bin\Debug\net6.0\RandomExamNumGenerator.exe
+C:\Users\tedil\source\repos\AdvancedExamPrep\RandomExamNumGenerator\bin\Debug\net6.0\RandomExamNumGenerator.deps.json
+C:\Users\tedil\source\repos\AdvancedExamPrep\RandomExamNumGenerator\bin\Debug\net6.0\RandomExamNumGenerator.runtimeconfig.json
+C:\Users\tedil\source\repos\AdvancedExamPrep\RandomExamNumGenerator\bin\Debug\net6.0\RandomExamNumGenerator.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\RandomExamNumGenerator\bin\Debug\net6.0\RandomExamNumGenerator.pdb
+C:\Users\tedil\source\repos\AdvancedExamPrep\RandomExamNumGenerator\obj\Debug\net6.0\RandomExamNumGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\AdvancedExamPrep\RandomExamNumGenerator\obj\Debug\net6.0\RandomExamNumGenerator.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\RandomExamNumGenerator\obj\Debug\net6.0\RandomExamNumGenerator.AssemblyInfo.cs
+C:\Users\tedil\source\repos\AdvancedExamPrep\RandomExamNumGenerator\obj\Debug\net6.0\RandomExamNumGenerator.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\RandomExamNumGenerator\obj\Debug\net6.0\RandomExamNumGenerator.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\RandomExamNumGenerator\obj\Debug\net6.0\refint\RandomExamNumGenerator.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\RandomExamNumGenerator\obj\Debug\net6.0\RandomExamNumGenerator.pdb
+C:\Users\tedil\source\repos\AdvancedExamPrep\RandomExamNumGenerator\obj\Debug\net6.0\RandomExamNumGenerator.genruntimeconfig.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\RandomExamNumGenerator\obj\Debug\net6.0\ref\RandomExamNumGenerator.dll

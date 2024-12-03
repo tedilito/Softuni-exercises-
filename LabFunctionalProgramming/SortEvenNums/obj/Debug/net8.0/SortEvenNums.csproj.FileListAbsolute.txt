@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\LabFunctionalProgramming\SortEvenNums\bin\Debug\net8.0\SortEvenNums.exe
+C:\Users\tedil\source\repos\LabFunctionalProgramming\SortEvenNums\bin\Debug\net8.0\SortEvenNums.deps.json
+C:\Users\tedil\source\repos\LabFunctionalProgramming\SortEvenNums\bin\Debug\net8.0\SortEvenNums.runtimeconfig.json
+C:\Users\tedil\source\repos\LabFunctionalProgramming\SortEvenNums\bin\Debug\net8.0\SortEvenNums.dll
+C:\Users\tedil\source\repos\LabFunctionalProgramming\SortEvenNums\bin\Debug\net8.0\SortEvenNums.pdb
+C:\Users\tedil\source\repos\LabFunctionalProgramming\SortEvenNums\obj\Debug\net8.0\SortEvenNums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\LabFunctionalProgramming\SortEvenNums\obj\Debug\net8.0\SortEvenNums.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\LabFunctionalProgramming\SortEvenNums\obj\Debug\net8.0\SortEvenNums.AssemblyInfo.cs
+C:\Users\tedil\source\repos\LabFunctionalProgramming\SortEvenNums\obj\Debug\net8.0\SortEvenNums.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\LabFunctionalProgramming\SortEvenNums\obj\Debug\net8.0\SortEvenNums.dll
+C:\Users\tedil\source\repos\LabFunctionalProgramming\SortEvenNums\obj\Debug\net8.0\refint\SortEvenNums.dll
+C:\Users\tedil\source\repos\LabFunctionalProgramming\SortEvenNums\obj\Debug\net8.0\SortEvenNums.pdb
+C:\Users\tedil\source\repos\LabFunctionalProgramming\SortEvenNums\obj\Debug\net8.0\SortEvenNums.genruntimeconfig.cache
+C:\Users\tedil\source\repos\LabFunctionalProgramming\SortEvenNums\obj\Debug\net8.0\ref\SortEvenNums.dll

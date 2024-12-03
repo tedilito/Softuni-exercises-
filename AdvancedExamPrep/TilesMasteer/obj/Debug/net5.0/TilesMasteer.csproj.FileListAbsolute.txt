@@ -1,0 +1,15 @@
+C:\Users\tedil\source\repos\AdvancedExamPrep\TilesMasteer\bin\Debug\net5.0\TilesMasteer.exe
+C:\Users\tedil\source\repos\AdvancedExamPrep\TilesMasteer\bin\Debug\net5.0\TilesMasteer.deps.json
+C:\Users\tedil\source\repos\AdvancedExamPrep\TilesMasteer\bin\Debug\net5.0\TilesMasteer.runtimeconfig.json
+C:\Users\tedil\source\repos\AdvancedExamPrep\TilesMasteer\bin\Debug\net5.0\TilesMasteer.runtimeconfig.dev.json
+C:\Users\tedil\source\repos\AdvancedExamPrep\TilesMasteer\bin\Debug\net5.0\TilesMasteer.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\TilesMasteer\bin\Debug\net5.0\TilesMasteer.pdb
+C:\Users\tedil\source\repos\AdvancedExamPrep\TilesMasteer\obj\Debug\net5.0\TilesMasteer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\AdvancedExamPrep\TilesMasteer\obj\Debug\net5.0\TilesMasteer.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\TilesMasteer\obj\Debug\net5.0\TilesMasteer.AssemblyInfo.cs
+C:\Users\tedil\source\repos\AdvancedExamPrep\TilesMasteer\obj\Debug\net5.0\TilesMasteer.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\TilesMasteer\obj\Debug\net5.0\TilesMasteer.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\TilesMasteer\obj\Debug\net5.0\refint\TilesMasteer.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\TilesMasteer\obj\Debug\net5.0\TilesMasteer.pdb
+C:\Users\tedil\source\repos\AdvancedExamPrep\TilesMasteer\obj\Debug\net5.0\TilesMasteer.genruntimeconfig.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\TilesMasteer\obj\Debug\net5.0\ref\TilesMasteer.dll

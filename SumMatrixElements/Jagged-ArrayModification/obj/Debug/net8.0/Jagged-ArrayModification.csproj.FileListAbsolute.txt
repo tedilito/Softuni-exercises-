@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\SumMatrixElements\Jagged-ArrayModification\bin\Debug\net8.0\Jagged-ArrayModification.exe
+C:\Users\tedil\source\repos\SumMatrixElements\Jagged-ArrayModification\bin\Debug\net8.0\Jagged-ArrayModification.deps.json
+C:\Users\tedil\source\repos\SumMatrixElements\Jagged-ArrayModification\bin\Debug\net8.0\Jagged-ArrayModification.runtimeconfig.json
+C:\Users\tedil\source\repos\SumMatrixElements\Jagged-ArrayModification\bin\Debug\net8.0\Jagged-ArrayModification.dll
+C:\Users\tedil\source\repos\SumMatrixElements\Jagged-ArrayModification\bin\Debug\net8.0\Jagged-ArrayModification.pdb
+C:\Users\tedil\source\repos\SumMatrixElements\Jagged-ArrayModification\obj\Debug\net8.0\Jagged-ArrayModification.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\SumMatrixElements\Jagged-ArrayModification\obj\Debug\net8.0\Jagged-ArrayModification.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\SumMatrixElements\Jagged-ArrayModification\obj\Debug\net8.0\Jagged-ArrayModification.AssemblyInfo.cs
+C:\Users\tedil\source\repos\SumMatrixElements\Jagged-ArrayModification\obj\Debug\net8.0\Jagged-ArrayModification.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\SumMatrixElements\Jagged-ArrayModification\obj\Debug\net8.0\Jagged-ArrayModification.dll
+C:\Users\tedil\source\repos\SumMatrixElements\Jagged-ArrayModification\obj\Debug\net8.0\refint\Jagged-ArrayModification.dll
+C:\Users\tedil\source\repos\SumMatrixElements\Jagged-ArrayModification\obj\Debug\net8.0\Jagged-ArrayModification.pdb
+C:\Users\tedil\source\repos\SumMatrixElements\Jagged-ArrayModification\obj\Debug\net8.0\Jagged-ArrayModification.genruntimeconfig.cache
+C:\Users\tedil\source\repos\SumMatrixElements\Jagged-ArrayModification\obj\Debug\net8.0\ref\Jagged-ArrayModification.dll

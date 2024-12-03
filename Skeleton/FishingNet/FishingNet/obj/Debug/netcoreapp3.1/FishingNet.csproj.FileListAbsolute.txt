@@ -1,0 +1,13 @@
+C:\Users\tedil\Downloads\Skeleton\FishingNet\FishingNet\bin\Debug\netcoreapp3.1\FishingNet.exe
+C:\Users\tedil\Downloads\Skeleton\FishingNet\FishingNet\bin\Debug\netcoreapp3.1\FishingNet.deps.json
+C:\Users\tedil\Downloads\Skeleton\FishingNet\FishingNet\bin\Debug\netcoreapp3.1\FishingNet.runtimeconfig.json
+C:\Users\tedil\Downloads\Skeleton\FishingNet\FishingNet\bin\Debug\netcoreapp3.1\FishingNet.runtimeconfig.dev.json
+C:\Users\tedil\Downloads\Skeleton\FishingNet\FishingNet\bin\Debug\netcoreapp3.1\FishingNet.dll
+C:\Users\tedil\Downloads\Skeleton\FishingNet\FishingNet\bin\Debug\netcoreapp3.1\FishingNet.pdb
+C:\Users\tedil\Downloads\Skeleton\FishingNet\FishingNet\obj\Debug\netcoreapp3.1\FishingNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\Downloads\Skeleton\FishingNet\FishingNet\obj\Debug\netcoreapp3.1\FishingNet.AssemblyInfoInputs.cache
+C:\Users\tedil\Downloads\Skeleton\FishingNet\FishingNet\obj\Debug\netcoreapp3.1\FishingNet.AssemblyInfo.cs
+C:\Users\tedil\Downloads\Skeleton\FishingNet\FishingNet\obj\Debug\netcoreapp3.1\FishingNet.csproj.CoreCompileInputs.cache
+C:\Users\tedil\Downloads\Skeleton\FishingNet\FishingNet\obj\Debug\netcoreapp3.1\FishingNet.dll
+C:\Users\tedil\Downloads\Skeleton\FishingNet\FishingNet\obj\Debug\netcoreapp3.1\FishingNet.pdb
+C:\Users\tedil\Downloads\Skeleton\FishingNet\FishingNet\obj\Debug\netcoreapp3.1\FishingNet.genruntimeconfig.cache

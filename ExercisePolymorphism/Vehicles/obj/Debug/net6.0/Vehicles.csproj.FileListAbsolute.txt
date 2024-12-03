@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\ExercisePolymorphism\Vehicles\bin\Debug\net6.0\Vehicles.exe
+C:\Users\tedil\source\repos\ExercisePolymorphism\Vehicles\bin\Debug\net6.0\Vehicles.deps.json
+C:\Users\tedil\source\repos\ExercisePolymorphism\Vehicles\bin\Debug\net6.0\Vehicles.runtimeconfig.json
+C:\Users\tedil\source\repos\ExercisePolymorphism\Vehicles\bin\Debug\net6.0\Vehicles.dll
+C:\Users\tedil\source\repos\ExercisePolymorphism\Vehicles\bin\Debug\net6.0\Vehicles.pdb
+C:\Users\tedil\source\repos\ExercisePolymorphism\Vehicles\obj\Debug\net6.0\Vehicles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\ExercisePolymorphism\Vehicles\obj\Debug\net6.0\Vehicles.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\ExercisePolymorphism\Vehicles\obj\Debug\net6.0\Vehicles.AssemblyInfo.cs
+C:\Users\tedil\source\repos\ExercisePolymorphism\Vehicles\obj\Debug\net6.0\Vehicles.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\ExercisePolymorphism\Vehicles\obj\Debug\net6.0\Vehicles.dll
+C:\Users\tedil\source\repos\ExercisePolymorphism\Vehicles\obj\Debug\net6.0\refint\Vehicles.dll
+C:\Users\tedil\source\repos\ExercisePolymorphism\Vehicles\obj\Debug\net6.0\Vehicles.pdb
+C:\Users\tedil\source\repos\ExercisePolymorphism\Vehicles\obj\Debug\net6.0\Vehicles.genruntimeconfig.cache
+C:\Users\tedil\source\repos\ExercisePolymorphism\Vehicles\obj\Debug\net6.0\ref\Vehicles.dll

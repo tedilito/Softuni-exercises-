@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\AdvancedExamPrep\WildSurvival\bin\Debug\net6.0\WildSurvival.exe
+C:\Users\tedil\source\repos\AdvancedExamPrep\WildSurvival\bin\Debug\net6.0\WildSurvival.deps.json
+C:\Users\tedil\source\repos\AdvancedExamPrep\WildSurvival\bin\Debug\net6.0\WildSurvival.runtimeconfig.json
+C:\Users\tedil\source\repos\AdvancedExamPrep\WildSurvival\bin\Debug\net6.0\WildSurvival.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\WildSurvival\bin\Debug\net6.0\WildSurvival.pdb
+C:\Users\tedil\source\repos\AdvancedExamPrep\WildSurvival\obj\Debug\net6.0\WildSurvival.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\AdvancedExamPrep\WildSurvival\obj\Debug\net6.0\WildSurvival.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\WildSurvival\obj\Debug\net6.0\WildSurvival.AssemblyInfo.cs
+C:\Users\tedil\source\repos\AdvancedExamPrep\WildSurvival\obj\Debug\net6.0\WildSurvival.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\WildSurvival\obj\Debug\net6.0\WildSurvival.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\WildSurvival\obj\Debug\net6.0\refint\WildSurvival.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\WildSurvival\obj\Debug\net6.0\WildSurvival.pdb
+C:\Users\tedil\source\repos\AdvancedExamPrep\WildSurvival\obj\Debug\net6.0\WildSurvival.genruntimeconfig.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\WildSurvival\obj\Debug\net6.0\ref\WildSurvival.dll

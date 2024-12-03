@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\AdvancedExamPrep\ClearSkies\bin\Debug\net6.0\ClearSkies.exe
+C:\Users\tedil\source\repos\AdvancedExamPrep\ClearSkies\bin\Debug\net6.0\ClearSkies.deps.json
+C:\Users\tedil\source\repos\AdvancedExamPrep\ClearSkies\bin\Debug\net6.0\ClearSkies.runtimeconfig.json
+C:\Users\tedil\source\repos\AdvancedExamPrep\ClearSkies\bin\Debug\net6.0\ClearSkies.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\ClearSkies\bin\Debug\net6.0\ClearSkies.pdb
+C:\Users\tedil\source\repos\AdvancedExamPrep\ClearSkies\obj\Debug\net6.0\ClearSkies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\AdvancedExamPrep\ClearSkies\obj\Debug\net6.0\ClearSkies.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\ClearSkies\obj\Debug\net6.0\ClearSkies.AssemblyInfo.cs
+C:\Users\tedil\source\repos\AdvancedExamPrep\ClearSkies\obj\Debug\net6.0\ClearSkies.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\ClearSkies\obj\Debug\net6.0\ClearSkies.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\ClearSkies\obj\Debug\net6.0\refint\ClearSkies.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\ClearSkies\obj\Debug\net6.0\ClearSkies.pdb
+C:\Users\tedil\source\repos\AdvancedExamPrep\ClearSkies\obj\Debug\net6.0\ClearSkies.genruntimeconfig.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\ClearSkies\obj\Debug\net6.0\ref\ClearSkies.dll

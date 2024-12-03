@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\SumMatrixElements\SumMatrixElements\bin\Debug\net8.0\SumMatrixElements.exe
+C:\Users\tedil\source\repos\SumMatrixElements\SumMatrixElements\bin\Debug\net8.0\SumMatrixElements.deps.json
+C:\Users\tedil\source\repos\SumMatrixElements\SumMatrixElements\bin\Debug\net8.0\SumMatrixElements.runtimeconfig.json
+C:\Users\tedil\source\repos\SumMatrixElements\SumMatrixElements\bin\Debug\net8.0\SumMatrixElements.dll
+C:\Users\tedil\source\repos\SumMatrixElements\SumMatrixElements\bin\Debug\net8.0\SumMatrixElements.pdb
+C:\Users\tedil\source\repos\SumMatrixElements\SumMatrixElements\obj\Debug\net8.0\SumMatrixElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\SumMatrixElements\SumMatrixElements\obj\Debug\net8.0\SumMatrixElements.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\SumMatrixElements\SumMatrixElements\obj\Debug\net8.0\SumMatrixElements.AssemblyInfo.cs
+C:\Users\tedil\source\repos\SumMatrixElements\SumMatrixElements\obj\Debug\net8.0\SumMatrixElements.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\SumMatrixElements\SumMatrixElements\obj\Debug\net8.0\SumMatrixElements.dll
+C:\Users\tedil\source\repos\SumMatrixElements\SumMatrixElements\obj\Debug\net8.0\refint\SumMatrixElements.dll
+C:\Users\tedil\source\repos\SumMatrixElements\SumMatrixElements\obj\Debug\net8.0\SumMatrixElements.pdb
+C:\Users\tedil\source\repos\SumMatrixElements\SumMatrixElements\obj\Debug\net8.0\SumMatrixElements.genruntimeconfig.cache
+C:\Users\tedil\source\repos\SumMatrixElements\SumMatrixElements\obj\Debug\net8.0\ref\SumMatrixElements.dll

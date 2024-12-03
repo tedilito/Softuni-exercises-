@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\LabFunctionalProgramming\CountUppercaseWords\bin\Debug\net8.0\CountUppercaseWords.exe
+C:\Users\tedil\source\repos\LabFunctionalProgramming\CountUppercaseWords\bin\Debug\net8.0\CountUppercaseWords.deps.json
+C:\Users\tedil\source\repos\LabFunctionalProgramming\CountUppercaseWords\bin\Debug\net8.0\CountUppercaseWords.runtimeconfig.json
+C:\Users\tedil\source\repos\LabFunctionalProgramming\CountUppercaseWords\bin\Debug\net8.0\CountUppercaseWords.dll
+C:\Users\tedil\source\repos\LabFunctionalProgramming\CountUppercaseWords\bin\Debug\net8.0\CountUppercaseWords.pdb
+C:\Users\tedil\source\repos\LabFunctionalProgramming\CountUppercaseWords\obj\Debug\net8.0\CountUppercaseWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\LabFunctionalProgramming\CountUppercaseWords\obj\Debug\net8.0\CountUppercaseWords.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\LabFunctionalProgramming\CountUppercaseWords\obj\Debug\net8.0\CountUppercaseWords.AssemblyInfo.cs
+C:\Users\tedil\source\repos\LabFunctionalProgramming\CountUppercaseWords\obj\Debug\net8.0\CountUppercaseWords.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\LabFunctionalProgramming\CountUppercaseWords\obj\Debug\net8.0\CountUppercaseWords.dll
+C:\Users\tedil\source\repos\LabFunctionalProgramming\CountUppercaseWords\obj\Debug\net8.0\refint\CountUppercaseWords.dll
+C:\Users\tedil\source\repos\LabFunctionalProgramming\CountUppercaseWords\obj\Debug\net8.0\CountUppercaseWords.pdb
+C:\Users\tedil\source\repos\LabFunctionalProgramming\CountUppercaseWords\obj\Debug\net8.0\CountUppercaseWords.genruntimeconfig.cache
+C:\Users\tedil\source\repos\LabFunctionalProgramming\CountUppercaseWords\obj\Debug\net8.0\ref\CountUppercaseWords.dll

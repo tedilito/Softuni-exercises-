@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\ExceptionsandErrorHandlingLab\MoneyTransaction\bin\Debug\net6.0\MoneyTransaction.exe
+C:\Users\tedil\source\repos\ExceptionsandErrorHandlingLab\MoneyTransaction\bin\Debug\net6.0\MoneyTransaction.deps.json
+C:\Users\tedil\source\repos\ExceptionsandErrorHandlingLab\MoneyTransaction\bin\Debug\net6.0\MoneyTransaction.runtimeconfig.json
+C:\Users\tedil\source\repos\ExceptionsandErrorHandlingLab\MoneyTransaction\bin\Debug\net6.0\MoneyTransaction.dll
+C:\Users\tedil\source\repos\ExceptionsandErrorHandlingLab\MoneyTransaction\bin\Debug\net6.0\MoneyTransaction.pdb
+C:\Users\tedil\source\repos\ExceptionsandErrorHandlingLab\MoneyTransaction\obj\Debug\net6.0\MoneyTransaction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\ExceptionsandErrorHandlingLab\MoneyTransaction\obj\Debug\net6.0\MoneyTransaction.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\ExceptionsandErrorHandlingLab\MoneyTransaction\obj\Debug\net6.0\MoneyTransaction.AssemblyInfo.cs
+C:\Users\tedil\source\repos\ExceptionsandErrorHandlingLab\MoneyTransaction\obj\Debug\net6.0\MoneyTransaction.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\ExceptionsandErrorHandlingLab\MoneyTransaction\obj\Debug\net6.0\MoneyTransaction.dll
+C:\Users\tedil\source\repos\ExceptionsandErrorHandlingLab\MoneyTransaction\obj\Debug\net6.0\refint\MoneyTransaction.dll
+C:\Users\tedil\source\repos\ExceptionsandErrorHandlingLab\MoneyTransaction\obj\Debug\net6.0\MoneyTransaction.pdb
+C:\Users\tedil\source\repos\ExceptionsandErrorHandlingLab\MoneyTransaction\obj\Debug\net6.0\MoneyTransaction.genruntimeconfig.cache
+C:\Users\tedil\source\repos\ExceptionsandErrorHandlingLab\MoneyTransaction\obj\Debug\net6.0\ref\MoneyTransaction.dll

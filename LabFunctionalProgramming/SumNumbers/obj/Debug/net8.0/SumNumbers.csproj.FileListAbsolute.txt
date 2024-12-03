@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\LabFunctionalProgramming\SumNumbers\bin\Debug\net8.0\SumNumbers.exe
+C:\Users\tedil\source\repos\LabFunctionalProgramming\SumNumbers\bin\Debug\net8.0\SumNumbers.deps.json
+C:\Users\tedil\source\repos\LabFunctionalProgramming\SumNumbers\bin\Debug\net8.0\SumNumbers.runtimeconfig.json
+C:\Users\tedil\source\repos\LabFunctionalProgramming\SumNumbers\bin\Debug\net8.0\SumNumbers.dll
+C:\Users\tedil\source\repos\LabFunctionalProgramming\SumNumbers\bin\Debug\net8.0\SumNumbers.pdb
+C:\Users\tedil\source\repos\LabFunctionalProgramming\SumNumbers\obj\Debug\net8.0\SumNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\LabFunctionalProgramming\SumNumbers\obj\Debug\net8.0\SumNumbers.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\LabFunctionalProgramming\SumNumbers\obj\Debug\net8.0\SumNumbers.AssemblyInfo.cs
+C:\Users\tedil\source\repos\LabFunctionalProgramming\SumNumbers\obj\Debug\net8.0\SumNumbers.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\LabFunctionalProgramming\SumNumbers\obj\Debug\net8.0\SumNumbers.dll
+C:\Users\tedil\source\repos\LabFunctionalProgramming\SumNumbers\obj\Debug\net8.0\refint\SumNumbers.dll
+C:\Users\tedil\source\repos\LabFunctionalProgramming\SumNumbers\obj\Debug\net8.0\SumNumbers.pdb
+C:\Users\tedil\source\repos\LabFunctionalProgramming\SumNumbers\obj\Debug\net8.0\SumNumbers.genruntimeconfig.cache
+C:\Users\tedil\source\repos\LabFunctionalProgramming\SumNumbers\obj\Debug\net8.0\ref\SumNumbers.dll

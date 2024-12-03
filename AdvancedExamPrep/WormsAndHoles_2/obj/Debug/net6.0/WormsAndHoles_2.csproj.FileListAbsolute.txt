@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\AdvancedExamPrep\WormsAndHoles_2\bin\Debug\net6.0\WormsAndHoles_2.exe
+C:\Users\tedil\source\repos\AdvancedExamPrep\WormsAndHoles_2\bin\Debug\net6.0\WormsAndHoles_2.deps.json
+C:\Users\tedil\source\repos\AdvancedExamPrep\WormsAndHoles_2\bin\Debug\net6.0\WormsAndHoles_2.runtimeconfig.json
+C:\Users\tedil\source\repos\AdvancedExamPrep\WormsAndHoles_2\bin\Debug\net6.0\WormsAndHoles_2.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\WormsAndHoles_2\bin\Debug\net6.0\WormsAndHoles_2.pdb
+C:\Users\tedil\source\repos\AdvancedExamPrep\WormsAndHoles_2\obj\Debug\net6.0\WormsAndHoles_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\AdvancedExamPrep\WormsAndHoles_2\obj\Debug\net6.0\WormsAndHoles_2.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\WormsAndHoles_2\obj\Debug\net6.0\WormsAndHoles_2.AssemblyInfo.cs
+C:\Users\tedil\source\repos\AdvancedExamPrep\WormsAndHoles_2\obj\Debug\net6.0\WormsAndHoles_2.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\WormsAndHoles_2\obj\Debug\net6.0\WormsAndHoles_2.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\WormsAndHoles_2\obj\Debug\net6.0\refint\WormsAndHoles_2.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\WormsAndHoles_2\obj\Debug\net6.0\WormsAndHoles_2.pdb
+C:\Users\tedil\source\repos\AdvancedExamPrep\WormsAndHoles_2\obj\Debug\net6.0\WormsAndHoles_2.genruntimeconfig.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\WormsAndHoles_2\obj\Debug\net6.0\ref\WormsAndHoles_2.dll

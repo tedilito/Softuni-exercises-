@@ -1,0 +1,14 @@
+C:\Users\tedil\Downloads\Skeleton (1)\EstateAgency\bin\Debug\net6.0\EstateAgency.exe
+C:\Users\tedil\Downloads\Skeleton (1)\EstateAgency\bin\Debug\net6.0\EstateAgency.deps.json
+C:\Users\tedil\Downloads\Skeleton (1)\EstateAgency\bin\Debug\net6.0\EstateAgency.runtimeconfig.json
+C:\Users\tedil\Downloads\Skeleton (1)\EstateAgency\bin\Debug\net6.0\EstateAgency.dll
+C:\Users\tedil\Downloads\Skeleton (1)\EstateAgency\bin\Debug\net6.0\EstateAgency.pdb
+C:\Users\tedil\Downloads\Skeleton (1)\EstateAgency\obj\Debug\net6.0\EstateAgency.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\Downloads\Skeleton (1)\EstateAgency\obj\Debug\net6.0\EstateAgency.AssemblyInfoInputs.cache
+C:\Users\tedil\Downloads\Skeleton (1)\EstateAgency\obj\Debug\net6.0\EstateAgency.AssemblyInfo.cs
+C:\Users\tedil\Downloads\Skeleton (1)\EstateAgency\obj\Debug\net6.0\EstateAgency.csproj.CoreCompileInputs.cache
+C:\Users\tedil\Downloads\Skeleton (1)\EstateAgency\obj\Debug\net6.0\EstateAgency.dll
+C:\Users\tedil\Downloads\Skeleton (1)\EstateAgency\obj\Debug\net6.0\refint\EstateAgency.dll
+C:\Users\tedil\Downloads\Skeleton (1)\EstateAgency\obj\Debug\net6.0\EstateAgency.pdb
+C:\Users\tedil\Downloads\Skeleton (1)\EstateAgency\obj\Debug\net6.0\EstateAgency.genruntimeconfig.cache
+C:\Users\tedil\Downloads\Skeleton (1)\EstateAgency\obj\Debug\net6.0\ref\EstateAgency.dll

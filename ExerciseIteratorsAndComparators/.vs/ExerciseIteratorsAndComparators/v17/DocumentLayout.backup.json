@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tedil\\source\\repos\\ExerciseIteratorsAndComparators\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB38FB18-6ED5-4B69-B1A4-4C4546276994}|ComparingObjects\\ComparingObjects.csproj|c:\\users\\tedil\\source\\repos\\exerciseiteratorsandcomparators\\comparingobjects\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB38FB18-6ED5-4B69-B1A4-4C4546276994}|ComparingObjects\\ComparingObjects.csproj|solutionrelative:comparingobjects\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB38FB18-6ED5-4B69-B1A4-4C4546276994}|ComparingObjects\\ComparingObjects.csproj|c:\\users\\tedil\\source\\repos\\exerciseiteratorsandcomparators\\comparingobjects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB38FB18-6ED5-4B69-B1A4-4C4546276994}|ComparingObjects\\ComparingObjects.csproj|solutionrelative:comparingobjects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37AECDB1-764E-461E-B343-417AE895E140}|Froggy\\Froggy.csproj|c:\\users\\tedil\\source\\repos\\exerciseiteratorsandcomparators\\froggy\\lake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37AECDB1-764E-461E-B343-417AE895E140}|Froggy\\Froggy.csproj|solutionrelative:froggy\\lake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37AECDB1-764E-461E-B343-417AE895E140}|Froggy\\Froggy.csproj|c:\\users\\tedil\\source\\repos\\exerciseiteratorsandcomparators\\froggy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37AECDB1-764E-461E-B343-417AE895E140}|Froggy\\Froggy.csproj|solutionrelative:froggy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tedil\\source\\repos\\CustomListStackAndQueue\\CustomStack\\CustomStack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{875AF002-29E6-4C9B-A77D-B5AF527127CA}|ListyIterator\\ListyIterator.csproj|c:\\users\\tedil\\source\\repos\\exerciseiteratorsandcomparators\\listyiterator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{875AF002-29E6-4C9B-A77D-B5AF527127CA}|ListyIterator\\ListyIterator.csproj|solutionrelative:listyiterator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{875AF002-29E6-4C9B-A77D-B5AF527127CA}|ListyIterator\\ListyIterator.csproj|c:\\users\\tedil\\source\\repos\\exerciseiteratorsandcomparators\\listyiterator\\listyiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{875AF002-29E6-4C9B-A77D-B5AF527127CA}|ListyIterator\\ListyIterator.csproj|solutionrelative:listyiterator\\listyiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExerciseIteratorsAndComparators\\ComparingObjects\\Person.cs",
+              "RelativeDocumentMoniker": "ComparingObjects\\Person.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExerciseIteratorsAndComparators\\ComparingObjects\\Person.cs",
+              "RelativeToolTip": "ComparingObjects\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T10:43:12.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExerciseIteratorsAndComparators\\ComparingObjects\\Program.cs",
+              "RelativeDocumentMoniker": "ComparingObjects\\Program.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExerciseIteratorsAndComparators\\ComparingObjects\\Program.cs",
+              "RelativeToolTip": "ComparingObjects\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T10:42:00.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lake.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExerciseIteratorsAndComparators\\Froggy\\Lake.cs",
+              "RelativeDocumentMoniker": "Froggy\\Lake.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExerciseIteratorsAndComparators\\Froggy\\Lake.cs",
+              "RelativeToolTip": "Froggy\\Lake.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T10:26:40.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExerciseIteratorsAndComparators\\Froggy\\Program.cs",
+              "RelativeDocumentMoniker": "Froggy\\Program.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExerciseIteratorsAndComparators\\Froggy\\Program.cs",
+              "RelativeToolTip": "Froggy\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T10:25:58.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomStack.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\CustomListStackAndQueue\\CustomStack\\CustomStack.cs",
+              "RelativeDocumentMoniker": "..\\CustomListStackAndQueue\\CustomStack\\CustomStack.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\CustomListStackAndQueue\\CustomStack\\CustomStack.cs",
+              "RelativeToolTip": "..\\CustomListStackAndQueue\\CustomStack\\CustomStack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T10:18:22.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "listyIterator.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExerciseIteratorsAndComparators\\ListyIterator\\listyIterator.cs",
+              "RelativeDocumentMoniker": "ListyIterator\\listyIterator.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExerciseIteratorsAndComparators\\ListyIterator\\listyIterator.cs",
+              "RelativeToolTip": "ListyIterator\\listyIterator.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T18:57:41.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExerciseIteratorsAndComparators\\ListyIterator\\Program.cs",
+              "RelativeDocumentMoniker": "ListyIterator\\Program.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExerciseIteratorsAndComparators\\ListyIterator\\Program.cs",
+              "RelativeToolTip": "ListyIterator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T18:56:42.704Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

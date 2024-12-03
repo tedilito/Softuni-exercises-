@@ -1,0 +1,14 @@
+C:\Users\tedil\Downloads\Skeleton_6.0 (1)\obj\Debug\net6.0\ShoeStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\Downloads\Skeleton_6.0 (1)\obj\Debug\net6.0\ShoeStore.AssemblyInfoInputs.cache
+C:\Users\tedil\Downloads\Skeleton_6.0 (1)\obj\Debug\net6.0\ShoeStore.AssemblyInfo.cs
+C:\Users\tedil\Downloads\Skeleton_6.0 (1)\obj\Debug\net6.0\ShoeStore.csproj.CoreCompileInputs.cache
+C:\Users\tedil\Downloads\Skeleton_6.0 (1)\bin\Debug\net6.0\ShoeStore.exe
+C:\Users\tedil\Downloads\Skeleton_6.0 (1)\bin\Debug\net6.0\ShoeStore.deps.json
+C:\Users\tedil\Downloads\Skeleton_6.0 (1)\bin\Debug\net6.0\ShoeStore.runtimeconfig.json
+C:\Users\tedil\Downloads\Skeleton_6.0 (1)\bin\Debug\net6.0\ShoeStore.dll
+C:\Users\tedil\Downloads\Skeleton_6.0 (1)\bin\Debug\net6.0\ShoeStore.pdb
+C:\Users\tedil\Downloads\Skeleton_6.0 (1)\obj\Debug\net6.0\ShoeStore.dll
+C:\Users\tedil\Downloads\Skeleton_6.0 (1)\obj\Debug\net6.0\refint\ShoeStore.dll
+C:\Users\tedil\Downloads\Skeleton_6.0 (1)\obj\Debug\net6.0\ShoeStore.pdb
+C:\Users\tedil\Downloads\Skeleton_6.0 (1)\obj\Debug\net6.0\ShoeStore.genruntimeconfig.cache
+C:\Users\tedil\Downloads\Skeleton_6.0 (1)\obj\Debug\net6.0\ref\ShoeStore.dll

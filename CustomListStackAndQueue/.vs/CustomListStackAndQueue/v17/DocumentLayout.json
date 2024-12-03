@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tedil\\source\\repos\\CustomListStackAndQueue\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C88CAAC-71C4-4D5B-AB60-B7F032BAB2F0}|CustomStack\\CustomStack.csproj|c:\\users\\tedil\\source\\repos\\customliststackandqueue\\customstack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C88CAAC-71C4-4D5B-AB60-B7F032BAB2F0}|CustomStack\\CustomStack.csproj|solutionrelative:customstack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C88CAAC-71C4-4D5B-AB60-B7F032BAB2F0}|CustomStack\\CustomStack.csproj|c:\\users\\tedil\\source\\repos\\customliststackandqueue\\customstack\\customstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C88CAAC-71C4-4D5B-AB60-B7F032BAB2F0}|CustomStack\\CustomStack.csproj|solutionrelative:customstack\\customstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomStack.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\CustomListStackAndQueue\\CustomStack\\CustomStack.cs",
+              "RelativeDocumentMoniker": "CustomStack\\CustomStack.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\CustomListStackAndQueue\\CustomStack\\CustomStack.cs",
+              "RelativeToolTip": "CustomStack\\CustomStack.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAEAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T08:55:12.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\CustomListStackAndQueue\\CustomStack\\Program.cs",
+              "RelativeDocumentMoniker": "CustomStack\\Program.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\CustomListStackAndQueue\\CustomStack\\Program.cs",
+              "RelativeToolTip": "CustomStack\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T08:51:34.303Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

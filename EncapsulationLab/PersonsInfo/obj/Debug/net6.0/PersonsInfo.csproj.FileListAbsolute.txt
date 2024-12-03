@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\EncapsulationLab\PersonsInfo\obj\Debug\net6.0\PersonsInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\EncapsulationLab\PersonsInfo\obj\Debug\net6.0\PersonsInfo.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\EncapsulationLab\PersonsInfo\obj\Debug\net6.0\PersonsInfo.AssemblyInfo.cs
+C:\Users\tedil\source\repos\EncapsulationLab\PersonsInfo\obj\Debug\net6.0\PersonsInfo.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\EncapsulationLab\PersonsInfo\bin\Debug\net6.0\PersonsInfo.exe
+C:\Users\tedil\source\repos\EncapsulationLab\PersonsInfo\bin\Debug\net6.0\PersonsInfo.deps.json
+C:\Users\tedil\source\repos\EncapsulationLab\PersonsInfo\bin\Debug\net6.0\PersonsInfo.runtimeconfig.json
+C:\Users\tedil\source\repos\EncapsulationLab\PersonsInfo\bin\Debug\net6.0\PersonsInfo.dll
+C:\Users\tedil\source\repos\EncapsulationLab\PersonsInfo\bin\Debug\net6.0\PersonsInfo.pdb
+C:\Users\tedil\source\repos\EncapsulationLab\PersonsInfo\obj\Debug\net6.0\PersonsInfo.dll
+C:\Users\tedil\source\repos\EncapsulationLab\PersonsInfo\obj\Debug\net6.0\refint\PersonsInfo.dll
+C:\Users\tedil\source\repos\EncapsulationLab\PersonsInfo\obj\Debug\net6.0\PersonsInfo.pdb
+C:\Users\tedil\source\repos\EncapsulationLab\PersonsInfo\obj\Debug\net6.0\PersonsInfo.genruntimeconfig.cache
+C:\Users\tedil\source\repos\EncapsulationLab\PersonsInfo\obj\Debug\net6.0\ref\PersonsInfo.dll

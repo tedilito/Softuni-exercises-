@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\AdvancedExamPrep\Climb the Peaks\bin\Debug\net6.0\Climb the Peaks.exe
+C:\Users\tedil\source\repos\AdvancedExamPrep\Climb the Peaks\bin\Debug\net6.0\Climb the Peaks.deps.json
+C:\Users\tedil\source\repos\AdvancedExamPrep\Climb the Peaks\bin\Debug\net6.0\Climb the Peaks.runtimeconfig.json
+C:\Users\tedil\source\repos\AdvancedExamPrep\Climb the Peaks\bin\Debug\net6.0\Climb the Peaks.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\Climb the Peaks\bin\Debug\net6.0\Climb the Peaks.pdb
+C:\Users\tedil\source\repos\AdvancedExamPrep\Climb the Peaks\obj\Debug\net6.0\Climb the Peaks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\AdvancedExamPrep\Climb the Peaks\obj\Debug\net6.0\Climb the Peaks.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\Climb the Peaks\obj\Debug\net6.0\Climb the Peaks.AssemblyInfo.cs
+C:\Users\tedil\source\repos\AdvancedExamPrep\Climb the Peaks\obj\Debug\net6.0\Climb the Peaks.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\Climb the Peaks\obj\Debug\net6.0\Climb the Peaks.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\Climb the Peaks\obj\Debug\net6.0\refint\Climb the Peaks.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\Climb the Peaks\obj\Debug\net6.0\Climb the Peaks.pdb
+C:\Users\tedil\source\repos\AdvancedExamPrep\Climb the Peaks\obj\Debug\net6.0\Climb the Peaks.genruntimeconfig.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\Climb the Peaks\obj\Debug\net6.0\ref\Climb the Peaks.dll

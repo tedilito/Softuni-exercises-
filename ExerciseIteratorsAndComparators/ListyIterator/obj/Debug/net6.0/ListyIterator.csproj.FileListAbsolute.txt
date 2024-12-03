@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\ExerciseIteratorsAndComparators\ListyIterator\bin\Debug\net6.0\ListyIterator.exe
+C:\Users\tedil\source\repos\ExerciseIteratorsAndComparators\ListyIterator\bin\Debug\net6.0\ListyIterator.deps.json
+C:\Users\tedil\source\repos\ExerciseIteratorsAndComparators\ListyIterator\bin\Debug\net6.0\ListyIterator.runtimeconfig.json
+C:\Users\tedil\source\repos\ExerciseIteratorsAndComparators\ListyIterator\bin\Debug\net6.0\ListyIterator.dll
+C:\Users\tedil\source\repos\ExerciseIteratorsAndComparators\ListyIterator\bin\Debug\net6.0\ListyIterator.pdb
+C:\Users\tedil\source\repos\ExerciseIteratorsAndComparators\ListyIterator\obj\Debug\net6.0\ListyIterator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\ExerciseIteratorsAndComparators\ListyIterator\obj\Debug\net6.0\ListyIterator.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\ExerciseIteratorsAndComparators\ListyIterator\obj\Debug\net6.0\ListyIterator.AssemblyInfo.cs
+C:\Users\tedil\source\repos\ExerciseIteratorsAndComparators\ListyIterator\obj\Debug\net6.0\ListyIterator.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\ExerciseIteratorsAndComparators\ListyIterator\obj\Debug\net6.0\ListyIterator.dll
+C:\Users\tedil\source\repos\ExerciseIteratorsAndComparators\ListyIterator\obj\Debug\net6.0\refint\ListyIterator.dll
+C:\Users\tedil\source\repos\ExerciseIteratorsAndComparators\ListyIterator\obj\Debug\net6.0\ListyIterator.pdb
+C:\Users\tedil\source\repos\ExerciseIteratorsAndComparators\ListyIterator\obj\Debug\net6.0\ListyIterator.genruntimeconfig.cache
+C:\Users\tedil\source\repos\ExerciseIteratorsAndComparators\ListyIterator\obj\Debug\net6.0\ref\ListyIterator.dll

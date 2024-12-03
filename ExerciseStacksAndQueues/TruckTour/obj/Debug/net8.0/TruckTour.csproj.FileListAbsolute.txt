@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\TruckTour\bin\Debug\net8.0\TruckTour.exe
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\TruckTour\bin\Debug\net8.0\TruckTour.deps.json
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\TruckTour\bin\Debug\net8.0\TruckTour.runtimeconfig.json
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\TruckTour\bin\Debug\net8.0\TruckTour.dll
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\TruckTour\bin\Debug\net8.0\TruckTour.pdb
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\TruckTour\obj\Debug\net8.0\TruckTour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\TruckTour\obj\Debug\net8.0\TruckTour.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\TruckTour\obj\Debug\net8.0\TruckTour.AssemblyInfo.cs
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\TruckTour\obj\Debug\net8.0\TruckTour.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\TruckTour\obj\Debug\net8.0\TruckTour.dll
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\TruckTour\obj\Debug\net8.0\refint\TruckTour.dll
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\TruckTour\obj\Debug\net8.0\TruckTour.pdb
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\TruckTour\obj\Debug\net8.0\TruckTour.genruntimeconfig.cache
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\TruckTour\obj\Debug\net8.0\ref\TruckTour.dll

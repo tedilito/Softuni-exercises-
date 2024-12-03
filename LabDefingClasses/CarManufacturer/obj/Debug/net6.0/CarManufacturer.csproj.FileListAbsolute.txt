@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\LabDefingClasses\CarManufacturer\bin\Debug\net6.0\CarManufacturer.exe
+C:\Users\tedil\source\repos\LabDefingClasses\CarManufacturer\bin\Debug\net6.0\CarManufacturer.deps.json
+C:\Users\tedil\source\repos\LabDefingClasses\CarManufacturer\bin\Debug\net6.0\CarManufacturer.runtimeconfig.json
+C:\Users\tedil\source\repos\LabDefingClasses\CarManufacturer\bin\Debug\net6.0\CarManufacturer.dll
+C:\Users\tedil\source\repos\LabDefingClasses\CarManufacturer\bin\Debug\net6.0\CarManufacturer.pdb
+C:\Users\tedil\source\repos\LabDefingClasses\CarManufacturer\obj\Debug\net6.0\CarManufacturer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\LabDefingClasses\CarManufacturer\obj\Debug\net6.0\CarManufacturer.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\LabDefingClasses\CarManufacturer\obj\Debug\net6.0\CarManufacturer.AssemblyInfo.cs
+C:\Users\tedil\source\repos\LabDefingClasses\CarManufacturer\obj\Debug\net6.0\CarManufacturer.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\LabDefingClasses\CarManufacturer\obj\Debug\net6.0\CarManufacturer.dll
+C:\Users\tedil\source\repos\LabDefingClasses\CarManufacturer\obj\Debug\net6.0\refint\CarManufacturer.dll
+C:\Users\tedil\source\repos\LabDefingClasses\CarManufacturer\obj\Debug\net6.0\CarManufacturer.pdb
+C:\Users\tedil\source\repos\LabDefingClasses\CarManufacturer\obj\Debug\net6.0\CarManufacturer.genruntimeconfig.cache
+C:\Users\tedil\source\repos\LabDefingClasses\CarManufacturer\obj\Debug\net6.0\ref\CarManufacturer.dll

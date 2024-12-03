@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\ExerciseFunctionalProgramming\FindEvenOrOdds\bin\Debug\net8.0\FindEvenOrOdds.exe
+C:\Users\tedil\source\repos\ExerciseFunctionalProgramming\FindEvenOrOdds\bin\Debug\net8.0\FindEvenOrOdds.deps.json
+C:\Users\tedil\source\repos\ExerciseFunctionalProgramming\FindEvenOrOdds\bin\Debug\net8.0\FindEvenOrOdds.runtimeconfig.json
+C:\Users\tedil\source\repos\ExerciseFunctionalProgramming\FindEvenOrOdds\bin\Debug\net8.0\FindEvenOrOdds.dll
+C:\Users\tedil\source\repos\ExerciseFunctionalProgramming\FindEvenOrOdds\bin\Debug\net8.0\FindEvenOrOdds.pdb
+C:\Users\tedil\source\repos\ExerciseFunctionalProgramming\FindEvenOrOdds\obj\Debug\net8.0\FindEvenOrOdds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\ExerciseFunctionalProgramming\FindEvenOrOdds\obj\Debug\net8.0\FindEvenOrOdds.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\ExerciseFunctionalProgramming\FindEvenOrOdds\obj\Debug\net8.0\FindEvenOrOdds.AssemblyInfo.cs
+C:\Users\tedil\source\repos\ExerciseFunctionalProgramming\FindEvenOrOdds\obj\Debug\net8.0\FindEvenOrOdds.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\ExerciseFunctionalProgramming\FindEvenOrOdds\obj\Debug\net8.0\FindEvenOrOdds.dll
+C:\Users\tedil\source\repos\ExerciseFunctionalProgramming\FindEvenOrOdds\obj\Debug\net8.0\refint\FindEvenOrOdds.dll
+C:\Users\tedil\source\repos\ExerciseFunctionalProgramming\FindEvenOrOdds\obj\Debug\net8.0\FindEvenOrOdds.pdb
+C:\Users\tedil\source\repos\ExerciseFunctionalProgramming\FindEvenOrOdds\obj\Debug\net8.0\FindEvenOrOdds.genruntimeconfig.cache
+C:\Users\tedil\source\repos\ExerciseFunctionalProgramming\FindEvenOrOdds\obj\Debug\net8.0\ref\FindEvenOrOdds.dll

@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\InterfaceAndAbstractionExercise\MilitaryElite\bin\Debug\net6.0\MilitaryElite.exe
+C:\Users\tedil\source\repos\InterfaceAndAbstractionExercise\MilitaryElite\bin\Debug\net6.0\MilitaryElite.deps.json
+C:\Users\tedil\source\repos\InterfaceAndAbstractionExercise\MilitaryElite\bin\Debug\net6.0\MilitaryElite.runtimeconfig.json
+C:\Users\tedil\source\repos\InterfaceAndAbstractionExercise\MilitaryElite\bin\Debug\net6.0\MilitaryElite.dll
+C:\Users\tedil\source\repos\InterfaceAndAbstractionExercise\MilitaryElite\bin\Debug\net6.0\MilitaryElite.pdb
+C:\Users\tedil\source\repos\InterfaceAndAbstractionExercise\MilitaryElite\obj\Debug\net6.0\MilitaryElite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\InterfaceAndAbstractionExercise\MilitaryElite\obj\Debug\net6.0\MilitaryElite.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\InterfaceAndAbstractionExercise\MilitaryElite\obj\Debug\net6.0\MilitaryElite.AssemblyInfo.cs
+C:\Users\tedil\source\repos\InterfaceAndAbstractionExercise\MilitaryElite\obj\Debug\net6.0\MilitaryElite.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\InterfaceAndAbstractionExercise\MilitaryElite\obj\Debug\net6.0\MilitaryElite.dll
+C:\Users\tedil\source\repos\InterfaceAndAbstractionExercise\MilitaryElite\obj\Debug\net6.0\refint\MilitaryElite.dll
+C:\Users\tedil\source\repos\InterfaceAndAbstractionExercise\MilitaryElite\obj\Debug\net6.0\MilitaryElite.pdb
+C:\Users\tedil\source\repos\InterfaceAndAbstractionExercise\MilitaryElite\obj\Debug\net6.0\MilitaryElite.genruntimeconfig.cache
+C:\Users\tedil\source\repos\InterfaceAndAbstractionExercise\MilitaryElite\obj\Debug\net6.0\ref\MilitaryElite.dll

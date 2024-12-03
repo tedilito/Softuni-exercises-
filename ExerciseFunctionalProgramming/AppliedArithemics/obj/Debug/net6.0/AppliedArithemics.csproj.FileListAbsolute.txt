@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\ExerciseFunctionalProgramming\AppliedArithemics\obj\Debug\net6.0\AppliedArithemics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\ExerciseFunctionalProgramming\AppliedArithemics\obj\Debug\net6.0\AppliedArithemics.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\ExerciseFunctionalProgramming\AppliedArithemics\obj\Debug\net6.0\AppliedArithemics.AssemblyInfo.cs
+C:\Users\tedil\source\repos\ExerciseFunctionalProgramming\AppliedArithemics\obj\Debug\net6.0\AppliedArithemics.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\ExerciseFunctionalProgramming\AppliedArithemics\bin\Debug\net6.0\AppliedArithemics.exe
+C:\Users\tedil\source\repos\ExerciseFunctionalProgramming\AppliedArithemics\bin\Debug\net6.0\AppliedArithemics.deps.json
+C:\Users\tedil\source\repos\ExerciseFunctionalProgramming\AppliedArithemics\bin\Debug\net6.0\AppliedArithemics.runtimeconfig.json
+C:\Users\tedil\source\repos\ExerciseFunctionalProgramming\AppliedArithemics\bin\Debug\net6.0\AppliedArithemics.dll
+C:\Users\tedil\source\repos\ExerciseFunctionalProgramming\AppliedArithemics\bin\Debug\net6.0\AppliedArithemics.pdb
+C:\Users\tedil\source\repos\ExerciseFunctionalProgramming\AppliedArithemics\obj\Debug\net6.0\AppliedArithemics.dll
+C:\Users\tedil\source\repos\ExerciseFunctionalProgramming\AppliedArithemics\obj\Debug\net6.0\refint\AppliedArithemics.dll
+C:\Users\tedil\source\repos\ExerciseFunctionalProgramming\AppliedArithemics\obj\Debug\net6.0\AppliedArithemics.pdb
+C:\Users\tedil\source\repos\ExerciseFunctionalProgramming\AppliedArithemics\obj\Debug\net6.0\AppliedArithemics.genruntimeconfig.cache
+C:\Users\tedil\source\repos\ExerciseFunctionalProgramming\AppliedArithemics\obj\Debug\net6.0\ref\AppliedArithemics.dll

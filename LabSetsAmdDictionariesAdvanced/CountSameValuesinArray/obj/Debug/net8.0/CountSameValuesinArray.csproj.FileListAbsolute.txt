@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\CountSameValuesinArray\bin\Debug\net8.0\CountSameValuesinArray.exe
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\CountSameValuesinArray\bin\Debug\net8.0\CountSameValuesinArray.deps.json
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\CountSameValuesinArray\bin\Debug\net8.0\CountSameValuesinArray.runtimeconfig.json
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\CountSameValuesinArray\bin\Debug\net8.0\CountSameValuesinArray.dll
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\CountSameValuesinArray\bin\Debug\net8.0\CountSameValuesinArray.pdb
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\CountSameValuesinArray\obj\Debug\net8.0\CountSameValuesinArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\CountSameValuesinArray\obj\Debug\net8.0\CountSameValuesinArray.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\CountSameValuesinArray\obj\Debug\net8.0\CountSameValuesinArray.AssemblyInfo.cs
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\CountSameValuesinArray\obj\Debug\net8.0\CountSameValuesinArray.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\CountSameValuesinArray\obj\Debug\net8.0\CountSameValuesinArray.dll
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\CountSameValuesinArray\obj\Debug\net8.0\refint\CountSameValuesinArray.dll
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\CountSameValuesinArray\obj\Debug\net8.0\CountSameValuesinArray.pdb
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\CountSameValuesinArray\obj\Debug\net8.0\CountSameValuesinArray.genruntimeconfig.cache
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\CountSameValuesinArray\obj\Debug\net8.0\ref\CountSameValuesinArray.dll

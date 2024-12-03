@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\CustomDoubleLinkedList\obj\Debug\net6.0\CustomDoublyLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\CustomDoubleLinkedList\obj\Debug\net6.0\CustomDoublyLinkedList.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\CustomDoubleLinkedList\obj\Debug\net6.0\CustomDoublyLinkedList.AssemblyInfo.cs
+C:\Users\tedil\source\repos\CustomDoubleLinkedList\obj\Debug\net6.0\CustomDoublyLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\CustomDoubleLinkedList\bin\Debug\net6.0\CustomDoublyLinkedList.exe
+C:\Users\tedil\source\repos\CustomDoubleLinkedList\bin\Debug\net6.0\CustomDoublyLinkedList.deps.json
+C:\Users\tedil\source\repos\CustomDoubleLinkedList\bin\Debug\net6.0\CustomDoublyLinkedList.runtimeconfig.json
+C:\Users\tedil\source\repos\CustomDoubleLinkedList\bin\Debug\net6.0\CustomDoublyLinkedList.dll
+C:\Users\tedil\source\repos\CustomDoubleLinkedList\bin\Debug\net6.0\CustomDoublyLinkedList.pdb
+C:\Users\tedil\source\repos\CustomDoubleLinkedList\obj\Debug\net6.0\CustomDoublyLinkedList.dll
+C:\Users\tedil\source\repos\CustomDoubleLinkedList\obj\Debug\net6.0\refint\CustomDoublyLinkedList.dll
+C:\Users\tedil\source\repos\CustomDoubleLinkedList\obj\Debug\net6.0\CustomDoublyLinkedList.pdb
+C:\Users\tedil\source\repos\CustomDoubleLinkedList\obj\Debug\net6.0\CustomDoublyLinkedList.genruntimeconfig.cache
+C:\Users\tedil\source\repos\CustomDoubleLinkedList\obj\Debug\net6.0\ref\CustomDoublyLinkedList.dll

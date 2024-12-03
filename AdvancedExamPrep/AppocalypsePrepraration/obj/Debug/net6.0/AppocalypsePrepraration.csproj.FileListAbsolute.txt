@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\AdvancedExamPrep\AppocalypsePrepraration\bin\Debug\net6.0\AppocalypsePrepraration.exe
+C:\Users\tedil\source\repos\AdvancedExamPrep\AppocalypsePrepraration\bin\Debug\net6.0\AppocalypsePrepraration.deps.json
+C:\Users\tedil\source\repos\AdvancedExamPrep\AppocalypsePrepraration\bin\Debug\net6.0\AppocalypsePrepraration.runtimeconfig.json
+C:\Users\tedil\source\repos\AdvancedExamPrep\AppocalypsePrepraration\bin\Debug\net6.0\AppocalypsePrepraration.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\AppocalypsePrepraration\bin\Debug\net6.0\AppocalypsePrepraration.pdb
+C:\Users\tedil\source\repos\AdvancedExamPrep\AppocalypsePrepraration\obj\Debug\net6.0\AppocalypsePrepraration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\AdvancedExamPrep\AppocalypsePrepraration\obj\Debug\net6.0\AppocalypsePrepraration.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\AppocalypsePrepraration\obj\Debug\net6.0\AppocalypsePrepraration.AssemblyInfo.cs
+C:\Users\tedil\source\repos\AdvancedExamPrep\AppocalypsePrepraration\obj\Debug\net6.0\AppocalypsePrepraration.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\AppocalypsePrepraration\obj\Debug\net6.0\AppocalypsePrepraration.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\AppocalypsePrepraration\obj\Debug\net6.0\refint\AppocalypsePrepraration.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\AppocalypsePrepraration\obj\Debug\net6.0\AppocalypsePrepraration.pdb
+C:\Users\tedil\source\repos\AdvancedExamPrep\AppocalypsePrepraration\obj\Debug\net6.0\AppocalypsePrepraration.genruntimeconfig.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\AppocalypsePrepraration\obj\Debug\net6.0\ref\AppocalypsePrepraration.dll

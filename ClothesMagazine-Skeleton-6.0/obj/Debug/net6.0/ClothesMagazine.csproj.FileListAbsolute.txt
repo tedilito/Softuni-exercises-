@@ -1,0 +1,14 @@
+C:\Users\tedil\Downloads\ClothesMagazine-Skeleton-6.0\bin\Debug\net6.0\ClothesMagazine.exe
+C:\Users\tedil\Downloads\ClothesMagazine-Skeleton-6.0\bin\Debug\net6.0\ClothesMagazine.deps.json
+C:\Users\tedil\Downloads\ClothesMagazine-Skeleton-6.0\bin\Debug\net6.0\ClothesMagazine.runtimeconfig.json
+C:\Users\tedil\Downloads\ClothesMagazine-Skeleton-6.0\bin\Debug\net6.0\ClothesMagazine.dll
+C:\Users\tedil\Downloads\ClothesMagazine-Skeleton-6.0\bin\Debug\net6.0\ClothesMagazine.pdb
+C:\Users\tedil\Downloads\ClothesMagazine-Skeleton-6.0\obj\Debug\net6.0\ClothesMagazine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\Downloads\ClothesMagazine-Skeleton-6.0\obj\Debug\net6.0\ClothesMagazine.AssemblyInfoInputs.cache
+C:\Users\tedil\Downloads\ClothesMagazine-Skeleton-6.0\obj\Debug\net6.0\ClothesMagazine.AssemblyInfo.cs
+C:\Users\tedil\Downloads\ClothesMagazine-Skeleton-6.0\obj\Debug\net6.0\ClothesMagazine.csproj.CoreCompileInputs.cache
+C:\Users\tedil\Downloads\ClothesMagazine-Skeleton-6.0\obj\Debug\net6.0\ClothesMagazine.dll
+C:\Users\tedil\Downloads\ClothesMagazine-Skeleton-6.0\obj\Debug\net6.0\refint\ClothesMagazine.dll
+C:\Users\tedil\Downloads\ClothesMagazine-Skeleton-6.0\obj\Debug\net6.0\ClothesMagazine.pdb
+C:\Users\tedil\Downloads\ClothesMagazine-Skeleton-6.0\obj\Debug\net6.0\ClothesMagazine.genruntimeconfig.cache
+C:\Users\tedil\Downloads\ClothesMagazine-Skeleton-6.0\obj\Debug\net6.0\ref\ClothesMagazine.dll

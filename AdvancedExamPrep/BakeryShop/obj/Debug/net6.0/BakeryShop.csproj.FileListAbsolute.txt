@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\AdvancedExamPrep\BakeryShop\bin\Debug\net6.0\BakeryShop.exe
+C:\Users\tedil\source\repos\AdvancedExamPrep\BakeryShop\bin\Debug\net6.0\BakeryShop.deps.json
+C:\Users\tedil\source\repos\AdvancedExamPrep\BakeryShop\bin\Debug\net6.0\BakeryShop.runtimeconfig.json
+C:\Users\tedil\source\repos\AdvancedExamPrep\BakeryShop\bin\Debug\net6.0\BakeryShop.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\BakeryShop\bin\Debug\net6.0\BakeryShop.pdb
+C:\Users\tedil\source\repos\AdvancedExamPrep\BakeryShop\obj\Debug\net6.0\BakeryShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\AdvancedExamPrep\BakeryShop\obj\Debug\net6.0\BakeryShop.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\BakeryShop\obj\Debug\net6.0\BakeryShop.AssemblyInfo.cs
+C:\Users\tedil\source\repos\AdvancedExamPrep\BakeryShop\obj\Debug\net6.0\BakeryShop.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\BakeryShop\obj\Debug\net6.0\BakeryShop.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\BakeryShop\obj\Debug\net6.0\refint\BakeryShop.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\BakeryShop\obj\Debug\net6.0\BakeryShop.pdb
+C:\Users\tedil\source\repos\AdvancedExamPrep\BakeryShop\obj\Debug\net6.0\BakeryShop.genruntimeconfig.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\BakeryShop\obj\Debug\net6.0\ref\BakeryShop.dll

@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\ExerciseGenerics\Tuple\bin\Debug\net6.0\Tuple.exe
+C:\Users\tedil\source\repos\ExerciseGenerics\Tuple\bin\Debug\net6.0\Tuple.deps.json
+C:\Users\tedil\source\repos\ExerciseGenerics\Tuple\bin\Debug\net6.0\Tuple.runtimeconfig.json
+C:\Users\tedil\source\repos\ExerciseGenerics\Tuple\bin\Debug\net6.0\Tuple.dll
+C:\Users\tedil\source\repos\ExerciseGenerics\Tuple\bin\Debug\net6.0\Tuple.pdb
+C:\Users\tedil\source\repos\ExerciseGenerics\Tuple\obj\Debug\net6.0\Tuple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\ExerciseGenerics\Tuple\obj\Debug\net6.0\Tuple.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\ExerciseGenerics\Tuple\obj\Debug\net6.0\Tuple.AssemblyInfo.cs
+C:\Users\tedil\source\repos\ExerciseGenerics\Tuple\obj\Debug\net6.0\Tuple.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\ExerciseGenerics\Tuple\obj\Debug\net6.0\Tuple.dll
+C:\Users\tedil\source\repos\ExerciseGenerics\Tuple\obj\Debug\net6.0\refint\Tuple.dll
+C:\Users\tedil\source\repos\ExerciseGenerics\Tuple\obj\Debug\net6.0\Tuple.pdb
+C:\Users\tedil\source\repos\ExerciseGenerics\Tuple\obj\Debug\net6.0\Tuple.genruntimeconfig.cache
+C:\Users\tedil\source\repos\ExerciseGenerics\Tuple\obj\Debug\net6.0\ref\Tuple.dll

@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\ExercisesSetsandDictionariesAdvanced\SoftuniExamResults\bin\Debug\net8.0\SoftuniExamResults.exe
+C:\Users\tedil\source\repos\ExercisesSetsandDictionariesAdvanced\SoftuniExamResults\bin\Debug\net8.0\SoftuniExamResults.deps.json
+C:\Users\tedil\source\repos\ExercisesSetsandDictionariesAdvanced\SoftuniExamResults\bin\Debug\net8.0\SoftuniExamResults.runtimeconfig.json
+C:\Users\tedil\source\repos\ExercisesSetsandDictionariesAdvanced\SoftuniExamResults\bin\Debug\net8.0\SoftuniExamResults.dll
+C:\Users\tedil\source\repos\ExercisesSetsandDictionariesAdvanced\SoftuniExamResults\bin\Debug\net8.0\SoftuniExamResults.pdb
+C:\Users\tedil\source\repos\ExercisesSetsandDictionariesAdvanced\SoftuniExamResults\obj\Debug\net8.0\SoftuniExamResults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\ExercisesSetsandDictionariesAdvanced\SoftuniExamResults\obj\Debug\net8.0\SoftuniExamResults.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\ExercisesSetsandDictionariesAdvanced\SoftuniExamResults\obj\Debug\net8.0\SoftuniExamResults.AssemblyInfo.cs
+C:\Users\tedil\source\repos\ExercisesSetsandDictionariesAdvanced\SoftuniExamResults\obj\Debug\net8.0\SoftuniExamResults.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\ExercisesSetsandDictionariesAdvanced\SoftuniExamResults\obj\Debug\net8.0\SoftuniExamResults.dll
+C:\Users\tedil\source\repos\ExercisesSetsandDictionariesAdvanced\SoftuniExamResults\obj\Debug\net8.0\refint\SoftuniExamResults.dll
+C:\Users\tedil\source\repos\ExercisesSetsandDictionariesAdvanced\SoftuniExamResults\obj\Debug\net8.0\SoftuniExamResults.pdb
+C:\Users\tedil\source\repos\ExercisesSetsandDictionariesAdvanced\SoftuniExamResults\obj\Debug\net8.0\SoftuniExamResults.genruntimeconfig.cache
+C:\Users\tedil\source\repos\ExercisesSetsandDictionariesAdvanced\SoftuniExamResults\obj\Debug\net8.0\ref\SoftuniExamResults.dll

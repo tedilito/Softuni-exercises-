@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\SumMatrixElements\SquareWithMaximumSum\bin\Debug\net8.0\SquareWithMaximumSum.exe
+C:\Users\tedil\source\repos\SumMatrixElements\SquareWithMaximumSum\bin\Debug\net8.0\SquareWithMaximumSum.deps.json
+C:\Users\tedil\source\repos\SumMatrixElements\SquareWithMaximumSum\bin\Debug\net8.0\SquareWithMaximumSum.runtimeconfig.json
+C:\Users\tedil\source\repos\SumMatrixElements\SquareWithMaximumSum\bin\Debug\net8.0\SquareWithMaximumSum.dll
+C:\Users\tedil\source\repos\SumMatrixElements\SquareWithMaximumSum\bin\Debug\net8.0\SquareWithMaximumSum.pdb
+C:\Users\tedil\source\repos\SumMatrixElements\SquareWithMaximumSum\obj\Debug\net8.0\SquareWithMaximumSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\SumMatrixElements\SquareWithMaximumSum\obj\Debug\net8.0\SquareWithMaximumSum.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\SumMatrixElements\SquareWithMaximumSum\obj\Debug\net8.0\SquareWithMaximumSum.AssemblyInfo.cs
+C:\Users\tedil\source\repos\SumMatrixElements\SquareWithMaximumSum\obj\Debug\net8.0\SquareWithMaximumSum.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\SumMatrixElements\SquareWithMaximumSum\obj\Debug\net8.0\SquareWithMaximumSum.dll
+C:\Users\tedil\source\repos\SumMatrixElements\SquareWithMaximumSum\obj\Debug\net8.0\refint\SquareWithMaximumSum.dll
+C:\Users\tedil\source\repos\SumMatrixElements\SquareWithMaximumSum\obj\Debug\net8.0\SquareWithMaximumSum.pdb
+C:\Users\tedil\source\repos\SumMatrixElements\SquareWithMaximumSum\obj\Debug\net8.0\SquareWithMaximumSum.genruntimeconfig.cache
+C:\Users\tedil\source\repos\SumMatrixElements\SquareWithMaximumSum\obj\Debug\net8.0\ref\SquareWithMaximumSum.dll

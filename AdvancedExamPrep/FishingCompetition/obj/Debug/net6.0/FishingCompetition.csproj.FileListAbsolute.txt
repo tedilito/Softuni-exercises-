@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\AdvancedExamPrep\FishingCompetition\bin\Debug\net6.0\FishingCompetition.exe
+C:\Users\tedil\source\repos\AdvancedExamPrep\FishingCompetition\bin\Debug\net6.0\FishingCompetition.deps.json
+C:\Users\tedil\source\repos\AdvancedExamPrep\FishingCompetition\bin\Debug\net6.0\FishingCompetition.runtimeconfig.json
+C:\Users\tedil\source\repos\AdvancedExamPrep\FishingCompetition\bin\Debug\net6.0\FishingCompetition.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\FishingCompetition\bin\Debug\net6.0\FishingCompetition.pdb
+C:\Users\tedil\source\repos\AdvancedExamPrep\FishingCompetition\obj\Debug\net6.0\FishingCompetition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\AdvancedExamPrep\FishingCompetition\obj\Debug\net6.0\FishingCompetition.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\FishingCompetition\obj\Debug\net6.0\FishingCompetition.AssemblyInfo.cs
+C:\Users\tedil\source\repos\AdvancedExamPrep\FishingCompetition\obj\Debug\net6.0\FishingCompetition.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\FishingCompetition\obj\Debug\net6.0\FishingCompetition.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\FishingCompetition\obj\Debug\net6.0\refint\FishingCompetition.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\FishingCompetition\obj\Debug\net6.0\FishingCompetition.pdb
+C:\Users\tedil\source\repos\AdvancedExamPrep\FishingCompetition\obj\Debug\net6.0\FishingCompetition.genruntimeconfig.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\FishingCompetition\obj\Debug\net6.0\ref\FishingCompetition.dll

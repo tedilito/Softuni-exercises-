@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tedil\\source\\repos\\ExerciseDefiningClasses\\SoftUniParking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EAAD3DBB-F743-4A68-BAAB-F40EAEB1BB4D}|SoftUniParking.csproj|c:\\users\\tedil\\source\\repos\\exercisedefiningclasses\\softuniparking\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAAD3DBB-F743-4A68-BAAB-F40EAEB1BB4D}|SoftUniParking.csproj|solutionrelative:car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAAD3DBB-F743-4A68-BAAB-F40EAEB1BB4D}|SoftUniParking.csproj|c:\\users\\tedil\\source\\repos\\exercisedefiningclasses\\softuniparking\\parking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAAD3DBB-F743-4A68-BAAB-F40EAEB1BB4D}|SoftUniParking.csproj|solutionrelative:parking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAAD3DBB-F743-4A68-BAAB-F40EAEB1BB4D}|SoftUniParking.csproj|c:\\users\\tedil\\source\\repos\\exercisedefiningclasses\\softuniparking\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAAD3DBB-F743-4A68-BAAB-F40EAEB1BB4D}|SoftUniParking.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Parking.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExerciseDefiningClasses\\SoftUniParking\\Parking.cs",
+              "RelativeDocumentMoniker": "Parking.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExerciseDefiningClasses\\SoftUniParking\\Parking.cs",
+              "RelativeToolTip": "Parking.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAAAGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T16:31:37.092Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExerciseDefiningClasses\\SoftUniParking\\Car.cs",
+              "RelativeDocumentMoniker": "Car.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExerciseDefiningClasses\\SoftUniParking\\Car.cs",
+              "RelativeToolTip": "Car.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T16:31:26.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExerciseDefiningClasses\\SoftUniParking\\StartUp.cs",
+              "RelativeDocumentMoniker": "StartUp.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExerciseDefiningClasses\\SoftUniParking\\StartUp.cs",
+              "RelativeToolTip": "StartUp.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T15:59:35.233Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

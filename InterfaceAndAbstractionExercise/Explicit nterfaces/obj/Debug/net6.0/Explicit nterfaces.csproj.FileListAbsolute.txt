@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\InterfaceAndAbstractionExercise\Explicit nterfaces\obj\Debug\net6.0\Explicit nterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\InterfaceAndAbstractionExercise\Explicit nterfaces\obj\Debug\net6.0\Explicit nterfaces.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\InterfaceAndAbstractionExercise\Explicit nterfaces\obj\Debug\net6.0\Explicit nterfaces.AssemblyInfo.cs
+C:\Users\tedil\source\repos\InterfaceAndAbstractionExercise\Explicit nterfaces\obj\Debug\net6.0\Explicit nterfaces.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\InterfaceAndAbstractionExercise\Explicit nterfaces\bin\Debug\net6.0\Explicit nterfaces.exe
+C:\Users\tedil\source\repos\InterfaceAndAbstractionExercise\Explicit nterfaces\bin\Debug\net6.0\Explicit nterfaces.deps.json
+C:\Users\tedil\source\repos\InterfaceAndAbstractionExercise\Explicit nterfaces\bin\Debug\net6.0\Explicit nterfaces.runtimeconfig.json
+C:\Users\tedil\source\repos\InterfaceAndAbstractionExercise\Explicit nterfaces\bin\Debug\net6.0\Explicit nterfaces.dll
+C:\Users\tedil\source\repos\InterfaceAndAbstractionExercise\Explicit nterfaces\bin\Debug\net6.0\Explicit nterfaces.pdb
+C:\Users\tedil\source\repos\InterfaceAndAbstractionExercise\Explicit nterfaces\obj\Debug\net6.0\Explicit nterfaces.dll
+C:\Users\tedil\source\repos\InterfaceAndAbstractionExercise\Explicit nterfaces\obj\Debug\net6.0\refint\Explicit nterfaces.dll
+C:\Users\tedil\source\repos\InterfaceAndAbstractionExercise\Explicit nterfaces\obj\Debug\net6.0\Explicit nterfaces.pdb
+C:\Users\tedil\source\repos\InterfaceAndAbstractionExercise\Explicit nterfaces\obj\Debug\net6.0\Explicit nterfaces.genruntimeconfig.cache
+C:\Users\tedil\source\repos\InterfaceAndAbstractionExercise\Explicit nterfaces\obj\Debug\net6.0\ref\Explicit nterfaces.dll

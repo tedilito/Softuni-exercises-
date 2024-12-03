@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\AdvancedExamPrep\Beesy\bin\Debug\net6.0\Beesy.exe
+C:\Users\tedil\source\repos\AdvancedExamPrep\Beesy\bin\Debug\net6.0\Beesy.deps.json
+C:\Users\tedil\source\repos\AdvancedExamPrep\Beesy\bin\Debug\net6.0\Beesy.runtimeconfig.json
+C:\Users\tedil\source\repos\AdvancedExamPrep\Beesy\bin\Debug\net6.0\Beesy.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\Beesy\bin\Debug\net6.0\Beesy.pdb
+C:\Users\tedil\source\repos\AdvancedExamPrep\Beesy\obj\Debug\net6.0\Beesy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\AdvancedExamPrep\Beesy\obj\Debug\net6.0\Beesy.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\Beesy\obj\Debug\net6.0\Beesy.AssemblyInfo.cs
+C:\Users\tedil\source\repos\AdvancedExamPrep\Beesy\obj\Debug\net6.0\Beesy.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\Beesy\obj\Debug\net6.0\Beesy.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\Beesy\obj\Debug\net6.0\refint\Beesy.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\Beesy\obj\Debug\net6.0\Beesy.pdb
+C:\Users\tedil\source\repos\AdvancedExamPrep\Beesy\obj\Debug\net6.0\Beesy.genruntimeconfig.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\Beesy\obj\Debug\net6.0\ref\Beesy.dll

@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\AdvancedExamPrep\TempleOfDoom\bin\Debug\net6.0\TempleOfDoom.exe
+C:\Users\tedil\source\repos\AdvancedExamPrep\TempleOfDoom\bin\Debug\net6.0\TempleOfDoom.deps.json
+C:\Users\tedil\source\repos\AdvancedExamPrep\TempleOfDoom\bin\Debug\net6.0\TempleOfDoom.runtimeconfig.json
+C:\Users\tedil\source\repos\AdvancedExamPrep\TempleOfDoom\bin\Debug\net6.0\TempleOfDoom.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\TempleOfDoom\bin\Debug\net6.0\TempleOfDoom.pdb
+C:\Users\tedil\source\repos\AdvancedExamPrep\TempleOfDoom\obj\Debug\net6.0\TempleOfDoom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\AdvancedExamPrep\TempleOfDoom\obj\Debug\net6.0\TempleOfDoom.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\TempleOfDoom\obj\Debug\net6.0\TempleOfDoom.AssemblyInfo.cs
+C:\Users\tedil\source\repos\AdvancedExamPrep\TempleOfDoom\obj\Debug\net6.0\TempleOfDoom.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\TempleOfDoom\obj\Debug\net6.0\TempleOfDoom.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\TempleOfDoom\obj\Debug\net6.0\refint\TempleOfDoom.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\TempleOfDoom\obj\Debug\net6.0\TempleOfDoom.pdb
+C:\Users\tedil\source\repos\AdvancedExamPrep\TempleOfDoom\obj\Debug\net6.0\TempleOfDoom.genruntimeconfig.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\TempleOfDoom\obj\Debug\net6.0\ref\TempleOfDoom.dll

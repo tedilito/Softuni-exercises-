@@ -1,0 +1,341 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tedil\\source\\repos\\Softuni_Advanced_c#\\Skeleton-Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E38DC2DB-C03C-497A-BD3E-C2C9934A0832}|DirectoryTraversal\\DirectoryTraversal.csproj|c:\\users\\tedil\\source\\repos\\softuni_advanced_c#\\skeleton-exercise\\directorytraversal\\directorytraversal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E38DC2DB-C03C-497A-BD3E-C2C9934A0832}|DirectoryTraversal\\DirectoryTraversal.csproj|solutionrelative:directorytraversal\\directorytraversal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE12AA4C-3DC6-4FE3-9E3B-6DCB22ECFE07}|CopyBinaryFile\\CopyBinaryFile.csproj|c:\\users\\tedil\\source\\repos\\softuni_advanced_c#\\skeleton-exercise\\copybinaryfile\\copybinaryfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE12AA4C-3DC6-4FE3-9E3B-6DCB22ECFE07}|CopyBinaryFile\\CopyBinaryFile.csproj|solutionrelative:copybinaryfile\\copybinaryfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE12AA4C-3DC6-4FE3-9E3B-6DCB22ECFE07}|CopyBinaryFile\\CopyBinaryFile.csproj|c:\\users\\tedil\\source\\repos\\softuni_advanced_c#\\skeleton-exercise\\copybinaryfile\\copyme-copy.png||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CE12AA4C-3DC6-4FE3-9E3B-6DCB22ECFE07}|CopyBinaryFile\\CopyBinaryFile.csproj|solutionrelative:copybinaryfile\\copyme-copy.png||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE12AA4C-3DC6-4FE3-9E3B-6DCB22ECFE07}|CopyBinaryFile\\CopyBinaryFile.csproj|c:\\users\\tedil\\source\\repos\\softuni_advanced_c#\\skeleton-exercise\\copybinaryfile\\copyme.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{CE12AA4C-3DC6-4FE3-9E3B-6DCB22ECFE07}|CopyBinaryFile\\CopyBinaryFile.csproj|solutionrelative:copybinaryfile\\copyme.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76AA97B7-6FB6-4DAB-8CCE-A4BF39A6AFEB}|LineNumbers\\LineNumbers.csproj|c:\\users\\tedil\\source\\repos\\softuni_advanced_c#\\skeleton-exercise\\linenumbers\\linenumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76AA97B7-6FB6-4DAB-8CCE-A4BF39A6AFEB}|LineNumbers\\LineNumbers.csproj|solutionrelative:linenumbers\\linenumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76AA97B7-6FB6-4DAB-8CCE-A4BF39A6AFEB}|LineNumbers\\LineNumbers.csproj|c:\\users\\tedil\\source\\repos\\softuni_advanced_c#\\skeleton-exercise\\linenumbers\\output.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{76AA97B7-6FB6-4DAB-8CCE-A4BF39A6AFEB}|LineNumbers\\LineNumbers.csproj|solutionrelative:linenumbers\\output.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771B504C-43FE-4128-ADA3-1E39462D9DE1}|EvenLines\\EvenLines.csproj|c:\\users\\tedil\\source\\repos\\softuni_advanced_c#\\skeleton-exercise\\evenlines\\evenlines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771B504C-43FE-4128-ADA3-1E39462D9DE1}|EvenLines\\EvenLines.csproj|solutionrelative:evenlines\\evenlines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46FD4DAE-85D2-4FA9-9C18-70C69E55A5D1}|ZipAndExtract\\ZipAndExtract.csproj|c:\\users\\tedil\\source\\repos\\softuni_advanced_c#\\skeleton-exercise\\zipandextract\\zipandextract.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{46FD4DAE-85D2-4FA9-9C18-70C69E55A5D1}|ZipAndExtract\\ZipAndExtract.csproj|solutionrelative:zipandextract\\zipandextract.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76AA97B7-6FB6-4DAB-8CCE-A4BF39A6AFEB}|LineNumbers\\LineNumbers.csproj|c:\\users\\tedil\\source\\repos\\softuni_advanced_c#\\skeleton-exercise\\linenumbers\\linenumbers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{76AA97B7-6FB6-4DAB-8CCE-A4BF39A6AFEB}|LineNumbers\\LineNumbers.csproj|solutionrelative:linenumbers\\linenumbers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771B504C-43FE-4128-ADA3-1E39462D9DE1}|EvenLines\\EvenLines.csproj|c:\\users\\tedil\\source\\repos\\softuni_advanced_c#\\skeleton-exercise\\evenlines\\evenlines.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{771B504C-43FE-4128-ADA3-1E39462D9DE1}|EvenLines\\EvenLines.csproj|solutionrelative:evenlines\\evenlines.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E38DC2DB-C03C-497A-BD3E-C2C9934A0832}|DirectoryTraversal\\DirectoryTraversal.csproj|c:\\users\\tedil\\source\\repos\\softuni_advanced_c#\\skeleton-exercise\\directorytraversal\\directorytraversal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E38DC2DB-C03C-497A-BD3E-C2C9934A0832}|DirectoryTraversal\\DirectoryTraversal.csproj|solutionrelative:directorytraversal\\directorytraversal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3564004F-29BB-4F4B-8E46-126FEB938E2D}|CopyDirectory\\CopyDirectory.csproj|c:\\users\\tedil\\source\\repos\\softuni_advanced_c#\\skeleton-exercise\\copydirectory\\copydirectory.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3564004F-29BB-4F4B-8E46-126FEB938E2D}|CopyDirectory\\CopyDirectory.csproj|solutionrelative:copydirectory\\copydirectory.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE12AA4C-3DC6-4FE3-9E3B-6DCB22ECFE07}|CopyBinaryFile\\CopyBinaryFile.csproj|c:\\users\\tedil\\source\\repos\\softuni_advanced_c#\\skeleton-exercise\\copybinaryfile\\copybinaryfile.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CE12AA4C-3DC6-4FE3-9E3B-6DCB22ECFE07}|CopyBinaryFile\\CopyBinaryFile.csproj|solutionrelative:copybinaryfile\\copybinaryfile.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46FD4DAE-85D2-4FA9-9C18-70C69E55A5D1}|ZipAndExtract\\ZipAndExtract.csproj|c:\\users\\tedil\\source\\repos\\softuni_advanced_c#\\skeleton-exercise\\zipandextract\\zipandextract.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}",
+      "RelativeMoniker": "D:0:0:{46FD4DAE-85D2-4FA9-9C18-70C69E55A5D1}|ZipAndExtract\\ZipAndExtract.csproj|solutionrelative:zipandextract\\zipandextract.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76AA97B7-6FB6-4DAB-8CCE-A4BF39A6AFEB}|LineNumbers\\LineNumbers.csproj|c:\\users\\tedil\\source\\repos\\softuni_advanced_c#\\skeleton-exercise\\linenumbers\\linenumbers.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}",
+      "RelativeMoniker": "D:0:0:{76AA97B7-6FB6-4DAB-8CCE-A4BF39A6AFEB}|LineNumbers\\LineNumbers.csproj|solutionrelative:linenumbers\\linenumbers.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771B504C-43FE-4128-ADA3-1E39462D9DE1}|EvenLines\\EvenLines.csproj|c:\\users\\tedil\\source\\repos\\softuni_advanced_c#\\skeleton-exercise\\evenlines\\evenlines.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}",
+      "RelativeMoniker": "D:0:0:{771B504C-43FE-4128-ADA3-1E39462D9DE1}|EvenLines\\EvenLines.csproj|solutionrelative:evenlines\\evenlines.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E38DC2DB-C03C-497A-BD3E-C2C9934A0832}|DirectoryTraversal\\DirectoryTraversal.csproj|c:\\users\\tedil\\source\\repos\\softuni_advanced_c#\\skeleton-exercise\\directorytraversal\\directorytraversal.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}",
+      "RelativeMoniker": "D:0:0:{E38DC2DB-C03C-497A-BD3E-C2C9934A0832}|DirectoryTraversal\\DirectoryTraversal.csproj|solutionrelative:directorytraversal\\directorytraversal.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3564004F-29BB-4F4B-8E46-126FEB938E2D}|CopyDirectory\\CopyDirectory.csproj|c:\\users\\tedil\\source\\repos\\softuni_advanced_c#\\skeleton-exercise\\copydirectory\\copydirectory.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}",
+      "RelativeMoniker": "D:0:0:{3564004F-29BB-4F4B-8E46-126FEB938E2D}|CopyDirectory\\CopyDirectory.csproj|solutionrelative:copydirectory\\copydirectory.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE12AA4C-3DC6-4FE3-9E3B-6DCB22ECFE07}|CopyBinaryFile\\CopyBinaryFile.csproj|c:\\users\\tedil\\source\\repos\\softuni_advanced_c#\\skeleton-exercise\\copybinaryfile\\copybinaryfile.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}",
+      "RelativeMoniker": "D:0:0:{CE12AA4C-3DC6-4FE3-9E3B-6DCB22ECFE07}|CopyBinaryFile\\CopyBinaryFile.csproj|solutionrelative:copybinaryfile\\copybinaryfile.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DirectoryTraversal.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\Softuni_Advanced_c#\\Skeleton-Exercise\\DirectoryTraversal\\DirectoryTraversal.cs",
+              "RelativeDocumentMoniker": "DirectoryTraversal\\DirectoryTraversal.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\Softuni_Advanced_c#\\Skeleton-Exercise\\DirectoryTraversal\\DirectoryTraversal.cs*",
+              "RelativeToolTip": "DirectoryTraversal\\DirectoryTraversal.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T17:35:37.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "copyMe.png - PNG [600x315, 8 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\Softuni_Advanced_c#\\Skeleton-Exercise\\CopyBinaryFile\\copyMe.png",
+              "RelativeDocumentMoniker": "CopyBinaryFile\\copyMe.png",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\Softuni_Advanced_c#\\Skeleton-Exercise\\CopyBinaryFile\\copyMe.png - PNG [600x315, 8 bit, PNG]",
+              "RelativeToolTip": "CopyBinaryFile\\copyMe.png - PNG [600x315, 8 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-09-21T16:36:44.34Z",
+              "EditorCaption": " - PNG [600x315, 8 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "copyMe-copy.png",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\Softuni_Advanced_c#\\Skeleton-Exercise\\CopyBinaryFile\\copyMe-copy.png",
+              "RelativeDocumentMoniker": "CopyBinaryFile\\copyMe-copy.png",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\Softuni_Advanced_c#\\Skeleton-Exercise\\CopyBinaryFile\\copyMe-copy.png*",
+              "RelativeToolTip": "CopyBinaryFile\\copyMe-copy.png*",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-09-21T16:36:43.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CopyBinaryFile.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\Softuni_Advanced_c#\\Skeleton-Exercise\\CopyBinaryFile\\CopyBinaryFile.cs",
+              "RelativeDocumentMoniker": "CopyBinaryFile\\CopyBinaryFile.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\Softuni_Advanced_c#\\Skeleton-Exercise\\CopyBinaryFile\\CopyBinaryFile.cs",
+              "RelativeToolTip": "CopyBinaryFile\\CopyBinaryFile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T16:32:41.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "output.txt",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\Softuni_Advanced_c#\\Skeleton-Exercise\\LineNumbers\\output.txt",
+              "RelativeDocumentMoniker": "LineNumbers\\output.txt",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\Softuni_Advanced_c#\\Skeleton-Exercise\\LineNumbers\\output.txt",
+              "RelativeToolTip": "LineNumbers\\output.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-21T16:26:16.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LineNumbers.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\Softuni_Advanced_c#\\Skeleton-Exercise\\LineNumbers\\LineNumbers.cs",
+              "RelativeDocumentMoniker": "LineNumbers\\LineNumbers.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\Softuni_Advanced_c#\\Skeleton-Exercise\\LineNumbers\\LineNumbers.cs",
+              "RelativeToolTip": "LineNumbers\\LineNumbers.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T15:49:00.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EvenLines.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\Softuni_Advanced_c#\\Skeleton-Exercise\\EvenLines\\EvenLines.cs",
+              "RelativeDocumentMoniker": "EvenLines\\EvenLines.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\Softuni_Advanced_c#\\Skeleton-Exercise\\EvenLines\\EvenLines.cs",
+              "RelativeToolTip": "EvenLines\\EvenLines.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T14:27:11.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LineNumbers.csproj",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\Softuni_Advanced_c#\\Skeleton-Exercise\\LineNumbers\\LineNumbers.csproj",
+              "RelativeDocumentMoniker": "LineNumbers\\LineNumbers.csproj",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\Softuni_Advanced_c#\\Skeleton-Exercise\\LineNumbers\\LineNumbers.csproj",
+              "RelativeToolTip": "LineNumbers\\LineNumbers.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-21T14:25:33.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DirectoryTraversal.csproj",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\Softuni_Advanced_c#\\Skeleton-Exercise\\DirectoryTraversal\\DirectoryTraversal.csproj",
+              "RelativeDocumentMoniker": "DirectoryTraversal\\DirectoryTraversal.csproj",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\Softuni_Advanced_c#\\Skeleton-Exercise\\DirectoryTraversal\\DirectoryTraversal.csproj",
+              "RelativeToolTip": "DirectoryTraversal\\DirectoryTraversal.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-21T14:25:33.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CopyBinaryFile.csproj",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\Softuni_Advanced_c#\\Skeleton-Exercise\\CopyBinaryFile\\CopyBinaryFile.csproj",
+              "RelativeDocumentMoniker": "CopyBinaryFile\\CopyBinaryFile.csproj",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\Softuni_Advanced_c#\\Skeleton-Exercise\\CopyBinaryFile\\CopyBinaryFile.csproj",
+              "RelativeToolTip": "CopyBinaryFile\\CopyBinaryFile.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-21T14:25:33.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ZipAndExtract.csproj",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\Softuni_Advanced_c#\\Skeleton-Exercise\\ZipAndExtract\\ZipAndExtract.csproj",
+              "RelativeDocumentMoniker": "ZipAndExtract\\ZipAndExtract.csproj",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\Softuni_Advanced_c#\\Skeleton-Exercise\\ZipAndExtract\\ZipAndExtract.csproj",
+              "RelativeToolTip": "ZipAndExtract\\ZipAndExtract.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-21T14:25:33.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ZipAndExtract",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\Softuni_Advanced_c#\\Skeleton-Exercise\\ZipAndExtract\\ZipAndExtract.csproj",
+              "RelativeDocumentMoniker": "ZipAndExtract\\ZipAndExtract.csproj",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\Softuni_Advanced_c#\\Skeleton-Exercise\\ZipAndExtract\\ZipAndExtract.csproj",
+              "RelativeToolTip": "ZipAndExtract\\ZipAndExtract.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-21T14:25:33.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EvenLines.csproj",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\Softuni_Advanced_c#\\Skeleton-Exercise\\EvenLines\\EvenLines.csproj",
+              "RelativeDocumentMoniker": "EvenLines\\EvenLines.csproj",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\Softuni_Advanced_c#\\Skeleton-Exercise\\EvenLines\\EvenLines.csproj",
+              "RelativeToolTip": "EvenLines\\EvenLines.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-21T14:25:33.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CopyDirectory.csproj",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\Softuni_Advanced_c#\\Skeleton-Exercise\\CopyDirectory\\CopyDirectory.csproj",
+              "RelativeDocumentMoniker": "CopyDirectory\\CopyDirectory.csproj",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\Softuni_Advanced_c#\\Skeleton-Exercise\\CopyDirectory\\CopyDirectory.csproj",
+              "RelativeToolTip": "CopyDirectory\\CopyDirectory.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-21T14:25:33.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LineNumbers",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\Softuni_Advanced_c#\\Skeleton-Exercise\\LineNumbers\\LineNumbers.csproj",
+              "RelativeDocumentMoniker": "LineNumbers\\LineNumbers.csproj",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\Softuni_Advanced_c#\\Skeleton-Exercise\\LineNumbers\\LineNumbers.csproj",
+              "RelativeToolTip": "LineNumbers\\LineNumbers.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-21T14:25:33.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EvenLines",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\Softuni_Advanced_c#\\Skeleton-Exercise\\EvenLines\\EvenLines.csproj",
+              "RelativeDocumentMoniker": "EvenLines\\EvenLines.csproj",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\Softuni_Advanced_c#\\Skeleton-Exercise\\EvenLines\\EvenLines.csproj",
+              "RelativeToolTip": "EvenLines\\EvenLines.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-21T14:25:33.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DirectoryTraversal",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\Softuni_Advanced_c#\\Skeleton-Exercise\\DirectoryTraversal\\DirectoryTraversal.csproj",
+              "RelativeDocumentMoniker": "DirectoryTraversal\\DirectoryTraversal.csproj",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\Softuni_Advanced_c#\\Skeleton-Exercise\\DirectoryTraversal\\DirectoryTraversal.csproj",
+              "RelativeToolTip": "DirectoryTraversal\\DirectoryTraversal.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-21T14:25:33.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CopyDirectory",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\Softuni_Advanced_c#\\Skeleton-Exercise\\CopyDirectory\\CopyDirectory.csproj",
+              "RelativeDocumentMoniker": "CopyDirectory\\CopyDirectory.csproj",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\Softuni_Advanced_c#\\Skeleton-Exercise\\CopyDirectory\\CopyDirectory.csproj",
+              "RelativeToolTip": "CopyDirectory\\CopyDirectory.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-21T14:25:33.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CopyBinaryFile",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\Softuni_Advanced_c#\\Skeleton-Exercise\\CopyBinaryFile\\CopyBinaryFile.csproj",
+              "RelativeDocumentMoniker": "CopyBinaryFile\\CopyBinaryFile.csproj",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\Softuni_Advanced_c#\\Skeleton-Exercise\\CopyBinaryFile\\CopyBinaryFile.csproj",
+              "RelativeToolTip": "CopyBinaryFile\\CopyBinaryFile.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-21T14:25:33.939Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

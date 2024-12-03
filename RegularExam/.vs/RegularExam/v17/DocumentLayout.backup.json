@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tedil\\source\\repos\\RegularExam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA38D1E7-B4D4-4126-B6AF-9CE994779715}|..\\..\\..\\Downloads\\CreaturesOfTheCode\\CreaturesOfTheCode\\CreaturesOfTheCode.csproj|c:\\users\\tedil\\downloads\\creaturesofthecode\\creaturesofthecode\\mythicalcreatureshub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA38D1E7-B4D4-4126-B6AF-9CE994779715}|..\\..\\..\\Downloads\\CreaturesOfTheCode\\CreaturesOfTheCode\\CreaturesOfTheCode.csproj|c:\\users\\tedil\\downloads\\creaturesofthecode\\creaturesofthecode\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA38D1E7-B4D4-4126-B6AF-9CE994779715}|..\\..\\..\\Downloads\\CreaturesOfTheCode\\CreaturesOfTheCode\\CreaturesOfTheCode.csproj|c:\\users\\tedil\\downloads\\creaturesofthecode\\creaturesofthecode\\creature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Creature.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\Downloads\\CreaturesOfTheCode\\CreaturesOfTheCode\\Creature.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\CreaturesOfTheCode\\CreaturesOfTheCode\\Creature.cs",
+              "ToolTip": "C:\\Users\\tedil\\Downloads\\CreaturesOfTheCode\\CreaturesOfTheCode\\Creature.cs",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\CreaturesOfTheCode\\CreaturesOfTheCode\\Creature.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T06:53:36.94Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\Downloads\\CreaturesOfTheCode\\CreaturesOfTheCode\\StartUp.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\CreaturesOfTheCode\\CreaturesOfTheCode\\StartUp.cs",
+              "ToolTip": "C:\\Users\\tedil\\Downloads\\CreaturesOfTheCode\\CreaturesOfTheCode\\StartUp.cs",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\CreaturesOfTheCode\\CreaturesOfTheCode\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T06:53:35.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MythicalCreaturesHub.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\Downloads\\CreaturesOfTheCode\\CreaturesOfTheCode\\MythicalCreaturesHub.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\CreaturesOfTheCode\\CreaturesOfTheCode\\MythicalCreaturesHub.cs",
+              "ToolTip": "C:\\Users\\tedil\\Downloads\\CreaturesOfTheCode\\CreaturesOfTheCode\\MythicalCreaturesHub.cs",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\CreaturesOfTheCode\\CreaturesOfTheCode\\MythicalCreaturesHub.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAC8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T06:53:36.346Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

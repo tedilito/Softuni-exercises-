@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\ExercisesSetsandDictionariesAdvanced\PereodicTable\bin\Debug\net8.0\PereodicTable.exe
+C:\Users\tedil\source\repos\ExercisesSetsandDictionariesAdvanced\PereodicTable\bin\Debug\net8.0\PereodicTable.deps.json
+C:\Users\tedil\source\repos\ExercisesSetsandDictionariesAdvanced\PereodicTable\bin\Debug\net8.0\PereodicTable.runtimeconfig.json
+C:\Users\tedil\source\repos\ExercisesSetsandDictionariesAdvanced\PereodicTable\bin\Debug\net8.0\PereodicTable.dll
+C:\Users\tedil\source\repos\ExercisesSetsandDictionariesAdvanced\PereodicTable\bin\Debug\net8.0\PereodicTable.pdb
+C:\Users\tedil\source\repos\ExercisesSetsandDictionariesAdvanced\PereodicTable\obj\Debug\net8.0\PereodicTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\ExercisesSetsandDictionariesAdvanced\PereodicTable\obj\Debug\net8.0\PereodicTable.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\ExercisesSetsandDictionariesAdvanced\PereodicTable\obj\Debug\net8.0\PereodicTable.AssemblyInfo.cs
+C:\Users\tedil\source\repos\ExercisesSetsandDictionariesAdvanced\PereodicTable\obj\Debug\net8.0\PereodicTable.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\ExercisesSetsandDictionariesAdvanced\PereodicTable\obj\Debug\net8.0\PereodicTable.dll
+C:\Users\tedil\source\repos\ExercisesSetsandDictionariesAdvanced\PereodicTable\obj\Debug\net8.0\refint\PereodicTable.dll
+C:\Users\tedil\source\repos\ExercisesSetsandDictionariesAdvanced\PereodicTable\obj\Debug\net8.0\PereodicTable.pdb
+C:\Users\tedil\source\repos\ExercisesSetsandDictionariesAdvanced\PereodicTable\obj\Debug\net8.0\PereodicTable.genruntimeconfig.cache
+C:\Users\tedil\source\repos\ExercisesSetsandDictionariesAdvanced\PereodicTable\obj\Debug\net8.0\ref\PereodicTable.dll

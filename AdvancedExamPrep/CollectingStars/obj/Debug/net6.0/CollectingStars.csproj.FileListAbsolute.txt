@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\AdvancedExamPrep\CollectingStars\bin\Debug\net6.0\CollectingStars.exe
+C:\Users\tedil\source\repos\AdvancedExamPrep\CollectingStars\bin\Debug\net6.0\CollectingStars.deps.json
+C:\Users\tedil\source\repos\AdvancedExamPrep\CollectingStars\bin\Debug\net6.0\CollectingStars.runtimeconfig.json
+C:\Users\tedil\source\repos\AdvancedExamPrep\CollectingStars\bin\Debug\net6.0\CollectingStars.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\CollectingStars\bin\Debug\net6.0\CollectingStars.pdb
+C:\Users\tedil\source\repos\AdvancedExamPrep\CollectingStars\obj\Debug\net6.0\CollectingStars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\AdvancedExamPrep\CollectingStars\obj\Debug\net6.0\CollectingStars.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\CollectingStars\obj\Debug\net6.0\CollectingStars.AssemblyInfo.cs
+C:\Users\tedil\source\repos\AdvancedExamPrep\CollectingStars\obj\Debug\net6.0\CollectingStars.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\CollectingStars\obj\Debug\net6.0\CollectingStars.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\CollectingStars\obj\Debug\net6.0\refint\CollectingStars.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\CollectingStars\obj\Debug\net6.0\CollectingStars.pdb
+C:\Users\tedil\source\repos\AdvancedExamPrep\CollectingStars\obj\Debug\net6.0\CollectingStars.genruntimeconfig.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\CollectingStars\obj\Debug\net6.0\ref\CollectingStars.dll

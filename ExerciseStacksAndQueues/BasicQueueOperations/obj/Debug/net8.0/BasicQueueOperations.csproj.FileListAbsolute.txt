@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\BasicQueueOperations\bin\Debug\net8.0\BasicQueueOperations.exe
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\BasicQueueOperations\bin\Debug\net8.0\BasicQueueOperations.deps.json
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\BasicQueueOperations\bin\Debug\net8.0\BasicQueueOperations.runtimeconfig.json
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\BasicQueueOperations\bin\Debug\net8.0\BasicQueueOperations.dll
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\BasicQueueOperations\bin\Debug\net8.0\BasicQueueOperations.pdb
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\BasicQueueOperations\obj\Debug\net8.0\BasicQueueOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\BasicQueueOperations\obj\Debug\net8.0\BasicQueueOperations.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\BasicQueueOperations\obj\Debug\net8.0\BasicQueueOperations.AssemblyInfo.cs
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\BasicQueueOperations\obj\Debug\net8.0\BasicQueueOperations.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\BasicQueueOperations\obj\Debug\net8.0\BasicQueueOperations.dll
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\BasicQueueOperations\obj\Debug\net8.0\refint\BasicQueueOperations.dll
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\BasicQueueOperations\obj\Debug\net8.0\BasicQueueOperations.pdb
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\BasicQueueOperations\obj\Debug\net8.0\BasicQueueOperations.genruntimeconfig.cache
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\BasicQueueOperations\obj\Debug\net8.0\ref\BasicQueueOperations.dll

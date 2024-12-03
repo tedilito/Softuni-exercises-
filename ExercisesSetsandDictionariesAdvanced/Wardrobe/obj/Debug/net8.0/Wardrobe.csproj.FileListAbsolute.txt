@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\ExercisesSetsandDictionariesAdvanced\Wardrobe\bin\Debug\net8.0\Wardrobe.exe
+C:\Users\tedil\source\repos\ExercisesSetsandDictionariesAdvanced\Wardrobe\bin\Debug\net8.0\Wardrobe.deps.json
+C:\Users\tedil\source\repos\ExercisesSetsandDictionariesAdvanced\Wardrobe\bin\Debug\net8.0\Wardrobe.runtimeconfig.json
+C:\Users\tedil\source\repos\ExercisesSetsandDictionariesAdvanced\Wardrobe\bin\Debug\net8.0\Wardrobe.dll
+C:\Users\tedil\source\repos\ExercisesSetsandDictionariesAdvanced\Wardrobe\bin\Debug\net8.0\Wardrobe.pdb
+C:\Users\tedil\source\repos\ExercisesSetsandDictionariesAdvanced\Wardrobe\obj\Debug\net8.0\Wardrobe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\ExercisesSetsandDictionariesAdvanced\Wardrobe\obj\Debug\net8.0\Wardrobe.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\ExercisesSetsandDictionariesAdvanced\Wardrobe\obj\Debug\net8.0\Wardrobe.AssemblyInfo.cs
+C:\Users\tedil\source\repos\ExercisesSetsandDictionariesAdvanced\Wardrobe\obj\Debug\net8.0\Wardrobe.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\ExercisesSetsandDictionariesAdvanced\Wardrobe\obj\Debug\net8.0\Wardrobe.dll
+C:\Users\tedil\source\repos\ExercisesSetsandDictionariesAdvanced\Wardrobe\obj\Debug\net8.0\refint\Wardrobe.dll
+C:\Users\tedil\source\repos\ExercisesSetsandDictionariesAdvanced\Wardrobe\obj\Debug\net8.0\Wardrobe.pdb
+C:\Users\tedil\source\repos\ExercisesSetsandDictionariesAdvanced\Wardrobe\obj\Debug\net8.0\Wardrobe.genruntimeconfig.cache
+C:\Users\tedil\source\repos\ExercisesSetsandDictionariesAdvanced\Wardrobe\obj\Debug\net8.0\ref\Wardrobe.dll

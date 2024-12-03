@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\RecordUniqueNames\bin\Debug\net8.0\RecordUniqueNames.exe
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\RecordUniqueNames\bin\Debug\net8.0\RecordUniqueNames.deps.json
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\RecordUniqueNames\bin\Debug\net8.0\RecordUniqueNames.runtimeconfig.json
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\RecordUniqueNames\bin\Debug\net8.0\RecordUniqueNames.dll
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\RecordUniqueNames\bin\Debug\net8.0\RecordUniqueNames.pdb
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\RecordUniqueNames\obj\Debug\net8.0\RecordUniqueNames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\RecordUniqueNames\obj\Debug\net8.0\RecordUniqueNames.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\RecordUniqueNames\obj\Debug\net8.0\RecordUniqueNames.AssemblyInfo.cs
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\RecordUniqueNames\obj\Debug\net8.0\RecordUniqueNames.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\RecordUniqueNames\obj\Debug\net8.0\RecordUniqueNames.dll
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\RecordUniqueNames\obj\Debug\net8.0\refint\RecordUniqueNames.dll
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\RecordUniqueNames\obj\Debug\net8.0\RecordUniqueNames.pdb
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\RecordUniqueNames\obj\Debug\net8.0\RecordUniqueNames.genruntimeconfig.cache
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\RecordUniqueNames\obj\Debug\net8.0\ref\RecordUniqueNames.dll

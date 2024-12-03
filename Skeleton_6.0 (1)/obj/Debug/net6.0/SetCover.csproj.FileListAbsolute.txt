@@ -1,0 +1,14 @@
+C:\Users\tedil\Downloads\Skeleton_6.0 (1)\bin\Debug\net6.0\SetCover.exe
+C:\Users\tedil\Downloads\Skeleton_6.0 (1)\bin\Debug\net6.0\SetCover.deps.json
+C:\Users\tedil\Downloads\Skeleton_6.0 (1)\bin\Debug\net6.0\SetCover.runtimeconfig.json
+C:\Users\tedil\Downloads\Skeleton_6.0 (1)\bin\Debug\net6.0\SetCover.dll
+C:\Users\tedil\Downloads\Skeleton_6.0 (1)\bin\Debug\net6.0\SetCover.pdb
+C:\Users\tedil\Downloads\Skeleton_6.0 (1)\obj\Debug\net6.0\SetCover.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\Downloads\Skeleton_6.0 (1)\obj\Debug\net6.0\SetCover.AssemblyInfoInputs.cache
+C:\Users\tedil\Downloads\Skeleton_6.0 (1)\obj\Debug\net6.0\SetCover.AssemblyInfo.cs
+C:\Users\tedil\Downloads\Skeleton_6.0 (1)\obj\Debug\net6.0\SetCover.csproj.CoreCompileInputs.cache
+C:\Users\tedil\Downloads\Skeleton_6.0 (1)\obj\Debug\net6.0\SetCover.dll
+C:\Users\tedil\Downloads\Skeleton_6.0 (1)\obj\Debug\net6.0\refint\SetCover.dll
+C:\Users\tedil\Downloads\Skeleton_6.0 (1)\obj\Debug\net6.0\SetCover.pdb
+C:\Users\tedil\Downloads\Skeleton_6.0 (1)\obj\Debug\net6.0\SetCover.genruntimeconfig.cache
+C:\Users\tedil\Downloads\Skeleton_6.0 (1)\obj\Debug\net6.0\ref\SetCover.dll

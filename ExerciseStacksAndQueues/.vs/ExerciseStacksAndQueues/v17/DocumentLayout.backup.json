@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tedil\\source\\repos\\ExerciseStacksAndQueues\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3E857BD-CF00-4129-B99C-9A10C2E349EA}|Crossroads\\Crossroads.csproj|c:\\users\\tedil\\source\\repos\\exercisestacksandqueues\\crossroads\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3E857BD-CF00-4129-B99C-9A10C2E349EA}|Crossroads\\Crossroads.csproj|solutionrelative:crossroads\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA7EC38-A817-464C-A66F-937D9E843C41}|KeyRevolver\\KeyRevolver.csproj|c:\\users\\tedil\\source\\repos\\exercisestacksandqueues\\keyrevolver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA7EC38-A817-464C-A66F-937D9E843C41}|KeyRevolver\\KeyRevolver.csproj|solutionrelative:keyrevolver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB78BC6A-6204-4257-9768-5B3BA1D99798}|CupsAndBottles\\CupsAndBottles.csproj|c:\\users\\tedil\\source\\repos\\exercisestacksandqueues\\cupsandbottles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB78BC6A-6204-4257-9768-5B3BA1D99798}|CupsAndBottles\\CupsAndBottles.csproj|solutionrelative:cupsandbottles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FECAB1B-C20C-4E29-9804-B3B3302B77B0}|SimpleTextEditor\\SimpleTextEditor.csproj|c:\\users\\tedil\\source\\repos\\exercisestacksandqueues\\simpletexteditor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FECAB1B-C20C-4E29-9804-B3B3302B77B0}|SimpleTextEditor\\SimpleTextEditor.csproj|solutionrelative:simpletexteditor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A7CE470-7D03-4114-9FBB-119D27367375}|BalancedParentheses\\BalancedParentheses.csproj|c:\\users\\tedil\\source\\repos\\exercisestacksandqueues\\balancedparentheses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A7CE470-7D03-4114-9FBB-119D27367375}|BalancedParentheses\\BalancedParentheses.csproj|solutionrelative:balancedparentheses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7678CD4-231F-4EF8-8DF5-A3A142C33C9B}|TruckTour\\TruckTour.csproj|c:\\users\\tedil\\source\\repos\\exercisestacksandqueues\\trucktour\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7678CD4-231F-4EF8-8DF5-A3A142C33C9B}|TruckTour\\TruckTour.csproj|solutionrelative:trucktour\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C1ADEA-F739-4C81-B622-61940F29E4A5}|SongsQueue\\SongsQueue.csproj|c:\\users\\tedil\\source\\repos\\exercisestacksandqueues\\songsqueue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C1ADEA-F739-4C81-B622-61940F29E4A5}|SongsQueue\\SongsQueue.csproj|solutionrelative:songsqueue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BF3FB0-269D-4AD0-9388-2FD750BD8FCC}|FashionBoutique\\FashionBoutique.csproj|c:\\users\\tedil\\source\\repos\\exercisestacksandqueues\\fashionboutique\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15BF3FB0-269D-4AD0-9388-2FD750BD8FCC}|FashionBoutique\\FashionBoutique.csproj|solutionrelative:fashionboutique\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E9A387-EF7E-4590-9E9B-F5EF46F30281}|FastFood\\FastFood.csproj|c:\\users\\tedil\\source\\repos\\exercisestacksandqueues\\fastfood\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E9A387-EF7E-4590-9E9B-F5EF46F30281}|FastFood\\FastFood.csproj|solutionrelative:fastfood\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA3F60A-FE06-4586-90CD-0E0F79AF0436}|MaximumAndMinimumElement\\MaximumAndMinimumElement.csproj|c:\\users\\tedil\\source\\repos\\exercisestacksandqueues\\maximumandminimumelement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CA3F60A-FE06-4586-90CD-0E0F79AF0436}|MaximumAndMinimumElement\\MaximumAndMinimumElement.csproj|solutionrelative:maximumandminimumelement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7BE610D-8318-4738-BFE7-8809E55E9CA8}|BasicQueueOperations\\BasicQueueOperations.csproj|c:\\users\\tedil\\source\\repos\\exercisestacksandqueues\\basicqueueoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7BE610D-8318-4738-BFE7-8809E55E9CA8}|BasicQueueOperations\\BasicQueueOperations.csproj|solutionrelative:basicqueueoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC711F3-4359-4425-AE57-CBA3AD3748C9}|BasicStackOperations\\BasicStackOperations.csproj|c:\\users\\tedil\\source\\repos\\exercisestacksandqueues\\basicstackoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC711F3-4359-4425-AE57-CBA3AD3748C9}|BasicStackOperations\\BasicStackOperations.csproj|solutionrelative:basicstackoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExerciseStacksAndQueues\\FashionBoutique\\Program.cs",
+              "RelativeDocumentMoniker": "FashionBoutique\\Program.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExerciseStacksAndQueues\\FashionBoutique\\Program.cs",
+              "RelativeToolTip": "FashionBoutique\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T21:12:19.338Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExerciseStacksAndQueues\\Crossroads\\Program.cs",
+              "RelativeDocumentMoniker": "Crossroads\\Program.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExerciseStacksAndQueues\\Crossroads\\Program.cs",
+              "RelativeToolTip": "Crossroads\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T18:51:31.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExerciseStacksAndQueues\\KeyRevolver\\Program.cs",
+              "RelativeDocumentMoniker": "KeyRevolver\\Program.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExerciseStacksAndQueues\\KeyRevolver\\Program.cs",
+              "RelativeToolTip": "KeyRevolver\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T13:02:43.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExerciseStacksAndQueues\\CupsAndBottles\\Program.cs",
+              "RelativeDocumentMoniker": "CupsAndBottles\\Program.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExerciseStacksAndQueues\\CupsAndBottles\\Program.cs",
+              "RelativeToolTip": "CupsAndBottles\\Program.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAqwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T12:17:58.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExerciseStacksAndQueues\\SimpleTextEditor\\Program.cs",
+              "RelativeDocumentMoniker": "SimpleTextEditor\\Program.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExerciseStacksAndQueues\\SimpleTextEditor\\Program.cs",
+              "RelativeToolTip": "SimpleTextEditor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T11:38:41.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExerciseStacksAndQueues\\BalancedParentheses\\Program.cs",
+              "RelativeDocumentMoniker": "BalancedParentheses\\Program.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExerciseStacksAndQueues\\BalancedParentheses\\Program.cs",
+              "RelativeToolTip": "BalancedParentheses\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAkwCYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T11:27:04.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExerciseStacksAndQueues\\TruckTour\\Program.cs",
+              "RelativeDocumentMoniker": "TruckTour\\Program.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExerciseStacksAndQueues\\TruckTour\\Program.cs",
+              "RelativeToolTip": "TruckTour\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T10:50:44.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExerciseStacksAndQueues\\SongsQueue\\Program.cs",
+              "RelativeDocumentMoniker": "SongsQueue\\Program.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExerciseStacksAndQueues\\SongsQueue\\Program.cs",
+              "RelativeToolTip": "SongsQueue\\Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAiwCkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T09:46:32.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExerciseStacksAndQueues\\FastFood\\Program.cs",
+              "RelativeDocumentMoniker": "FastFood\\Program.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExerciseStacksAndQueues\\FastFood\\Program.cs",
+              "RelativeToolTip": "FastFood\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T20:18:22.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExerciseStacksAndQueues\\MaximumAndMinimumElement\\Program.cs",
+              "RelativeDocumentMoniker": "MaximumAndMinimumElement\\Program.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExerciseStacksAndQueues\\MaximumAndMinimumElement\\Program.cs",
+              "RelativeToolTip": "MaximumAndMinimumElement\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAkwCIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T19:50:53.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExerciseStacksAndQueues\\BasicQueueOperations\\Program.cs",
+              "RelativeDocumentMoniker": "BasicQueueOperations\\Program.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExerciseStacksAndQueues\\BasicQueueOperations\\Program.cs",
+              "RelativeToolTip": "BasicQueueOperations\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAkwBkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T19:36:21.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExerciseStacksAndQueues\\BasicStackOperations\\Program.cs",
+              "RelativeDocumentMoniker": "BasicStackOperations\\Program.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExerciseStacksAndQueues\\BasicStackOperations\\Program.cs",
+              "RelativeToolTip": "BasicStackOperations\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T19:23:45.547Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

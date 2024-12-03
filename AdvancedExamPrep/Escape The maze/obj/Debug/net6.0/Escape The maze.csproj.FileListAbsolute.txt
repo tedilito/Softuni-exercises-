@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\AdvancedExamPrep\Escape The maze\bin\Debug\net6.0\Escape The maze.exe
+C:\Users\tedil\source\repos\AdvancedExamPrep\Escape The maze\bin\Debug\net6.0\Escape The maze.deps.json
+C:\Users\tedil\source\repos\AdvancedExamPrep\Escape The maze\bin\Debug\net6.0\Escape The maze.runtimeconfig.json
+C:\Users\tedil\source\repos\AdvancedExamPrep\Escape The maze\bin\Debug\net6.0\Escape The maze.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\Escape The maze\bin\Debug\net6.0\Escape The maze.pdb
+C:\Users\tedil\source\repos\AdvancedExamPrep\Escape The maze\obj\Debug\net6.0\Escape The maze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\AdvancedExamPrep\Escape The maze\obj\Debug\net6.0\Escape The maze.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\Escape The maze\obj\Debug\net6.0\Escape The maze.AssemblyInfo.cs
+C:\Users\tedil\source\repos\AdvancedExamPrep\Escape The maze\obj\Debug\net6.0\Escape The maze.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\Escape The maze\obj\Debug\net6.0\Escape The maze.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\Escape The maze\obj\Debug\net6.0\refint\Escape The maze.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\Escape The maze\obj\Debug\net6.0\Escape The maze.pdb
+C:\Users\tedil\source\repos\AdvancedExamPrep\Escape The maze\obj\Debug\net6.0\Escape The maze.genruntimeconfig.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\Escape The maze\obj\Debug\net6.0\ref\Escape The maze.dll

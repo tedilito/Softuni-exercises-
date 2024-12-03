@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tedil\\Downloads\\EstateAgency-Skeleton\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{441E469A-2190-4B69-B8CC-7B18C6C75212}|EstateAgency\\EstateAgency.csproj|c:\\users\\tedil\\downloads\\estateagency-skeleton\\estateagency\\estateagency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{441E469A-2190-4B69-B8CC-7B18C6C75212}|EstateAgency\\EstateAgency.csproj|solutionrelative:estateagency\\estateagency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{441E469A-2190-4B69-B8CC-7B18C6C75212}|EstateAgency\\EstateAgency.csproj|c:\\users\\tedil\\downloads\\estateagency-skeleton\\estateagency\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{441E469A-2190-4B69-B8CC-7B18C6C75212}|EstateAgency\\EstateAgency.csproj|solutionrelative:estateagency\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{441E469A-2190-4B69-B8CC-7B18C6C75212}|EstateAgency\\EstateAgency.csproj|c:\\users\\tedil\\downloads\\estateagency-skeleton\\estateagency\\realestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{441E469A-2190-4B69-B8CC-7B18C6C75212}|EstateAgency\\EstateAgency.csproj|solutionrelative:estateagency\\realestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\Downloads\\EstateAgency-Skeleton\\EstateAgency\\StartUp.cs",
+              "RelativeDocumentMoniker": "EstateAgency\\StartUp.cs",
+              "ToolTip": "C:\\Users\\tedil\\Downloads\\EstateAgency-Skeleton\\EstateAgency\\StartUp.cs",
+              "RelativeToolTip": "EstateAgency\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T11:22:50.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EstateAgency.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\Downloads\\EstateAgency-Skeleton\\EstateAgency\\EstateAgency.cs",
+              "RelativeDocumentMoniker": "EstateAgency\\EstateAgency.cs",
+              "ToolTip": "C:\\Users\\tedil\\Downloads\\EstateAgency-Skeleton\\EstateAgency\\EstateAgency.cs",
+              "RelativeToolTip": "EstateAgency\\EstateAgency.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T11:06:01.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RealEstate.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\Downloads\\EstateAgency-Skeleton\\EstateAgency\\RealEstate.cs",
+              "RelativeDocumentMoniker": "EstateAgency\\RealEstate.cs",
+              "ToolTip": "C:\\Users\\tedil\\Downloads\\EstateAgency-Skeleton\\EstateAgency\\RealEstate.cs",
+              "RelativeToolTip": "EstateAgency\\RealEstate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T10:31:58.847Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

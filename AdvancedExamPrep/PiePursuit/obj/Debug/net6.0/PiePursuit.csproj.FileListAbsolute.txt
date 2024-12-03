@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\AdvancedExamPrep\PiePursuit\bin\Debug\net6.0\PiePursuit.exe
+C:\Users\tedil\source\repos\AdvancedExamPrep\PiePursuit\bin\Debug\net6.0\PiePursuit.deps.json
+C:\Users\tedil\source\repos\AdvancedExamPrep\PiePursuit\bin\Debug\net6.0\PiePursuit.runtimeconfig.json
+C:\Users\tedil\source\repos\AdvancedExamPrep\PiePursuit\bin\Debug\net6.0\PiePursuit.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\PiePursuit\bin\Debug\net6.0\PiePursuit.pdb
+C:\Users\tedil\source\repos\AdvancedExamPrep\PiePursuit\obj\Debug\net6.0\PiePursuit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\AdvancedExamPrep\PiePursuit\obj\Debug\net6.0\PiePursuit.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\PiePursuit\obj\Debug\net6.0\PiePursuit.AssemblyInfo.cs
+C:\Users\tedil\source\repos\AdvancedExamPrep\PiePursuit\obj\Debug\net6.0\PiePursuit.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\PiePursuit\obj\Debug\net6.0\PiePursuit.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\PiePursuit\obj\Debug\net6.0\refint\PiePursuit.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\PiePursuit\obj\Debug\net6.0\PiePursuit.pdb
+C:\Users\tedil\source\repos\AdvancedExamPrep\PiePursuit\obj\Debug\net6.0\PiePursuit.genruntimeconfig.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\PiePursuit\obj\Debug\net6.0\ref\PiePursuit.dll

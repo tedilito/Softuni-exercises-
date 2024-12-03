@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\InterfaceAndAbstraction\Cars\bin\Debug\net6.0\Cars.exe
+C:\Users\tedil\source\repos\InterfaceAndAbstraction\Cars\bin\Debug\net6.0\Cars.deps.json
+C:\Users\tedil\source\repos\InterfaceAndAbstraction\Cars\bin\Debug\net6.0\Cars.runtimeconfig.json
+C:\Users\tedil\source\repos\InterfaceAndAbstraction\Cars\bin\Debug\net6.0\Cars.dll
+C:\Users\tedil\source\repos\InterfaceAndAbstraction\Cars\bin\Debug\net6.0\Cars.pdb
+C:\Users\tedil\source\repos\InterfaceAndAbstraction\Cars\obj\Debug\net6.0\Cars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\InterfaceAndAbstraction\Cars\obj\Debug\net6.0\Cars.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\InterfaceAndAbstraction\Cars\obj\Debug\net6.0\Cars.AssemblyInfo.cs
+C:\Users\tedil\source\repos\InterfaceAndAbstraction\Cars\obj\Debug\net6.0\Cars.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\InterfaceAndAbstraction\Cars\obj\Debug\net6.0\Cars.dll
+C:\Users\tedil\source\repos\InterfaceAndAbstraction\Cars\obj\Debug\net6.0\refint\Cars.dll
+C:\Users\tedil\source\repos\InterfaceAndAbstraction\Cars\obj\Debug\net6.0\Cars.pdb
+C:\Users\tedil\source\repos\InterfaceAndAbstraction\Cars\obj\Debug\net6.0\Cars.genruntimeconfig.cache
+C:\Users\tedil\source\repos\InterfaceAndAbstraction\Cars\obj\Debug\net6.0\ref\Cars.dll

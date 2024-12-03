@@ -1,0 +1,512 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tedil\\source\\repos\\ExercisePolymorphism\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD28A18-9999-4EDD-9AB4-176DB5F8E43B}|WildFarm\\WildFarm.csproj|c:\\users\\tedil\\source\\repos\\exercisepolymorphism\\wildfarm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD28A18-9999-4EDD-9AB4-176DB5F8E43B}|WildFarm\\WildFarm.csproj|solutionrelative:wildfarm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD28A18-9999-4EDD-9AB4-176DB5F8E43B}|WildFarm\\WildFarm.csproj|c:\\users\\tedil\\source\\repos\\exercisepolymorphism\\wildfarm\\animals\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD28A18-9999-4EDD-9AB4-176DB5F8E43B}|WildFarm\\WildFarm.csproj|solutionrelative:wildfarm\\animals\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD28A18-9999-4EDD-9AB4-176DB5F8E43B}|WildFarm\\WildFarm.csproj|c:\\users\\tedil\\source\\repos\\exercisepolymorphism\\wildfarm\\animals\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD28A18-9999-4EDD-9AB4-176DB5F8E43B}|WildFarm\\WildFarm.csproj|solutionrelative:wildfarm\\animals\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD28A18-9999-4EDD-9AB4-176DB5F8E43B}|WildFarm\\WildFarm.csproj|c:\\users\\tedil\\source\\repos\\exercisepolymorphism\\wildfarm\\animals\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD28A18-9999-4EDD-9AB4-176DB5F8E43B}|WildFarm\\WildFarm.csproj|solutionrelative:wildfarm\\animals\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD28A18-9999-4EDD-9AB4-176DB5F8E43B}|WildFarm\\WildFarm.csproj|c:\\users\\tedil\\source\\repos\\exercisepolymorphism\\wildfarm\\animals\\feline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD28A18-9999-4EDD-9AB4-176DB5F8E43B}|WildFarm\\WildFarm.csproj|solutionrelative:wildfarm\\animals\\feline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD28A18-9999-4EDD-9AB4-176DB5F8E43B}|WildFarm\\WildFarm.csproj|c:\\users\\tedil\\source\\repos\\exercisepolymorphism\\wildfarm\\animals\\hen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD28A18-9999-4EDD-9AB4-176DB5F8E43B}|WildFarm\\WildFarm.csproj|solutionrelative:wildfarm\\animals\\hen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD28A18-9999-4EDD-9AB4-176DB5F8E43B}|WildFarm\\WildFarm.csproj|c:\\users\\tedil\\source\\repos\\exercisepolymorphism\\wildfarm\\animals\\mammal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD28A18-9999-4EDD-9AB4-176DB5F8E43B}|WildFarm\\WildFarm.csproj|solutionrelative:wildfarm\\animals\\mammal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD28A18-9999-4EDD-9AB4-176DB5F8E43B}|WildFarm\\WildFarm.csproj|c:\\users\\tedil\\source\\repos\\exercisepolymorphism\\wildfarm\\animals\\mouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD28A18-9999-4EDD-9AB4-176DB5F8E43B}|WildFarm\\WildFarm.csproj|solutionrelative:wildfarm\\animals\\mouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD28A18-9999-4EDD-9AB4-176DB5F8E43B}|WildFarm\\WildFarm.csproj|c:\\users\\tedil\\source\\repos\\exercisepolymorphism\\wildfarm\\animals\\owl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD28A18-9999-4EDD-9AB4-176DB5F8E43B}|WildFarm\\WildFarm.csproj|solutionrelative:wildfarm\\animals\\owl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD28A18-9999-4EDD-9AB4-176DB5F8E43B}|WildFarm\\WildFarm.csproj|c:\\users\\tedil\\source\\repos\\exercisepolymorphism\\wildfarm\\animals\\tiger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD28A18-9999-4EDD-9AB4-176DB5F8E43B}|WildFarm\\WildFarm.csproj|solutionrelative:wildfarm\\animals\\tiger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD28A18-9999-4EDD-9AB4-176DB5F8E43B}|WildFarm\\WildFarm.csproj|c:\\users\\tedil\\source\\repos\\exercisepolymorphism\\wildfarm\\animals\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD28A18-9999-4EDD-9AB4-176DB5F8E43B}|WildFarm\\WildFarm.csproj|solutionrelative:wildfarm\\animals\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D35345F-8BB5-4DAA-895B-40E207996761}|Raiding\\Raiding.csproj|c:\\users\\tedil\\source\\repos\\exercisepolymorphism\\raiding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D35345F-8BB5-4DAA-895B-40E207996761}|Raiding\\Raiding.csproj|solutionrelative:raiding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD28A18-9999-4EDD-9AB4-176DB5F8E43B}|WildFarm\\WildFarm.csproj|c:\\users\\tedil\\source\\repos\\exercisepolymorphism\\wildfarm\\foodclasses\\fruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD28A18-9999-4EDD-9AB4-176DB5F8E43B}|WildFarm\\WildFarm.csproj|solutionrelative:wildfarm\\foodclasses\\fruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD28A18-9999-4EDD-9AB4-176DB5F8E43B}|WildFarm\\WildFarm.csproj|c:\\users\\tedil\\source\\repos\\exercisepolymorphism\\wildfarm\\foodclasses\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD28A18-9999-4EDD-9AB4-176DB5F8E43B}|WildFarm\\WildFarm.csproj|solutionrelative:wildfarm\\foodclasses\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD28A18-9999-4EDD-9AB4-176DB5F8E43B}|WildFarm\\WildFarm.csproj|c:\\users\\tedil\\source\\repos\\exercisepolymorphism\\wildfarm\\foodclasses\\seeds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD28A18-9999-4EDD-9AB4-176DB5F8E43B}|WildFarm\\WildFarm.csproj|solutionrelative:wildfarm\\foodclasses\\seeds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD28A18-9999-4EDD-9AB4-176DB5F8E43B}|WildFarm\\WildFarm.csproj|c:\\users\\tedil\\source\\repos\\exercisepolymorphism\\wildfarm\\foodclasses\\meat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD28A18-9999-4EDD-9AB4-176DB5F8E43B}|WildFarm\\WildFarm.csproj|solutionrelative:wildfarm\\foodclasses\\meat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD28A18-9999-4EDD-9AB4-176DB5F8E43B}|WildFarm\\WildFarm.csproj|c:\\users\\tedil\\source\\repos\\exercisepolymorphism\\wildfarm\\foodclasses\\vegetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD28A18-9999-4EDD-9AB4-176DB5F8E43B}|WildFarm\\WildFarm.csproj|solutionrelative:wildfarm\\foodclasses\\vegetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D35345F-8BB5-4DAA-895B-40E207996761}|Raiding\\Raiding.csproj|c:\\users\\tedil\\source\\repos\\exercisepolymorphism\\raiding\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D35345F-8BB5-4DAA-895B-40E207996761}|Raiding\\Raiding.csproj|solutionrelative:raiding\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D35345F-8BB5-4DAA-895B-40E207996761}|Raiding\\Raiding.csproj|c:\\users\\tedil\\source\\repos\\exercisepolymorphism\\raiding\\rogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D35345F-8BB5-4DAA-895B-40E207996761}|Raiding\\Raiding.csproj|solutionrelative:raiding\\rogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D35345F-8BB5-4DAA-895B-40E207996761}|Raiding\\Raiding.csproj|c:\\users\\tedil\\source\\repos\\exercisepolymorphism\\raiding\\paladin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D35345F-8BB5-4DAA-895B-40E207996761}|Raiding\\Raiding.csproj|solutionrelative:raiding\\paladin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D35345F-8BB5-4DAA-895B-40E207996761}|Raiding\\Raiding.csproj|c:\\users\\tedil\\source\\repos\\exercisepolymorphism\\raiding\\druid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D35345F-8BB5-4DAA-895B-40E207996761}|Raiding\\Raiding.csproj|solutionrelative:raiding\\druid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D35345F-8BB5-4DAA-895B-40E207996761}|Raiding\\Raiding.csproj|c:\\users\\tedil\\source\\repos\\exercisepolymorphism\\raiding\\basehero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D35345F-8BB5-4DAA-895B-40E207996761}|Raiding\\Raiding.csproj|solutionrelative:raiding\\basehero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35883CF-3389-49CF-B8A6-F14E9648B60F}|Vehicles\\Vehicles.csproj|c:\\users\\tedil\\source\\repos\\exercisepolymorphism\\vehicles\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35883CF-3389-49CF-B8A6-F14E9648B60F}|Vehicles\\Vehicles.csproj|solutionrelative:vehicles\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35883CF-3389-49CF-B8A6-F14E9648B60F}|Vehicles\\Vehicles.csproj|c:\\users\\tedil\\source\\repos\\exercisepolymorphism\\vehicles\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35883CF-3389-49CF-B8A6-F14E9648B60F}|Vehicles\\Vehicles.csproj|solutionrelative:vehicles\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35883CF-3389-49CF-B8A6-F14E9648B60F}|Vehicles\\Vehicles.csproj|c:\\users\\tedil\\source\\repos\\exercisepolymorphism\\vehicles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35883CF-3389-49CF-B8A6-F14E9648B60F}|Vehicles\\Vehicles.csproj|solutionrelative:vehicles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35883CF-3389-49CF-B8A6-F14E9648B60F}|Vehicles\\Vehicles.csproj|c:\\users\\tedil\\source\\repos\\exercisepolymorphism\\vehicles\\ivehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35883CF-3389-49CF-B8A6-F14E9648B60F}|Vehicles\\Vehicles.csproj|solutionrelative:vehicles\\ivehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35883CF-3389-49CF-B8A6-F14E9648B60F}|Vehicles\\Vehicles.csproj|c:\\users\\tedil\\source\\repos\\exercisepolymorphism\\vehicles\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35883CF-3389-49CF-B8A6-F14E9648B60F}|Vehicles\\Vehicles.csproj|solutionrelative:vehicles\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35883CF-3389-49CF-B8A6-F14E9648B60F}|Vehicles\\Vehicles.csproj|c:\\users\\tedil\\source\\repos\\exercisepolymorphism\\vehicles\\bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35883CF-3389-49CF-B8A6-F14E9648B60F}|Vehicles\\Vehicles.csproj|solutionrelative:vehicles\\bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Feline.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExercisePolymorphism\\WildFarm\\Animals\\Feline.cs",
+              "RelativeDocumentMoniker": "WildFarm\\Animals\\Feline.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExercisePolymorphism\\WildFarm\\Animals\\Feline.cs",
+              "RelativeToolTip": "WildFarm\\Animals\\Feline.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T19:43:37.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Mammal.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExercisePolymorphism\\WildFarm\\Animals\\Mammal.cs",
+              "RelativeDocumentMoniker": "WildFarm\\Animals\\Mammal.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExercisePolymorphism\\WildFarm\\Animals\\Mammal.cs",
+              "RelativeToolTip": "WildFarm\\Animals\\Mammal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T19:41:53.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExercisePolymorphism\\WildFarm\\Animals\\Animal.cs",
+              "RelativeDocumentMoniker": "WildFarm\\Animals\\Animal.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExercisePolymorphism\\WildFarm\\Animals\\Animal.cs",
+              "RelativeToolTip": "WildFarm\\Animals\\Animal.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T19:37:27.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Owl.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExercisePolymorphism\\WildFarm\\Animals\\Owl.cs",
+              "RelativeDocumentMoniker": "WildFarm\\Animals\\Owl.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExercisePolymorphism\\WildFarm\\Animals\\Owl.cs",
+              "RelativeToolTip": "WildFarm\\Animals\\Owl.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T19:41:20.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Mouse.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExercisePolymorphism\\WildFarm\\Animals\\Mouse.cs",
+              "RelativeDocumentMoniker": "WildFarm\\Animals\\Mouse.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExercisePolymorphism\\WildFarm\\Animals\\Mouse.cs",
+              "RelativeToolTip": "WildFarm\\Animals\\Mouse.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T19:43:00.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Hen.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExercisePolymorphism\\WildFarm\\Animals\\Hen.cs",
+              "RelativeDocumentMoniker": "WildFarm\\Animals\\Hen.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExercisePolymorphism\\WildFarm\\Animals\\Hen.cs",
+              "RelativeToolTip": "WildFarm\\Animals\\Hen.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T19:41:36.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExercisePolymorphism\\WildFarm\\Animals\\Dog.cs",
+              "RelativeDocumentMoniker": "WildFarm\\Animals\\Dog.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExercisePolymorphism\\WildFarm\\Animals\\Dog.cs",
+              "RelativeToolTip": "WildFarm\\Animals\\Dog.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAlwBcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T19:43:14.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExercisePolymorphism\\WildFarm\\Animals\\Cat.cs",
+              "RelativeDocumentMoniker": "WildFarm\\Animals\\Cat.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExercisePolymorphism\\WildFarm\\Animals\\Cat.cs",
+              "RelativeToolTip": "WildFarm\\Animals\\Cat.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T19:46:17.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bird.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExercisePolymorphism\\WildFarm\\Animals\\Bird.cs",
+              "RelativeDocumentMoniker": "WildFarm\\Animals\\Bird.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExercisePolymorphism\\WildFarm\\Animals\\Bird.cs",
+              "RelativeToolTip": "WildFarm\\Animals\\Bird.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T19:39:15.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExercisePolymorphism\\WildFarm\\Program.cs",
+              "RelativeDocumentMoniker": "WildFarm\\Program.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExercisePolymorphism\\WildFarm\\Program.cs*",
+              "RelativeToolTip": "WildFarm\\Program.cs*",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T19:32:30.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Tiger.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExercisePolymorphism\\WildFarm\\Animals\\Tiger.cs",
+              "RelativeDocumentMoniker": "WildFarm\\Animals\\Tiger.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExercisePolymorphism\\WildFarm\\Animals\\Tiger.cs",
+              "RelativeToolTip": "WildFarm\\Animals\\Tiger.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T19:46:32.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExercisePolymorphism\\Raiding\\Program.cs",
+              "RelativeDocumentMoniker": "Raiding\\Program.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExercisePolymorphism\\Raiding\\Program.cs",
+              "RelativeToolTip": "Raiding\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T18:53:31.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Fruit.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExercisePolymorphism\\WildFarm\\FoodClasses\\Fruit.cs",
+              "RelativeDocumentMoniker": "WildFarm\\FoodClasses\\Fruit.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExercisePolymorphism\\WildFarm\\FoodClasses\\Fruit.cs",
+              "RelativeToolTip": "WildFarm\\FoodClasses\\Fruit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T19:36:03.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExercisePolymorphism\\WildFarm\\FoodClasses\\Food.cs",
+              "RelativeDocumentMoniker": "WildFarm\\FoodClasses\\Food.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExercisePolymorphism\\WildFarm\\FoodClasses\\Food.cs",
+              "RelativeToolTip": "WildFarm\\FoodClasses\\Food.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T19:33:35.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Seeds.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExercisePolymorphism\\WildFarm\\FoodClasses\\Seeds.cs",
+              "RelativeDocumentMoniker": "WildFarm\\FoodClasses\\Seeds.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExercisePolymorphism\\WildFarm\\FoodClasses\\Seeds.cs",
+              "RelativeToolTip": "WildFarm\\FoodClasses\\Seeds.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T19:36:52.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Meat.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExercisePolymorphism\\WildFarm\\FoodClasses\\Meat.cs",
+              "RelativeDocumentMoniker": "WildFarm\\FoodClasses\\Meat.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExercisePolymorphism\\WildFarm\\FoodClasses\\Meat.cs",
+              "RelativeToolTip": "WildFarm\\FoodClasses\\Meat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T19:36:21.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Vegetable.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExercisePolymorphism\\WildFarm\\FoodClasses\\Vegetable.cs",
+              "RelativeDocumentMoniker": "WildFarm\\FoodClasses\\Vegetable.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExercisePolymorphism\\WildFarm\\FoodClasses\\Vegetable.cs",
+              "RelativeToolTip": "WildFarm\\FoodClasses\\Vegetable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T19:35:47.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Warrior.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExercisePolymorphism\\Raiding\\Warrior.cs",
+              "RelativeDocumentMoniker": "Raiding\\Warrior.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExercisePolymorphism\\Raiding\\Warrior.cs",
+              "RelativeToolTip": "Raiding\\Warrior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T19:03:28.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Rogue.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExercisePolymorphism\\Raiding\\Rogue.cs",
+              "RelativeDocumentMoniker": "Raiding\\Rogue.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExercisePolymorphism\\Raiding\\Rogue.cs",
+              "RelativeToolTip": "Raiding\\Rogue.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T19:02:39.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Paladin.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExercisePolymorphism\\Raiding\\Paladin.cs",
+              "RelativeDocumentMoniker": "Raiding\\Paladin.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExercisePolymorphism\\Raiding\\Paladin.cs",
+              "RelativeToolTip": "Raiding\\Paladin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T19:02:14.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Druid.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExercisePolymorphism\\Raiding\\Druid.cs",
+              "RelativeDocumentMoniker": "Raiding\\Druid.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExercisePolymorphism\\Raiding\\Druid.cs",
+              "RelativeToolTip": "Raiding\\Druid.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T18:58:24.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BaseHero.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExercisePolymorphism\\Raiding\\BaseHero.cs",
+              "RelativeDocumentMoniker": "Raiding\\BaseHero.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExercisePolymorphism\\Raiding\\BaseHero.cs",
+              "RelativeToolTip": "Raiding\\BaseHero.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T18:54:35.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Bus.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExercisePolymorphism\\Vehicles\\Bus.cs",
+              "RelativeDocumentMoniker": "Vehicles\\Bus.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExercisePolymorphism\\Vehicles\\Bus.cs",
+              "RelativeToolTip": "Vehicles\\Bus.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T17:47:45.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Truck.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExercisePolymorphism\\Vehicles\\Truck.cs",
+              "RelativeDocumentMoniker": "Vehicles\\Truck.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExercisePolymorphism\\Vehicles\\Truck.cs",
+              "RelativeToolTip": "Vehicles\\Truck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T16:13:37.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExercisePolymorphism\\Vehicles\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Vehicles\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExercisePolymorphism\\Vehicles\\Vehicle.cs",
+              "RelativeToolTip": "Vehicles\\Vehicle.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T16:08:48.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExercisePolymorphism\\Vehicles\\Car.cs",
+              "RelativeDocumentMoniker": "Vehicles\\Car.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExercisePolymorphism\\Vehicles\\Car.cs",
+              "RelativeToolTip": "Vehicles\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T16:07:05.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IVehicle.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExercisePolymorphism\\Vehicles\\IVehicle.cs",
+              "RelativeDocumentMoniker": "Vehicles\\IVehicle.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExercisePolymorphism\\Vehicles\\IVehicle.cs",
+              "RelativeToolTip": "Vehicles\\IVehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T15:57:55.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExercisePolymorphism\\Vehicles\\Program.cs",
+              "RelativeDocumentMoniker": "Vehicles\\Program.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExercisePolymorphism\\Vehicles\\Program.cs",
+              "RelativeToolTip": "Vehicles\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T15:57:37.816Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

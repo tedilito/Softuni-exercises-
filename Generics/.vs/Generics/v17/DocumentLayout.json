@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tedil\\source\\repos\\Generics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4ECF8051-3D8A-4219-BC11-3BB7423EF1F4}|GenericScale\\GenericScale.csproj|c:\\users\\tedil\\source\\repos\\generics\\genericscale\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ECF8051-3D8A-4219-BC11-3BB7423EF1F4}|GenericScale\\GenericScale.csproj|solutionrelative:genericscale\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ECF8051-3D8A-4219-BC11-3BB7423EF1F4}|GenericScale\\GenericScale.csproj|c:\\users\\tedil\\source\\repos\\generics\\genericscale\\equalityscale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ECF8051-3D8A-4219-BC11-3BB7423EF1F4}|GenericScale\\GenericScale.csproj|solutionrelative:genericscale\\equalityscale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72424275-28B4-41ED-8386-EDB3BD7A353C}|GenericArrayCreator\\GenericArrayCreator.csproj|c:\\users\\tedil\\source\\repos\\generics\\genericarraycreator\\arraycreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72424275-28B4-41ED-8386-EDB3BD7A353C}|GenericArrayCreator\\GenericArrayCreator.csproj|solutionrelative:genericarraycreator\\arraycreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72424275-28B4-41ED-8386-EDB3BD7A353C}|GenericArrayCreator\\GenericArrayCreator.csproj|c:\\users\\tedil\\source\\repos\\generics\\genericarraycreator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72424275-28B4-41ED-8386-EDB3BD7A353C}|GenericArrayCreator\\GenericArrayCreator.csproj|solutionrelative:genericarraycreator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B9E6DC-990E-480A-BAC5-2F7C6F63801E}|BoxOfT\\BoxOfT.csproj|c:\\users\\tedil\\source\\repos\\generics\\boxoft\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B9E6DC-990E-480A-BAC5-2F7C6F63801E}|BoxOfT\\BoxOfT.csproj|solutionrelative:boxoft\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B9E6DC-990E-480A-BAC5-2F7C6F63801E}|BoxOfT\\BoxOfT.csproj|c:\\users\\tedil\\source\\repos\\generics\\boxoft\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B9E6DC-990E-480A-BAC5-2F7C6F63801E}|BoxOfT\\BoxOfT.csproj|solutionrelative:boxoft\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Box.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\Generics\\BoxOfT\\Box.cs",
+              "RelativeDocumentMoniker": "BoxOfT\\Box.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\Generics\\BoxOfT\\Box.cs",
+              "RelativeToolTip": "BoxOfT\\Box.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T19:21:40.833Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EqualityScale.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\Generics\\GenericScale\\EqualityScale.cs",
+              "RelativeDocumentMoniker": "GenericScale\\EqualityScale.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\Generics\\GenericScale\\EqualityScale.cs",
+              "RelativeToolTip": "GenericScale\\EqualityScale.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T20:07:35.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\Generics\\GenericScale\\Program.cs",
+              "RelativeDocumentMoniker": "GenericScale\\Program.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\Generics\\GenericScale\\Program.cs",
+              "RelativeToolTip": "GenericScale\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T20:06:55.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArrayCreator.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\Generics\\GenericArrayCreator\\ArrayCreator.cs",
+              "RelativeDocumentMoniker": "GenericArrayCreator\\ArrayCreator.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\Generics\\GenericArrayCreator\\ArrayCreator.cs",
+              "RelativeToolTip": "GenericArrayCreator\\ArrayCreator.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwBAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T19:47:20.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\Generics\\GenericArrayCreator\\Program.cs",
+              "RelativeDocumentMoniker": "GenericArrayCreator\\Program.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\Generics\\GenericArrayCreator\\Program.cs",
+              "RelativeToolTip": "GenericArrayCreator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T19:44:18.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\Generics\\BoxOfT\\Program.cs",
+              "RelativeDocumentMoniker": "BoxOfT\\Program.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\Generics\\BoxOfT\\Program.cs",
+              "RelativeToolTip": "BoxOfT\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T19:16:26.893Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

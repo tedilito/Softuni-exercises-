@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\Softuni_Advanced_c#\Skeleton-Lab\OddLines\bin\Debug\net6.0\OddLines.exe
+C:\Users\tedil\source\repos\Softuni_Advanced_c#\Skeleton-Lab\OddLines\bin\Debug\net6.0\OddLines.deps.json
+C:\Users\tedil\source\repos\Softuni_Advanced_c#\Skeleton-Lab\OddLines\bin\Debug\net6.0\OddLines.runtimeconfig.json
+C:\Users\tedil\source\repos\Softuni_Advanced_c#\Skeleton-Lab\OddLines\bin\Debug\net6.0\OddLines.dll
+C:\Users\tedil\source\repos\Softuni_Advanced_c#\Skeleton-Lab\OddLines\bin\Debug\net6.0\OddLines.pdb
+C:\Users\tedil\source\repos\Softuni_Advanced_c#\Skeleton-Lab\OddLines\obj\Debug\net6.0\OddLines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\Softuni_Advanced_c#\Skeleton-Lab\OddLines\obj\Debug\net6.0\OddLines.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\Softuni_Advanced_c#\Skeleton-Lab\OddLines\obj\Debug\net6.0\OddLines.AssemblyInfo.cs
+C:\Users\tedil\source\repos\Softuni_Advanced_c#\Skeleton-Lab\OddLines\obj\Debug\net6.0\OddLines.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\Softuni_Advanced_c#\Skeleton-Lab\OddLines\obj\Debug\net6.0\OddLines.dll
+C:\Users\tedil\source\repos\Softuni_Advanced_c#\Skeleton-Lab\OddLines\obj\Debug\net6.0\refint\OddLines.dll
+C:\Users\tedil\source\repos\Softuni_Advanced_c#\Skeleton-Lab\OddLines\obj\Debug\net6.0\OddLines.pdb
+C:\Users\tedil\source\repos\Softuni_Advanced_c#\Skeleton-Lab\OddLines\obj\Debug\net6.0\OddLines.genruntimeconfig.cache
+C:\Users\tedil\source\repos\Softuni_Advanced_c#\Skeleton-Lab\OddLines\obj\Debug\net6.0\ref\OddLines.dll

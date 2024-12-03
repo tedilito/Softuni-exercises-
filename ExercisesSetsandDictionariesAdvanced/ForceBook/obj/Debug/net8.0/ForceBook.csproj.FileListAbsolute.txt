@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\ExercisesSetsandDictionariesAdvanced\ForceBook\obj\Debug\net8.0\ForceBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\ExercisesSetsandDictionariesAdvanced\ForceBook\obj\Debug\net8.0\ForceBook.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\ExercisesSetsandDictionariesAdvanced\ForceBook\obj\Debug\net8.0\ForceBook.AssemblyInfo.cs
+C:\Users\tedil\source\repos\ExercisesSetsandDictionariesAdvanced\ForceBook\obj\Debug\net8.0\ForceBook.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\ExercisesSetsandDictionariesAdvanced\ForceBook\bin\Debug\net8.0\ForceBook.exe
+C:\Users\tedil\source\repos\ExercisesSetsandDictionariesAdvanced\ForceBook\bin\Debug\net8.0\ForceBook.deps.json
+C:\Users\tedil\source\repos\ExercisesSetsandDictionariesAdvanced\ForceBook\bin\Debug\net8.0\ForceBook.runtimeconfig.json
+C:\Users\tedil\source\repos\ExercisesSetsandDictionariesAdvanced\ForceBook\bin\Debug\net8.0\ForceBook.dll
+C:\Users\tedil\source\repos\ExercisesSetsandDictionariesAdvanced\ForceBook\bin\Debug\net8.0\ForceBook.pdb
+C:\Users\tedil\source\repos\ExercisesSetsandDictionariesAdvanced\ForceBook\obj\Debug\net8.0\ForceBook.dll
+C:\Users\tedil\source\repos\ExercisesSetsandDictionariesAdvanced\ForceBook\obj\Debug\net8.0\refint\ForceBook.dll
+C:\Users\tedil\source\repos\ExercisesSetsandDictionariesAdvanced\ForceBook\obj\Debug\net8.0\ForceBook.pdb
+C:\Users\tedil\source\repos\ExercisesSetsandDictionariesAdvanced\ForceBook\obj\Debug\net8.0\ForceBook.genruntimeconfig.cache
+C:\Users\tedil\source\repos\ExercisesSetsandDictionariesAdvanced\ForceBook\obj\Debug\net8.0\ref\ForceBook.dll

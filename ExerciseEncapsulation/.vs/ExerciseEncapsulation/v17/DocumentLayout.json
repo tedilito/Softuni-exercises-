@@ -1,0 +1,230 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tedil\\source\\repos\\ExerciseEncapsulation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0C1F17-6C3A-4EE8-A88F-335D1CC5E069}|FootballTeamGenerator\\FootballTeamGenerator.csproj|c:\\users\\tedil\\source\\repos\\exerciseencapsulation\\footballteamgenerator\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A0C1F17-6C3A-4EE8-A88F-335D1CC5E069}|FootballTeamGenerator\\FootballTeamGenerator.csproj|solutionrelative:footballteamgenerator\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0C1F17-6C3A-4EE8-A88F-335D1CC5E069}|FootballTeamGenerator\\FootballTeamGenerator.csproj|c:\\users\\tedil\\source\\repos\\exerciseencapsulation\\footballteamgenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A0C1F17-6C3A-4EE8-A88F-335D1CC5E069}|FootballTeamGenerator\\FootballTeamGenerator.csproj|solutionrelative:footballteamgenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0C1F17-6C3A-4EE8-A88F-335D1CC5E069}|FootballTeamGenerator\\FootballTeamGenerator.csproj|c:\\users\\tedil\\source\\repos\\exerciseencapsulation\\footballteamgenerator\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A0C1F17-6C3A-4EE8-A88F-335D1CC5E069}|FootballTeamGenerator\\FootballTeamGenerator.csproj|solutionrelative:footballteamgenerator\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4BDAC5B-91D6-4A19-B383-930B9DB05EAD}|PizzaCalories\\PizzaCalories.csproj|c:\\users\\tedil\\source\\repos\\exerciseencapsulation\\pizzacalories\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4BDAC5B-91D6-4A19-B383-930B9DB05EAD}|PizzaCalories\\PizzaCalories.csproj|solutionrelative:pizzacalories\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79010058-E57A-41BF-8672-EF71CA3A6E09}|..\\..\\..\\Downloads\\Skeleton_6.0\\AnimalFarm\\AnimalFarm.csproj|c:\\users\\tedil\\downloads\\skeleton_6.0\\animalfarm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4BDAC5B-91D6-4A19-B383-930B9DB05EAD}|PizzaCalories\\PizzaCalories.csproj|c:\\users\\tedil\\source\\repos\\exerciseencapsulation\\pizzacalories\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4BDAC5B-91D6-4A19-B383-930B9DB05EAD}|PizzaCalories\\PizzaCalories.csproj|solutionrelative:pizzacalories\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0290D77B-17CC-4239-9FD0-294022AE0689}|ShoppingSpree\\ShoppingSpree.csproj|c:\\users\\tedil\\source\\repos\\exerciseencapsulation\\shoppingspree\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0290D77B-17CC-4239-9FD0-294022AE0689}|ShoppingSpree\\ShoppingSpree.csproj|solutionrelative:shoppingspree\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0290D77B-17CC-4239-9FD0-294022AE0689}|ShoppingSpree\\ShoppingSpree.csproj|c:\\users\\tedil\\source\\repos\\exerciseencapsulation\\shoppingspree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0290D77B-17CC-4239-9FD0-294022AE0689}|ShoppingSpree\\ShoppingSpree.csproj|solutionrelative:shoppingspree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E900960-2BB3-450C-AD85-FECA5B6C6C9A}|1ClassBoxData\\1ClassBoxData.csproj|c:\\users\\tedil\\source\\repos\\exerciseencapsulation\\1classboxdata\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E900960-2BB3-450C-AD85-FECA5B6C6C9A}|1ClassBoxData\\1ClassBoxData.csproj|solutionrelative:1classboxdata\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4BDAC5B-91D6-4A19-B383-930B9DB05EAD}|PizzaCalories\\PizzaCalories.csproj|c:\\users\\tedil\\source\\repos\\exerciseencapsulation\\pizzacalories\\dough.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4BDAC5B-91D6-4A19-B383-930B9DB05EAD}|PizzaCalories\\PizzaCalories.csproj|solutionrelative:pizzacalories\\dough.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4BDAC5B-91D6-4A19-B383-930B9DB05EAD}|PizzaCalories\\PizzaCalories.csproj|c:\\users\\tedil\\source\\repos\\exerciseencapsulation\\pizzacalories\\topping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4BDAC5B-91D6-4A19-B383-930B9DB05EAD}|PizzaCalories\\PizzaCalories.csproj|solutionrelative:pizzacalories\\topping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0290D77B-17CC-4239-9FD0-294022AE0689}|ShoppingSpree\\ShoppingSpree.csproj|c:\\users\\tedil\\source\\repos\\exerciseencapsulation\\shoppingspree\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0290D77B-17CC-4239-9FD0-294022AE0689}|ShoppingSpree\\ShoppingSpree.csproj|solutionrelative:shoppingspree\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Topping.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExerciseEncapsulation\\PizzaCalories\\Topping.cs",
+              "RelativeDocumentMoniker": "PizzaCalories\\Topping.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExerciseEncapsulation\\PizzaCalories\\Topping.cs",
+              "RelativeToolTip": "PizzaCalories\\Topping.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T05:23:52.43Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Dough.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExerciseEncapsulation\\PizzaCalories\\Dough.cs",
+              "RelativeDocumentMoniker": "PizzaCalories\\Dough.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExerciseEncapsulation\\PizzaCalories\\Dough.cs",
+              "RelativeToolTip": "PizzaCalories\\Dough.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T04:56:46.783Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExerciseEncapsulation\\FootballTeamGenerator\\Team.cs",
+              "RelativeDocumentMoniker": "FootballTeamGenerator\\Team.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExerciseEncapsulation\\FootballTeamGenerator\\Team.cs",
+              "RelativeToolTip": "FootballTeamGenerator\\Team.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T21:13:56.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExerciseEncapsulation\\FootballTeamGenerator\\Player.cs",
+              "RelativeDocumentMoniker": "FootballTeamGenerator\\Player.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExerciseEncapsulation\\FootballTeamGenerator\\Player.cs",
+              "RelativeToolTip": "FootballTeamGenerator\\Player.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAUwG8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T20:58:20.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExerciseEncapsulation\\FootballTeamGenerator\\Program.cs",
+              "RelativeDocumentMoniker": "FootballTeamGenerator\\Program.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExerciseEncapsulation\\FootballTeamGenerator\\Program.cs",
+              "RelativeToolTip": "FootballTeamGenerator\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAACcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T20:57:57.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pizza.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExerciseEncapsulation\\PizzaCalories\\Pizza.cs",
+              "RelativeDocumentMoniker": "PizzaCalories\\Pizza.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExerciseEncapsulation\\PizzaCalories\\Pizza.cs",
+              "RelativeToolTip": "PizzaCalories\\Pizza.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T15:49:13.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExerciseEncapsulation\\PizzaCalories\\Program.cs",
+              "RelativeDocumentMoniker": "PizzaCalories\\Program.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExerciseEncapsulation\\PizzaCalories\\Program.cs",
+              "RelativeToolTip": "PizzaCalories\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T04:55:56.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExerciseEncapsulation\\ShoppingSpree\\Product.cs",
+              "RelativeDocumentMoniker": "ShoppingSpree\\Product.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExerciseEncapsulation\\ShoppingSpree\\Product.cs",
+              "RelativeToolTip": "ShoppingSpree\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T16:01:57.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExerciseEncapsulation\\ShoppingSpree\\Person.cs",
+              "RelativeDocumentMoniker": "ShoppingSpree\\Person.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExerciseEncapsulation\\ShoppingSpree\\Person.cs",
+              "RelativeToolTip": "ShoppingSpree\\Person.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T15:58:19.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExerciseEncapsulation\\ShoppingSpree\\Program.cs",
+              "RelativeDocumentMoniker": "ShoppingSpree\\Program.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExerciseEncapsulation\\ShoppingSpree\\Program.cs",
+              "RelativeToolTip": "ShoppingSpree\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T15:53:36.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\Downloads\\Skeleton_6.0\\AnimalFarm\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\Skeleton_6.0\\AnimalFarm\\Program.cs",
+              "ToolTip": "C:\\Users\\tedil\\Downloads\\Skeleton_6.0\\AnimalFarm\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\Skeleton_6.0\\AnimalFarm\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T15:49:05.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Box.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExerciseEncapsulation\\1ClassBoxData\\Box.cs",
+              "RelativeDocumentMoniker": "1ClassBoxData\\Box.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExerciseEncapsulation\\1ClassBoxData\\Box.cs",
+              "RelativeToolTip": "1ClassBoxData\\Box.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T15:20:15.961Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\AdvancedExamPrep\BlindMan'sBuff\obj\Debug\net6.0\BlindMan'sBuff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\AdvancedExamPrep\BlindMan'sBuff\obj\Debug\net6.0\BlindMan'sBuff.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\BlindMan'sBuff\obj\Debug\net6.0\BlindMan'sBuff.AssemblyInfo.cs
+C:\Users\tedil\source\repos\AdvancedExamPrep\BlindMan'sBuff\obj\Debug\net6.0\BlindMan'sBuff.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\BlindMan'sBuff\bin\Debug\net6.0\BlindMan'sBuff.exe
+C:\Users\tedil\source\repos\AdvancedExamPrep\BlindMan'sBuff\bin\Debug\net6.0\BlindMan'sBuff.deps.json
+C:\Users\tedil\source\repos\AdvancedExamPrep\BlindMan'sBuff\bin\Debug\net6.0\BlindMan'sBuff.runtimeconfig.json
+C:\Users\tedil\source\repos\AdvancedExamPrep\BlindMan'sBuff\bin\Debug\net6.0\BlindMan'sBuff.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\BlindMan'sBuff\bin\Debug\net6.0\BlindMan'sBuff.pdb
+C:\Users\tedil\source\repos\AdvancedExamPrep\BlindMan'sBuff\obj\Debug\net6.0\BlindMan'sBuff.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\BlindMan'sBuff\obj\Debug\net6.0\refint\BlindMan'sBuff.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\BlindMan'sBuff\obj\Debug\net6.0\BlindMan'sBuff.pdb
+C:\Users\tedil\source\repos\AdvancedExamPrep\BlindMan'sBuff\obj\Debug\net6.0\BlindMan'sBuff.genruntimeconfig.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\BlindMan'sBuff\obj\Debug\net6.0\ref\BlindMan'sBuff.dll

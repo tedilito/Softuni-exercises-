@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\CupsAndBottles\bin\Debug\net8.0\CupsAndBottles.exe
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\CupsAndBottles\bin\Debug\net8.0\CupsAndBottles.deps.json
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\CupsAndBottles\bin\Debug\net8.0\CupsAndBottles.runtimeconfig.json
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\CupsAndBottles\bin\Debug\net8.0\CupsAndBottles.dll
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\CupsAndBottles\bin\Debug\net8.0\CupsAndBottles.pdb
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\CupsAndBottles\obj\Debug\net8.0\CupsAndBottles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\CupsAndBottles\obj\Debug\net8.0\CupsAndBottles.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\CupsAndBottles\obj\Debug\net8.0\CupsAndBottles.AssemblyInfo.cs
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\CupsAndBottles\obj\Debug\net8.0\CupsAndBottles.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\CupsAndBottles\obj\Debug\net8.0\CupsAndBottles.dll
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\CupsAndBottles\obj\Debug\net8.0\refint\CupsAndBottles.dll
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\CupsAndBottles\obj\Debug\net8.0\CupsAndBottles.pdb
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\CupsAndBottles\obj\Debug\net8.0\CupsAndBottles.genruntimeconfig.cache
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\CupsAndBottles\obj\Debug\net8.0\ref\CupsAndBottles.dll

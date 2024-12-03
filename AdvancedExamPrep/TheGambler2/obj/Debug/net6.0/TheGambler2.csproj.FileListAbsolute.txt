@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\AdvancedExamPrep\TheGambler2\bin\Debug\net6.0\TheGambler2.exe
+C:\Users\tedil\source\repos\AdvancedExamPrep\TheGambler2\bin\Debug\net6.0\TheGambler2.deps.json
+C:\Users\tedil\source\repos\AdvancedExamPrep\TheGambler2\bin\Debug\net6.0\TheGambler2.runtimeconfig.json
+C:\Users\tedil\source\repos\AdvancedExamPrep\TheGambler2\bin\Debug\net6.0\TheGambler2.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\TheGambler2\bin\Debug\net6.0\TheGambler2.pdb
+C:\Users\tedil\source\repos\AdvancedExamPrep\TheGambler2\obj\Debug\net6.0\TheGambler2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\AdvancedExamPrep\TheGambler2\obj\Debug\net6.0\TheGambler2.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\TheGambler2\obj\Debug\net6.0\TheGambler2.AssemblyInfo.cs
+C:\Users\tedil\source\repos\AdvancedExamPrep\TheGambler2\obj\Debug\net6.0\TheGambler2.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\TheGambler2\obj\Debug\net6.0\TheGambler2.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\TheGambler2\obj\Debug\net6.0\refint\TheGambler2.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\TheGambler2\obj\Debug\net6.0\TheGambler2.pdb
+C:\Users\tedil\source\repos\AdvancedExamPrep\TheGambler2\obj\Debug\net6.0\TheGambler2.genruntimeconfig.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\TheGambler2\obj\Debug\net6.0\ref\TheGambler2.dll

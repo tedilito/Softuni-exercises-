@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\AdvancedExamPrep\RapidCourier\bin\Debug\net6.0\RapidCourier.exe
+C:\Users\tedil\source\repos\AdvancedExamPrep\RapidCourier\bin\Debug\net6.0\RapidCourier.deps.json
+C:\Users\tedil\source\repos\AdvancedExamPrep\RapidCourier\bin\Debug\net6.0\RapidCourier.runtimeconfig.json
+C:\Users\tedil\source\repos\AdvancedExamPrep\RapidCourier\bin\Debug\net6.0\RapidCourier.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\RapidCourier\bin\Debug\net6.0\RapidCourier.pdb
+C:\Users\tedil\source\repos\AdvancedExamPrep\RapidCourier\obj\Debug\net6.0\RapidCourier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\AdvancedExamPrep\RapidCourier\obj\Debug\net6.0\RapidCourier.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\RapidCourier\obj\Debug\net6.0\RapidCourier.AssemblyInfo.cs
+C:\Users\tedil\source\repos\AdvancedExamPrep\RapidCourier\obj\Debug\net6.0\RapidCourier.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\RapidCourier\obj\Debug\net6.0\RapidCourier.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\RapidCourier\obj\Debug\net6.0\refint\RapidCourier.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\RapidCourier\obj\Debug\net6.0\RapidCourier.pdb
+C:\Users\tedil\source\repos\AdvancedExamPrep\RapidCourier\obj\Debug\net6.0\RapidCourier.genruntimeconfig.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\RapidCourier\obj\Debug\net6.0\ref\RapidCourier.dll

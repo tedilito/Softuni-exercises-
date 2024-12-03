@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\ExercisesSetsandDictionariesAdvanced\EvenTimes\bin\Debug\net8.0\EvenTimes.exe
+C:\Users\tedil\source\repos\ExercisesSetsandDictionariesAdvanced\EvenTimes\bin\Debug\net8.0\EvenTimes.deps.json
+C:\Users\tedil\source\repos\ExercisesSetsandDictionariesAdvanced\EvenTimes\bin\Debug\net8.0\EvenTimes.runtimeconfig.json
+C:\Users\tedil\source\repos\ExercisesSetsandDictionariesAdvanced\EvenTimes\bin\Debug\net8.0\EvenTimes.dll
+C:\Users\tedil\source\repos\ExercisesSetsandDictionariesAdvanced\EvenTimes\bin\Debug\net8.0\EvenTimes.pdb
+C:\Users\tedil\source\repos\ExercisesSetsandDictionariesAdvanced\EvenTimes\obj\Debug\net8.0\EvenTimes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\ExercisesSetsandDictionariesAdvanced\EvenTimes\obj\Debug\net8.0\EvenTimes.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\ExercisesSetsandDictionariesAdvanced\EvenTimes\obj\Debug\net8.0\EvenTimes.AssemblyInfo.cs
+C:\Users\tedil\source\repos\ExercisesSetsandDictionariesAdvanced\EvenTimes\obj\Debug\net8.0\EvenTimes.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\ExercisesSetsandDictionariesAdvanced\EvenTimes\obj\Debug\net8.0\EvenTimes.dll
+C:\Users\tedil\source\repos\ExercisesSetsandDictionariesAdvanced\EvenTimes\obj\Debug\net8.0\refint\EvenTimes.dll
+C:\Users\tedil\source\repos\ExercisesSetsandDictionariesAdvanced\EvenTimes\obj\Debug\net8.0\EvenTimes.pdb
+C:\Users\tedil\source\repos\ExercisesSetsandDictionariesAdvanced\EvenTimes\obj\Debug\net8.0\EvenTimes.genruntimeconfig.cache
+C:\Users\tedil\source\repos\ExercisesSetsandDictionariesAdvanced\EvenTimes\obj\Debug\net8.0\ref\EvenTimes.dll

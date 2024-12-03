@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\AdvancedExamPrep\BeavertWork\bin\Debug\net6.0\BeavertWork.exe
+C:\Users\tedil\source\repos\AdvancedExamPrep\BeavertWork\bin\Debug\net6.0\BeavertWork.deps.json
+C:\Users\tedil\source\repos\AdvancedExamPrep\BeavertWork\bin\Debug\net6.0\BeavertWork.runtimeconfig.json
+C:\Users\tedil\source\repos\AdvancedExamPrep\BeavertWork\bin\Debug\net6.0\BeavertWork.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\BeavertWork\bin\Debug\net6.0\BeavertWork.pdb
+C:\Users\tedil\source\repos\AdvancedExamPrep\BeavertWork\obj\Debug\net6.0\BeavertWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\AdvancedExamPrep\BeavertWork\obj\Debug\net6.0\BeavertWork.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\BeavertWork\obj\Debug\net6.0\BeavertWork.AssemblyInfo.cs
+C:\Users\tedil\source\repos\AdvancedExamPrep\BeavertWork\obj\Debug\net6.0\BeavertWork.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\BeavertWork\obj\Debug\net6.0\BeavertWork.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\BeavertWork\obj\Debug\net6.0\refint\BeavertWork.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\BeavertWork\obj\Debug\net6.0\BeavertWork.pdb
+C:\Users\tedil\source\repos\AdvancedExamPrep\BeavertWork\obj\Debug\net6.0\BeavertWork.genruntimeconfig.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\BeavertWork\obj\Debug\net6.0\ref\BeavertWork.dll

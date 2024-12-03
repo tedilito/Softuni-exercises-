@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\AdvancedExamPrep\Help-A-Mole\bin\Debug\net6.0\Help-A-Mole.exe
+C:\Users\tedil\source\repos\AdvancedExamPrep\Help-A-Mole\bin\Debug\net6.0\Help-A-Mole.deps.json
+C:\Users\tedil\source\repos\AdvancedExamPrep\Help-A-Mole\bin\Debug\net6.0\Help-A-Mole.runtimeconfig.json
+C:\Users\tedil\source\repos\AdvancedExamPrep\Help-A-Mole\bin\Debug\net6.0\Help-A-Mole.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\Help-A-Mole\bin\Debug\net6.0\Help-A-Mole.pdb
+C:\Users\tedil\source\repos\AdvancedExamPrep\Help-A-Mole\obj\Debug\net6.0\Help-A-Mole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\AdvancedExamPrep\Help-A-Mole\obj\Debug\net6.0\Help-A-Mole.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\Help-A-Mole\obj\Debug\net6.0\Help-A-Mole.AssemblyInfo.cs
+C:\Users\tedil\source\repos\AdvancedExamPrep\Help-A-Mole\obj\Debug\net6.0\Help-A-Mole.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\Help-A-Mole\obj\Debug\net6.0\Help-A-Mole.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\Help-A-Mole\obj\Debug\net6.0\refint\Help-A-Mole.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\Help-A-Mole\obj\Debug\net6.0\Help-A-Mole.pdb
+C:\Users\tedil\source\repos\AdvancedExamPrep\Help-A-Mole\obj\Debug\net6.0\Help-A-Mole.genruntimeconfig.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\Help-A-Mole\obj\Debug\net6.0\ref\Help-A-Mole.dll

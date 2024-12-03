@@ -1,0 +1,14 @@
+C:\Users\tedil\Downloads\AutomotiveRepairShop\RubberDuckDebuggers\bin\Debug\net6.0\RubberDuckDebuggers.exe
+C:\Users\tedil\Downloads\AutomotiveRepairShop\RubberDuckDebuggers\bin\Debug\net6.0\RubberDuckDebuggers.deps.json
+C:\Users\tedil\Downloads\AutomotiveRepairShop\RubberDuckDebuggers\bin\Debug\net6.0\RubberDuckDebuggers.runtimeconfig.json
+C:\Users\tedil\Downloads\AutomotiveRepairShop\RubberDuckDebuggers\bin\Debug\net6.0\RubberDuckDebuggers.dll
+C:\Users\tedil\Downloads\AutomotiveRepairShop\RubberDuckDebuggers\bin\Debug\net6.0\RubberDuckDebuggers.pdb
+C:\Users\tedil\Downloads\AutomotiveRepairShop\RubberDuckDebuggers\obj\Debug\net6.0\RubberDuckDebuggers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\Downloads\AutomotiveRepairShop\RubberDuckDebuggers\obj\Debug\net6.0\RubberDuckDebuggers.AssemblyInfoInputs.cache
+C:\Users\tedil\Downloads\AutomotiveRepairShop\RubberDuckDebuggers\obj\Debug\net6.0\RubberDuckDebuggers.AssemblyInfo.cs
+C:\Users\tedil\Downloads\AutomotiveRepairShop\RubberDuckDebuggers\obj\Debug\net6.0\RubberDuckDebuggers.csproj.CoreCompileInputs.cache
+C:\Users\tedil\Downloads\AutomotiveRepairShop\RubberDuckDebuggers\obj\Debug\net6.0\RubberDuckDebuggers.dll
+C:\Users\tedil\Downloads\AutomotiveRepairShop\RubberDuckDebuggers\obj\Debug\net6.0\refint\RubberDuckDebuggers.dll
+C:\Users\tedil\Downloads\AutomotiveRepairShop\RubberDuckDebuggers\obj\Debug\net6.0\RubberDuckDebuggers.pdb
+C:\Users\tedil\Downloads\AutomotiveRepairShop\RubberDuckDebuggers\obj\Debug\net6.0\RubberDuckDebuggers.genruntimeconfig.cache
+C:\Users\tedil\Downloads\AutomotiveRepairShop\RubberDuckDebuggers\obj\Debug\net6.0\ref\RubberDuckDebuggers.dll

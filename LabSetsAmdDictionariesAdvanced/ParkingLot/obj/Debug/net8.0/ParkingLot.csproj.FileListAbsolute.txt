@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\ParkingLot\bin\Debug\net8.0\ParkingLot.exe
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\ParkingLot\bin\Debug\net8.0\ParkingLot.deps.json
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\ParkingLot\bin\Debug\net8.0\ParkingLot.runtimeconfig.json
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\ParkingLot\bin\Debug\net8.0\ParkingLot.dll
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\ParkingLot\bin\Debug\net8.0\ParkingLot.pdb
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\ParkingLot\obj\Debug\net8.0\ParkingLot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\ParkingLot\obj\Debug\net8.0\ParkingLot.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\ParkingLot\obj\Debug\net8.0\ParkingLot.AssemblyInfo.cs
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\ParkingLot\obj\Debug\net8.0\ParkingLot.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\ParkingLot\obj\Debug\net8.0\ParkingLot.dll
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\ParkingLot\obj\Debug\net8.0\refint\ParkingLot.dll
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\ParkingLot\obj\Debug\net8.0\ParkingLot.pdb
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\ParkingLot\obj\Debug\net8.0\ParkingLot.genruntimeconfig.cache
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\ParkingLot\obj\Debug\net8.0\ref\ParkingLot.dll

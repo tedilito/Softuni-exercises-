@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tedil\\source\\repos\\Softuni_Advanced_c#\\SumMatrixElements\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D8FF2FE-BEA9-426E-BFE3-77F7FE399414}|PascalTriangle\\PascalTriangle.csproj|c:\\users\\tedil\\source\\repos\\softuni_advanced_c#\\summatrixelements\\pascaltriangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D8FF2FE-BEA9-426E-BFE3-77F7FE399414}|PascalTriangle\\PascalTriangle.csproj|solutionrelative:pascaltriangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70FDF7B6-F8B6-468A-940B-3B86905C3C97}|SumMatrixElements\\SumMatrixElements.csproj|c:\\users\\tedil\\source\\repos\\softuni_advanced_c#\\summatrixelements\\summatrixelements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70FDF7B6-F8B6-468A-940B-3B86905C3C97}|SumMatrixElements\\SumMatrixElements.csproj|solutionrelative:summatrixelements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6726AB1C-F858-46D3-AD9E-A9190199867E}|Jagged-ArrayModification\\Jagged-ArrayModification.csproj|c:\\users\\tedil\\source\\repos\\softuni_advanced_c#\\summatrixelements\\jagged-arraymodification\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6726AB1C-F858-46D3-AD9E-A9190199867E}|Jagged-ArrayModification\\Jagged-ArrayModification.csproj|solutionrelative:jagged-arraymodification\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E91C4B5D-3E24-49FE-B6A5-57C8CDD52ABF}|SquareWithMaximumSum\\SquareWithMaximumSum.csproj|c:\\users\\tedil\\source\\repos\\softuni_advanced_c#\\summatrixelements\\squarewithmaximumsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E91C4B5D-3E24-49FE-B6A5-57C8CDD52ABF}|SquareWithMaximumSum\\SquareWithMaximumSum.csproj|solutionrelative:squarewithmaximumsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B94135C3-3FF0-4BD4-A251-DCD003C072B1}|SumboLinMatrix\\SumboLinMatrix.csproj|c:\\users\\tedil\\source\\repos\\softuni_advanced_c#\\summatrixelements\\sumbolinmatrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B94135C3-3FF0-4BD4-A251-DCD003C072B1}|SumboLinMatrix\\SumboLinMatrix.csproj|solutionrelative:sumbolinmatrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F084FF-2BCD-4852-B83B-4FFB76C41C6C}|SumMatrixColumns\\SumMatrixColumns.csproj|c:\\users\\tedil\\source\\repos\\softuni_advanced_c#\\summatrixelements\\summatrixcolumns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F084FF-2BCD-4852-B83B-4FFB76C41C6C}|SumMatrixColumns\\SumMatrixColumns.csproj|solutionrelative:summatrixcolumns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{506B176B-7ACB-4AFD-90F8-74B0B637004E}|PrimaryDiagonal\\PrimaryDiagonal.csproj|c:\\users\\tedil\\source\\repos\\softuni_advanced_c#\\summatrixelements\\primarydiagonal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{506B176B-7ACB-4AFD-90F8-74B0B637004E}|PrimaryDiagonal\\PrimaryDiagonal.csproj|solutionrelative:primarydiagonal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\Softuni_Advanced_c#\\SumMatrixElements\\PascalTriangle\\Program.cs",
+              "RelativeDocumentMoniker": "PascalTriangle\\Program.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\Softuni_Advanced_c#\\SumMatrixElements\\PascalTriangle\\Program.cs",
+              "RelativeToolTip": "PascalTriangle\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T23:13:26.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\Softuni_Advanced_c#\\SumMatrixElements\\Jagged-ArrayModification\\Program.cs",
+              "RelativeDocumentMoniker": "Jagged-ArrayModification\\Program.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\Softuni_Advanced_c#\\SumMatrixElements\\Jagged-ArrayModification\\Program.cs",
+              "RelativeToolTip": "Jagged-ArrayModification\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAiwBMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T22:35:21.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\Softuni_Advanced_c#\\SumMatrixElements\\SquareWithMaximumSum\\Program.cs",
+              "RelativeDocumentMoniker": "SquareWithMaximumSum\\Program.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\Softuni_Advanced_c#\\SumMatrixElements\\SquareWithMaximumSum\\Program.cs",
+              "RelativeToolTip": "SquareWithMaximumSum\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwCEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T22:21:58.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\Softuni_Advanced_c#\\SumMatrixElements\\SumboLinMatrix\\Program.cs",
+              "RelativeDocumentMoniker": "SumboLinMatrix\\Program.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\Softuni_Advanced_c#\\SumMatrixElements\\SumboLinMatrix\\Program.cs",
+              "RelativeToolTip": "SumboLinMatrix\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T21:56:45.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\Softuni_Advanced_c#\\SumMatrixElements\\PrimaryDiagonal\\Program.cs",
+              "RelativeDocumentMoniker": "PrimaryDiagonal\\Program.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\Softuni_Advanced_c#\\SumMatrixElements\\PrimaryDiagonal\\Program.cs",
+              "RelativeToolTip": "PrimaryDiagonal\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwBQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T21:32:47.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\Softuni_Advanced_c#\\SumMatrixElements\\SumMatrixColumns\\Program.cs",
+              "RelativeDocumentMoniker": "SumMatrixColumns\\Program.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\Softuni_Advanced_c#\\SumMatrixElements\\SumMatrixColumns\\Program.cs",
+              "RelativeToolTip": "SumMatrixColumns\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T21:18:37.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\Softuni_Advanced_c#\\SumMatrixElements\\SumMatrixElements\\Program.cs",
+              "RelativeDocumentMoniker": "SumMatrixElements\\Program.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\Softuni_Advanced_c#\\SumMatrixElements\\SumMatrixElements\\Program.cs",
+              "RelativeToolTip": "SumMatrixElements\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T21:04:19.932Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

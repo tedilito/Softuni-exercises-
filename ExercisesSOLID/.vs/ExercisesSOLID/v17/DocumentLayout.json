@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tedil\\source\\repos\\ExercisesSOLID\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9828538-7BDB-4F4E-97ED-9722872D374D}|Logger\\Logger.csproj|c:\\users\\tedil\\source\\repos\\exercisessolid\\logger\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9828538-7BDB-4F4E-97ED-9722872D374D}|Logger\\Logger.csproj|solutionrelative:logger\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9828538-7BDB-4F4E-97ED-9722872D374D}|Logger\\Logger.csproj|c:\\users\\tedil\\source\\repos\\exercisessolid\\logger\\xmllayout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9828538-7BDB-4F4E-97ED-9722872D374D}|Logger\\Logger.csproj|solutionrelative:logger\\xmllayout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9828538-7BDB-4F4E-97ED-9722872D374D}|Logger\\Logger.csproj|c:\\users\\tedil\\source\\repos\\exercisessolid\\logger\\simplelayout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9828538-7BDB-4F4E-97ED-9722872D374D}|Logger\\Logger.csproj|solutionrelative:logger\\simplelayout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9828538-7BDB-4F4E-97ED-9722872D374D}|Logger\\Logger.csproj|c:\\users\\tedil\\source\\repos\\exercisessolid\\logger\\reportlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9828538-7BDB-4F4E-97ED-9722872D374D}|Logger\\Logger.csproj|solutionrelative:logger\\reportlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9828538-7BDB-4F4E-97ED-9722872D374D}|Logger\\Logger.csproj|c:\\users\\tedil\\source\\repos\\exercisessolid\\logger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9828538-7BDB-4F4E-97ED-9722872D374D}|Logger\\Logger.csproj|solutionrelative:logger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9828538-7BDB-4F4E-97ED-9722872D374D}|Logger\\Logger.csproj|c:\\users\\tedil\\source\\repos\\exercisessolid\\logger\\interfaces\\fileappender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9828538-7BDB-4F4E-97ED-9722872D374D}|Logger\\Logger.csproj|solutionrelative:logger\\interfaces\\fileappender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9828538-7BDB-4F4E-97ED-9722872D374D}|Logger\\Logger.csproj|c:\\users\\tedil\\source\\repos\\exercisessolid\\logger\\consoleappender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9828538-7BDB-4F4E-97ED-9722872D374D}|Logger\\Logger.csproj|solutionrelative:logger\\consoleappender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9828538-7BDB-4F4E-97ED-9722872D374D}|Logger\\Logger.csproj|c:\\users\\tedil\\source\\repos\\exercisessolid\\logger\\interfaces\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9828538-7BDB-4F4E-97ED-9722872D374D}|Logger\\Logger.csproj|solutionrelative:logger\\interfaces\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9828538-7BDB-4F4E-97ED-9722872D374D}|Logger\\Logger.csproj|c:\\users\\tedil\\source\\repos\\exercisessolid\\logger\\interfaces\\ilayout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9828538-7BDB-4F4E-97ED-9722872D374D}|Logger\\Logger.csproj|solutionrelative:logger\\interfaces\\ilayout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9828538-7BDB-4F4E-97ED-9722872D374D}|Logger\\Logger.csproj|c:\\users\\tedil\\source\\repos\\exercisessolid\\logger\\interfaces\\iappender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9828538-7BDB-4F4E-97ED-9722872D374D}|Logger\\Logger.csproj|solutionrelative:logger\\interfaces\\iappender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "XmlLayout.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExercisesSOLID\\Logger\\XmlLayout.cs",
+              "RelativeDocumentMoniker": "Logger\\XmlLayout.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExercisesSOLID\\Logger\\XmlLayout.cs",
+              "RelativeToolTip": "Logger\\XmlLayout.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T14:02:04.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileAppender.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExercisesSOLID\\Logger\\Interfaces\\FileAppender.cs",
+              "RelativeDocumentMoniker": "Logger\\Interfaces\\FileAppender.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExercisesSOLID\\Logger\\Interfaces\\FileAppender.cs",
+              "RelativeToolTip": "Logger\\Interfaces\\FileAppender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T13:45:48.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReportLevel.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExercisesSOLID\\Logger\\ReportLevel.cs",
+              "RelativeDocumentMoniker": "Logger\\ReportLevel.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExercisesSOLID\\Logger\\ReportLevel.cs",
+              "RelativeToolTip": "Logger\\ReportLevel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T13:25:54.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExercisesSOLID\\Logger\\Logger.cs",
+              "RelativeDocumentMoniker": "Logger\\Logger.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExercisesSOLID\\Logger\\Logger.cs",
+              "RelativeToolTip": "Logger\\Logger.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T13:14:50.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConsoleAppender.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExercisesSOLID\\Logger\\ConsoleAppender.cs",
+              "RelativeDocumentMoniker": "Logger\\ConsoleAppender.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExercisesSOLID\\Logger\\ConsoleAppender.cs",
+              "RelativeToolTip": "Logger\\ConsoleAppender.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABQAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T13:09:04.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SimpleLayout.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExercisesSOLID\\Logger\\SimpleLayout.cs",
+              "RelativeDocumentMoniker": "Logger\\SimpleLayout.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExercisesSOLID\\Logger\\SimpleLayout.cs",
+              "RelativeToolTip": "Logger\\SimpleLayout.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T13:07:13.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ILogger.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExercisesSOLID\\Logger\\Interfaces\\ILogger.cs",
+              "RelativeDocumentMoniker": "Logger\\Interfaces\\ILogger.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExercisesSOLID\\Logger\\Interfaces\\ILogger.cs",
+              "RelativeToolTip": "Logger\\Interfaces\\ILogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T12:56:18.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExercisesSOLID\\Logger\\Program.cs",
+              "RelativeDocumentMoniker": "Logger\\Program.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExercisesSOLID\\Logger\\Program.cs",
+              "RelativeToolTip": "Logger\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T12:51:22.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAppender.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExercisesSOLID\\Logger\\Interfaces\\IAppender.cs",
+              "RelativeDocumentMoniker": "Logger\\Interfaces\\IAppender.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExercisesSOLID\\Logger\\Interfaces\\IAppender.cs",
+              "RelativeToolTip": "Logger\\Interfaces\\IAppender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T12:56:06.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ILayout.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExercisesSOLID\\Logger\\Interfaces\\ILayout.cs",
+              "RelativeDocumentMoniker": "Logger\\Interfaces\\ILayout.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExercisesSOLID\\Logger\\Interfaces\\ILayout.cs",
+              "RelativeToolTip": "Logger\\Interfaces\\ILayout.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T12:53:19.499Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

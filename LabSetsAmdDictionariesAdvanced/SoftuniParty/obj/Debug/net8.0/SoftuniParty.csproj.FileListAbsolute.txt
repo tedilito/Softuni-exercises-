@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\SoftuniParty\bin\Debug\net8.0\SoftuniParty.exe
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\SoftuniParty\bin\Debug\net8.0\SoftuniParty.deps.json
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\SoftuniParty\bin\Debug\net8.0\SoftuniParty.runtimeconfig.json
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\SoftuniParty\bin\Debug\net8.0\SoftuniParty.dll
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\SoftuniParty\bin\Debug\net8.0\SoftuniParty.pdb
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\SoftuniParty\obj\Debug\net8.0\SoftuniParty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\SoftuniParty\obj\Debug\net8.0\SoftuniParty.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\SoftuniParty\obj\Debug\net8.0\SoftuniParty.AssemblyInfo.cs
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\SoftuniParty\obj\Debug\net8.0\SoftuniParty.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\SoftuniParty\obj\Debug\net8.0\SoftuniParty.dll
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\SoftuniParty\obj\Debug\net8.0\refint\SoftuniParty.dll
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\SoftuniParty\obj\Debug\net8.0\SoftuniParty.pdb
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\SoftuniParty\obj\Debug\net8.0\SoftuniParty.genruntimeconfig.cache
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\SoftuniParty\obj\Debug\net8.0\ref\SoftuniParty.dll

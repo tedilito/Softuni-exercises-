@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tedil\\source\\repos\\AdvancedExamPrep\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB20D62-1627-4DB5-80CC-2613A5963718}|BakeryShop\\BakeryShop.csproj|c:\\users\\tedil\\source\\repos\\advancedexamprep\\bakeryshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEB20D62-1627-4DB5-80CC-2613A5963718}|BakeryShop\\BakeryShop.csproj|solutionrelative:bakeryshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BABD5A0-E041-4AB1-B5C6-79015F5E7590}|BeavertWork\\BeavertWork.csproj|c:\\users\\tedil\\source\\repos\\advancedexamprep\\beavertwork\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BABD5A0-E041-4AB1-B5C6-79015F5E7590}|BeavertWork\\BeavertWork.csproj|solutionrelative:beavertwork\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8CD65F-FEFE-40C5-ABA2-4DDBEFF0496C}|Beesyy\\Beesyy.csproj|c:\\users\\tedil\\source\\repos\\advancedexamprep\\beesyy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB8CD65F-FEFE-40C5-ABA2-4DDBEFF0496C}|Beesyy\\Beesyy.csproj|solutionrelative:beesyy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04319C1D-450A-4F9E-B0C2-B02EABB02261}|RandomExamNumGenerator\\RandomExamNumGenerator.csproj|c:\\users\\tedil\\source\\repos\\advancedexamprep\\randomexamnumgenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04319C1D-450A-4F9E-B0C2-B02EABB02261}|RandomExamNumGenerator\\RandomExamNumGenerator.csproj|solutionrelative:randomexamnumgenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2577B09-E8B6-4030-92F7-7B0F60566C2C}|BlindMan\u0027sBuff\\BlindMan\u0027sBuff.csproj|c:\\users\\tedil\\source\\repos\\advancedexamprep\\blindman\u0027sbuff\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2577B09-E8B6-4030-92F7-7B0F60566C2C}|BlindMan\u0027sBuff\\BlindMan\u0027sBuff.csproj|solutionrelative:blindman\u0027sbuff\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tedil\\Downloads\\SoftUniKindergarten_Skeleton_6.0\\Child.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{184EE919-C16D-4725-87D7-80076BF32993}|AppocalypsePrepraration\\AppocalypsePrepraration.csproj|c:\\users\\tedil\\source\\repos\\advancedexamprep\\appocalypseprepraration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{184EE919-C16D-4725-87D7-80076BF32993}|AppocalypsePrepraration\\AppocalypsePrepraration.csproj|solutionrelative:appocalypseprepraration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tedil\\Downloads\\GroceriesManagement\\GroceriesManagement\\GroceriesStore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CAF3787-A0AB-40BA-994E-D793F6A280C2}|TheGambler2\\TheGambler2.csproj|c:\\users\\tedil\\source\\repos\\advancedexamprep\\thegambler2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CAF3787-A0AB-40BA-994E-D793F6A280C2}|TheGambler2\\TheGambler2.csproj|solutionrelative:thegambler2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC3C7FEF-D77A-4157-88F1-3F0778C3265B}|WormsAndHoles_2\\WormsAndHoles_2.csproj|c:\\users\\tedil\\source\\repos\\advancedexamprep\\wormsandholes_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC3C7FEF-D77A-4157-88F1-3F0778C3265B}|WormsAndHoles_2\\WormsAndHoles_2.csproj|solutionrelative:wormsandholes_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\AdvancedExamPrep\\BeavertWork\\Program.cs",
+              "RelativeDocumentMoniker": "BeavertWork\\Program.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\AdvancedExamPrep\\BeavertWork\\Program.cs",
+              "RelativeToolTip": "BeavertWork\\Program.cs",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAAwLkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T12:06:38.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\AdvancedExamPrep\\BakeryShop\\Program.cs",
+              "RelativeDocumentMoniker": "BakeryShop\\Program.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\AdvancedExamPrep\\BakeryShop\\Program.cs",
+              "RelativeToolTip": "BakeryShop\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAwDMAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T11:32:41.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\AdvancedExamPrep\\Beesyy\\Program.cs",
+              "RelativeDocumentMoniker": "Beesyy\\Program.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\AdvancedExamPrep\\Beesyy\\Program.cs",
+              "RelativeToolTip": "Beesyy\\Program.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAAIwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T09:44:41.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\AdvancedExamPrep\\RandomExamNumGenerator\\Program.cs",
+              "RelativeDocumentMoniker": "RandomExamNumGenerator\\Program.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\AdvancedExamPrep\\RandomExamNumGenerator\\Program.cs",
+              "RelativeToolTip": "RandomExamNumGenerator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T08:48:08.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Child.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\Downloads\\SoftUniKindergarten_Skeleton_6.0\\Child.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\SoftUniKindergarten_Skeleton_6.0\\Child.cs",
+              "ToolTip": "C:\\Users\\tedil\\Downloads\\SoftUniKindergarten_Skeleton_6.0\\Child.cs",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\SoftUniKindergarten_Skeleton_6.0\\Child.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T21:11:58.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\AdvancedExamPrep\\BlindMan\u0027sBuff\\Program.cs",
+              "RelativeDocumentMoniker": "BlindMan\u0027sBuff\\Program.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\AdvancedExamPrep\\BlindMan\u0027sBuff\\Program.cs",
+              "RelativeToolTip": "BlindMan\u0027sBuff\\Program.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAwwHAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T10:33:36.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\AdvancedExamPrep\\AppocalypsePrepraration\\Program.cs",
+              "RelativeDocumentMoniker": "AppocalypsePrepraration\\Program.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\AdvancedExamPrep\\AppocalypsePrepraration\\Program.cs",
+              "RelativeToolTip": "AppocalypsePrepraration\\Program.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAwwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T10:01:35.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GroceriesStore.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\Downloads\\GroceriesManagement\\GroceriesManagement\\GroceriesStore.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\GroceriesManagement\\GroceriesManagement\\GroceriesStore.cs",
+              "ToolTip": "C:\\Users\\tedil\\Downloads\\GroceriesManagement\\GroceriesManagement\\GroceriesStore.cs",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\GroceriesManagement\\GroceriesManagement\\GroceriesStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T09:41:56.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\AdvancedExamPrep\\TheGambler2\\Program.cs",
+              "RelativeDocumentMoniker": "TheGambler2\\Program.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\AdvancedExamPrep\\TheGambler2\\Program.cs",
+              "RelativeToolTip": "TheGambler2\\Program.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAwwHkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T09:17:28.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\AdvancedExamPrep\\WormsAndHoles_2\\Program.cs",
+              "RelativeDocumentMoniker": "WormsAndHoles_2\\Program.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\AdvancedExamPrep\\WormsAndHoles_2\\Program.cs",
+              "RelativeToolTip": "WormsAndHoles_2\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAuwD8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T08:42:01.019Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

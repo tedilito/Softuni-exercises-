@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\ExerciseDefiningClasses\SpeedRacing\bin\Debug\net6.0\SpeedRacing.exe
+C:\Users\tedil\source\repos\ExerciseDefiningClasses\SpeedRacing\bin\Debug\net6.0\SpeedRacing.deps.json
+C:\Users\tedil\source\repos\ExerciseDefiningClasses\SpeedRacing\bin\Debug\net6.0\SpeedRacing.runtimeconfig.json
+C:\Users\tedil\source\repos\ExerciseDefiningClasses\SpeedRacing\bin\Debug\net6.0\SpeedRacing.dll
+C:\Users\tedil\source\repos\ExerciseDefiningClasses\SpeedRacing\bin\Debug\net6.0\SpeedRacing.pdb
+C:\Users\tedil\source\repos\ExerciseDefiningClasses\SpeedRacing\obj\Debug\net6.0\SpeedRacing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\ExerciseDefiningClasses\SpeedRacing\obj\Debug\net6.0\SpeedRacing.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\ExerciseDefiningClasses\SpeedRacing\obj\Debug\net6.0\SpeedRacing.AssemblyInfo.cs
+C:\Users\tedil\source\repos\ExerciseDefiningClasses\SpeedRacing\obj\Debug\net6.0\SpeedRacing.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\ExerciseDefiningClasses\SpeedRacing\obj\Debug\net6.0\SpeedRacing.dll
+C:\Users\tedil\source\repos\ExerciseDefiningClasses\SpeedRacing\obj\Debug\net6.0\refint\SpeedRacing.dll
+C:\Users\tedil\source\repos\ExerciseDefiningClasses\SpeedRacing\obj\Debug\net6.0\SpeedRacing.pdb
+C:\Users\tedil\source\repos\ExerciseDefiningClasses\SpeedRacing\obj\Debug\net6.0\SpeedRacing.genruntimeconfig.cache
+C:\Users\tedil\source\repos\ExerciseDefiningClasses\SpeedRacing\obj\Debug\net6.0\ref\SpeedRacing.dll

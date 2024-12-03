@@ -1,0 +1,14 @@
+C:\Users\tedil\Downloads\VendingSystem_Skeleton_netcoreapp6.0\VendingSystem\bin\Debug\net6.0\VendingSystem.exe
+C:\Users\tedil\Downloads\VendingSystem_Skeleton_netcoreapp6.0\VendingSystem\bin\Debug\net6.0\VendingSystem.deps.json
+C:\Users\tedil\Downloads\VendingSystem_Skeleton_netcoreapp6.0\VendingSystem\bin\Debug\net6.0\VendingSystem.runtimeconfig.json
+C:\Users\tedil\Downloads\VendingSystem_Skeleton_netcoreapp6.0\VendingSystem\bin\Debug\net6.0\VendingSystem.dll
+C:\Users\tedil\Downloads\VendingSystem_Skeleton_netcoreapp6.0\VendingSystem\bin\Debug\net6.0\VendingSystem.pdb
+C:\Users\tedil\Downloads\VendingSystem_Skeleton_netcoreapp6.0\VendingSystem\obj\Debug\net6.0\VendingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\Downloads\VendingSystem_Skeleton_netcoreapp6.0\VendingSystem\obj\Debug\net6.0\VendingSystem.AssemblyInfoInputs.cache
+C:\Users\tedil\Downloads\VendingSystem_Skeleton_netcoreapp6.0\VendingSystem\obj\Debug\net6.0\VendingSystem.AssemblyInfo.cs
+C:\Users\tedil\Downloads\VendingSystem_Skeleton_netcoreapp6.0\VendingSystem\obj\Debug\net6.0\VendingSystem.csproj.CoreCompileInputs.cache
+C:\Users\tedil\Downloads\VendingSystem_Skeleton_netcoreapp6.0\VendingSystem\obj\Debug\net6.0\VendingSystem.dll
+C:\Users\tedil\Downloads\VendingSystem_Skeleton_netcoreapp6.0\VendingSystem\obj\Debug\net6.0\refint\VendingSystem.dll
+C:\Users\tedil\Downloads\VendingSystem_Skeleton_netcoreapp6.0\VendingSystem\obj\Debug\net6.0\VendingSystem.pdb
+C:\Users\tedil\Downloads\VendingSystem_Skeleton_netcoreapp6.0\VendingSystem\obj\Debug\net6.0\VendingSystem.genruntimeconfig.cache
+C:\Users\tedil\Downloads\VendingSystem_Skeleton_netcoreapp6.0\VendingSystem\obj\Debug\net6.0\ref\VendingSystem.dll

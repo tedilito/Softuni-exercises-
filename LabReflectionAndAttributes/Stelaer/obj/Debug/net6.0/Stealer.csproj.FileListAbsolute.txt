@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\LabReflectionAndAttributes\Stelaer\bin\Debug\net6.0\Stealer.exe
+C:\Users\tedil\source\repos\LabReflectionAndAttributes\Stelaer\bin\Debug\net6.0\Stealer.deps.json
+C:\Users\tedil\source\repos\LabReflectionAndAttributes\Stelaer\bin\Debug\net6.0\Stealer.runtimeconfig.json
+C:\Users\tedil\source\repos\LabReflectionAndAttributes\Stelaer\bin\Debug\net6.0\Stealer.dll
+C:\Users\tedil\source\repos\LabReflectionAndAttributes\Stelaer\bin\Debug\net6.0\Stealer.pdb
+C:\Users\tedil\source\repos\LabReflectionAndAttributes\Stelaer\obj\Debug\net6.0\Stealer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\LabReflectionAndAttributes\Stelaer\obj\Debug\net6.0\Stealer.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\LabReflectionAndAttributes\Stelaer\obj\Debug\net6.0\Stealer.AssemblyInfo.cs
+C:\Users\tedil\source\repos\LabReflectionAndAttributes\Stelaer\obj\Debug\net6.0\Stealer.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\LabReflectionAndAttributes\Stelaer\obj\Debug\net6.0\Stealer.dll
+C:\Users\tedil\source\repos\LabReflectionAndAttributes\Stelaer\obj\Debug\net6.0\refint\Stealer.dll
+C:\Users\tedil\source\repos\LabReflectionAndAttributes\Stelaer\obj\Debug\net6.0\Stealer.pdb
+C:\Users\tedil\source\repos\LabReflectionAndAttributes\Stelaer\obj\Debug\net6.0\Stealer.genruntimeconfig.cache
+C:\Users\tedil\source\repos\LabReflectionAndAttributes\Stelaer\obj\Debug\net6.0\ref\Stealer.dll

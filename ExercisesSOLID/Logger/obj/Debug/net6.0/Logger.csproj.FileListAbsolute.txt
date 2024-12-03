@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\ExercisesSOLID\Logger\bin\Debug\net6.0\Logger.exe
+C:\Users\tedil\source\repos\ExercisesSOLID\Logger\bin\Debug\net6.0\Logger.deps.json
+C:\Users\tedil\source\repos\ExercisesSOLID\Logger\bin\Debug\net6.0\Logger.runtimeconfig.json
+C:\Users\tedil\source\repos\ExercisesSOLID\Logger\bin\Debug\net6.0\Logger.dll
+C:\Users\tedil\source\repos\ExercisesSOLID\Logger\bin\Debug\net6.0\Logger.pdb
+C:\Users\tedil\source\repos\ExercisesSOLID\Logger\obj\Debug\net6.0\Logger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\ExercisesSOLID\Logger\obj\Debug\net6.0\Logger.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\ExercisesSOLID\Logger\obj\Debug\net6.0\Logger.AssemblyInfo.cs
+C:\Users\tedil\source\repos\ExercisesSOLID\Logger\obj\Debug\net6.0\Logger.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\ExercisesSOLID\Logger\obj\Debug\net6.0\Logger.dll
+C:\Users\tedil\source\repos\ExercisesSOLID\Logger\obj\Debug\net6.0\refint\Logger.dll
+C:\Users\tedil\source\repos\ExercisesSOLID\Logger\obj\Debug\net6.0\Logger.pdb
+C:\Users\tedil\source\repos\ExercisesSOLID\Logger\obj\Debug\net6.0\Logger.genruntimeconfig.cache
+C:\Users\tedil\source\repos\ExercisesSOLID\Logger\obj\Debug\net6.0\ref\Logger.dll

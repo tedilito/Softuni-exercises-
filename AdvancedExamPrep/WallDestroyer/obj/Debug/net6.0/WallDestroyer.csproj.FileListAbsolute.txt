@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\AdvancedExamPrep\WallDestroyer\bin\Debug\net6.0\WallDestroyer.exe
+C:\Users\tedil\source\repos\AdvancedExamPrep\WallDestroyer\bin\Debug\net6.0\WallDestroyer.deps.json
+C:\Users\tedil\source\repos\AdvancedExamPrep\WallDestroyer\bin\Debug\net6.0\WallDestroyer.runtimeconfig.json
+C:\Users\tedil\source\repos\AdvancedExamPrep\WallDestroyer\bin\Debug\net6.0\WallDestroyer.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\WallDestroyer\bin\Debug\net6.0\WallDestroyer.pdb
+C:\Users\tedil\source\repos\AdvancedExamPrep\WallDestroyer\obj\Debug\net6.0\WallDestroyer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\AdvancedExamPrep\WallDestroyer\obj\Debug\net6.0\WallDestroyer.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\WallDestroyer\obj\Debug\net6.0\WallDestroyer.AssemblyInfo.cs
+C:\Users\tedil\source\repos\AdvancedExamPrep\WallDestroyer\obj\Debug\net6.0\WallDestroyer.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\WallDestroyer\obj\Debug\net6.0\WallDestroyer.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\WallDestroyer\obj\Debug\net6.0\refint\WallDestroyer.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\WallDestroyer\obj\Debug\net6.0\WallDestroyer.pdb
+C:\Users\tedil\source\repos\AdvancedExamPrep\WallDestroyer\obj\Debug\net6.0\WallDestroyer.genruntimeconfig.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\WallDestroyer\obj\Debug\net6.0\ref\WallDestroyer.dll

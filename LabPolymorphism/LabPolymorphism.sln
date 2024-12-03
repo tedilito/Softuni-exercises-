@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operations", "Operations\Operations.csproj", "{E365B4D6-8CE3-404B-8BB0-80099E3141D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animals", "Animals\Animals.csproj", "{ED6CC3B7-5C40-4BDA-8B5F-92F905BB1C23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shapes", "Shapes\Shapes.csproj", "{495AD936-4DB6-4839-9021-A13192F9389C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E365B4D6-8CE3-404B-8BB0-80099E3141D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E365B4D6-8CE3-404B-8BB0-80099E3141D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E365B4D6-8CE3-404B-8BB0-80099E3141D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E365B4D6-8CE3-404B-8BB0-80099E3141D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED6CC3B7-5C40-4BDA-8B5F-92F905BB1C23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED6CC3B7-5C40-4BDA-8B5F-92F905BB1C23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED6CC3B7-5C40-4BDA-8B5F-92F905BB1C23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED6CC3B7-5C40-4BDA-8B5F-92F905BB1C23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{495AD936-4DB6-4839-9021-A13192F9389C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{495AD936-4DB6-4839-9021-A13192F9389C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{495AD936-4DB6-4839-9021-A13192F9389C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{495AD936-4DB6-4839-9021-A13192F9389C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30F54840-39E1-4C1C-AF40-CD77514776EC}
+	EndGlobalSection
+EndGlobal

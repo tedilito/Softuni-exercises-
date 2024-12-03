@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\Crossroads\bin\Debug\net8.0\Crossroads.exe
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\Crossroads\bin\Debug\net8.0\Crossroads.deps.json
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\Crossroads\bin\Debug\net8.0\Crossroads.runtimeconfig.json
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\Crossroads\bin\Debug\net8.0\Crossroads.dll
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\Crossroads\bin\Debug\net8.0\Crossroads.pdb
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\Crossroads\obj\Debug\net8.0\Crossroads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\Crossroads\obj\Debug\net8.0\Crossroads.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\Crossroads\obj\Debug\net8.0\Crossroads.AssemblyInfo.cs
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\Crossroads\obj\Debug\net8.0\Crossroads.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\Crossroads\obj\Debug\net8.0\Crossroads.dll
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\Crossroads\obj\Debug\net8.0\refint\Crossroads.dll
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\Crossroads\obj\Debug\net8.0\Crossroads.pdb
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\Crossroads\obj\Debug\net8.0\Crossroads.genruntimeconfig.cache
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\Crossroads\obj\Debug\net8.0\ref\Crossroads.dll

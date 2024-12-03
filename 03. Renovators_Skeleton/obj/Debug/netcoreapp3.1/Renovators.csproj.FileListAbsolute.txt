@@ -1,0 +1,13 @@
+C:\Users\tedil\Downloads\03. Renovators_Skeleton\bin\Debug\netcoreapp3.1\Renovators.exe
+C:\Users\tedil\Downloads\03. Renovators_Skeleton\bin\Debug\netcoreapp3.1\Renovators.deps.json
+C:\Users\tedil\Downloads\03. Renovators_Skeleton\bin\Debug\netcoreapp3.1\Renovators.runtimeconfig.json
+C:\Users\tedil\Downloads\03. Renovators_Skeleton\bin\Debug\netcoreapp3.1\Renovators.runtimeconfig.dev.json
+C:\Users\tedil\Downloads\03. Renovators_Skeleton\bin\Debug\netcoreapp3.1\Renovators.dll
+C:\Users\tedil\Downloads\03. Renovators_Skeleton\bin\Debug\netcoreapp3.1\Renovators.pdb
+C:\Users\tedil\Downloads\03. Renovators_Skeleton\obj\Debug\netcoreapp3.1\Renovators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\Downloads\03. Renovators_Skeleton\obj\Debug\netcoreapp3.1\Renovators.AssemblyInfoInputs.cache
+C:\Users\tedil\Downloads\03. Renovators_Skeleton\obj\Debug\netcoreapp3.1\Renovators.AssemblyInfo.cs
+C:\Users\tedil\Downloads\03. Renovators_Skeleton\obj\Debug\netcoreapp3.1\Renovators.csproj.CoreCompileInputs.cache
+C:\Users\tedil\Downloads\03. Renovators_Skeleton\obj\Debug\netcoreapp3.1\Renovators.dll
+C:\Users\tedil\Downloads\03. Renovators_Skeleton\obj\Debug\netcoreapp3.1\Renovators.pdb
+C:\Users\tedil\Downloads\03. Renovators_Skeleton\obj\Debug\netcoreapp3.1\Renovators.genruntimeconfig.cache

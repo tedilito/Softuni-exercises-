@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\ExerciseEncapsulation\1ClassBoxData\bin\Debug\net6.0\1ClassBoxData.exe
+C:\Users\tedil\source\repos\ExerciseEncapsulation\1ClassBoxData\bin\Debug\net6.0\1ClassBoxData.deps.json
+C:\Users\tedil\source\repos\ExerciseEncapsulation\1ClassBoxData\bin\Debug\net6.0\1ClassBoxData.runtimeconfig.json
+C:\Users\tedil\source\repos\ExerciseEncapsulation\1ClassBoxData\bin\Debug\net6.0\1ClassBoxData.dll
+C:\Users\tedil\source\repos\ExerciseEncapsulation\1ClassBoxData\bin\Debug\net6.0\1ClassBoxData.pdb
+C:\Users\tedil\source\repos\ExerciseEncapsulation\1ClassBoxData\obj\Debug\net6.0\1ClassBoxData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\ExerciseEncapsulation\1ClassBoxData\obj\Debug\net6.0\1ClassBoxData.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\ExerciseEncapsulation\1ClassBoxData\obj\Debug\net6.0\1ClassBoxData.AssemblyInfo.cs
+C:\Users\tedil\source\repos\ExerciseEncapsulation\1ClassBoxData\obj\Debug\net6.0\1ClassBoxData.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\ExerciseEncapsulation\1ClassBoxData\obj\Debug\net6.0\1ClassBoxData.dll
+C:\Users\tedil\source\repos\ExerciseEncapsulation\1ClassBoxData\obj\Debug\net6.0\refint\1ClassBoxData.dll
+C:\Users\tedil\source\repos\ExerciseEncapsulation\1ClassBoxData\obj\Debug\net6.0\1ClassBoxData.pdb
+C:\Users\tedil\source\repos\ExerciseEncapsulation\1ClassBoxData\obj\Debug\net6.0\1ClassBoxData.genruntimeconfig.cache
+C:\Users\tedil\source\repos\ExerciseEncapsulation\1ClassBoxData\obj\Debug\net6.0\ref\1ClassBoxData.dll

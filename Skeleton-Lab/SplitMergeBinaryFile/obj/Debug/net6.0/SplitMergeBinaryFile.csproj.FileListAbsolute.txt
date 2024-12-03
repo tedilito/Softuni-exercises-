@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\Softuni_Advanced_c#\Skeleton-Lab\SplitMergeBinaryFile\bin\Debug\net6.0\SplitMergeBinaryFile.exe
+C:\Users\tedil\source\repos\Softuni_Advanced_c#\Skeleton-Lab\SplitMergeBinaryFile\bin\Debug\net6.0\SplitMergeBinaryFile.deps.json
+C:\Users\tedil\source\repos\Softuni_Advanced_c#\Skeleton-Lab\SplitMergeBinaryFile\bin\Debug\net6.0\SplitMergeBinaryFile.runtimeconfig.json
+C:\Users\tedil\source\repos\Softuni_Advanced_c#\Skeleton-Lab\SplitMergeBinaryFile\bin\Debug\net6.0\SplitMergeBinaryFile.dll
+C:\Users\tedil\source\repos\Softuni_Advanced_c#\Skeleton-Lab\SplitMergeBinaryFile\bin\Debug\net6.0\SplitMergeBinaryFile.pdb
+C:\Users\tedil\source\repos\Softuni_Advanced_c#\Skeleton-Lab\SplitMergeBinaryFile\obj\Debug\net6.0\SplitMergeBinaryFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\Softuni_Advanced_c#\Skeleton-Lab\SplitMergeBinaryFile\obj\Debug\net6.0\SplitMergeBinaryFile.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\Softuni_Advanced_c#\Skeleton-Lab\SplitMergeBinaryFile\obj\Debug\net6.0\SplitMergeBinaryFile.AssemblyInfo.cs
+C:\Users\tedil\source\repos\Softuni_Advanced_c#\Skeleton-Lab\SplitMergeBinaryFile\obj\Debug\net6.0\SplitMergeBinaryFile.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\Softuni_Advanced_c#\Skeleton-Lab\SplitMergeBinaryFile\obj\Debug\net6.0\SplitMergeBinaryFile.dll
+C:\Users\tedil\source\repos\Softuni_Advanced_c#\Skeleton-Lab\SplitMergeBinaryFile\obj\Debug\net6.0\refint\SplitMergeBinaryFile.dll
+C:\Users\tedil\source\repos\Softuni_Advanced_c#\Skeleton-Lab\SplitMergeBinaryFile\obj\Debug\net6.0\SplitMergeBinaryFile.pdb
+C:\Users\tedil\source\repos\Softuni_Advanced_c#\Skeleton-Lab\SplitMergeBinaryFile\obj\Debug\net6.0\SplitMergeBinaryFile.genruntimeconfig.cache
+C:\Users\tedil\source\repos\Softuni_Advanced_c#\Skeleton-Lab\SplitMergeBinaryFile\obj\Debug\net6.0\ref\SplitMergeBinaryFile.dll

@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\InterfaceAndAbstraction\InterfaceAndAbstraction\bin\Debug\net6.0\InterfaceAndAbstraction.exe
+C:\Users\tedil\source\repos\InterfaceAndAbstraction\InterfaceAndAbstraction\bin\Debug\net6.0\InterfaceAndAbstraction.deps.json
+C:\Users\tedil\source\repos\InterfaceAndAbstraction\InterfaceAndAbstraction\bin\Debug\net6.0\InterfaceAndAbstraction.runtimeconfig.json
+C:\Users\tedil\source\repos\InterfaceAndAbstraction\InterfaceAndAbstraction\bin\Debug\net6.0\InterfaceAndAbstraction.dll
+C:\Users\tedil\source\repos\InterfaceAndAbstraction\InterfaceAndAbstraction\bin\Debug\net6.0\InterfaceAndAbstraction.pdb
+C:\Users\tedil\source\repos\InterfaceAndAbstraction\InterfaceAndAbstraction\obj\Debug\net6.0\InterfaceAndAbstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\InterfaceAndAbstraction\InterfaceAndAbstraction\obj\Debug\net6.0\InterfaceAndAbstraction.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\InterfaceAndAbstraction\InterfaceAndAbstraction\obj\Debug\net6.0\InterfaceAndAbstraction.AssemblyInfo.cs
+C:\Users\tedil\source\repos\InterfaceAndAbstraction\InterfaceAndAbstraction\obj\Debug\net6.0\InterfaceAndAbstraction.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\InterfaceAndAbstraction\InterfaceAndAbstraction\obj\Debug\net6.0\InterfaceAndAbstraction.dll
+C:\Users\tedil\source\repos\InterfaceAndAbstraction\InterfaceAndAbstraction\obj\Debug\net6.0\refint\InterfaceAndAbstraction.dll
+C:\Users\tedil\source\repos\InterfaceAndAbstraction\InterfaceAndAbstraction\obj\Debug\net6.0\InterfaceAndAbstraction.pdb
+C:\Users\tedil\source\repos\InterfaceAndAbstraction\InterfaceAndAbstraction\obj\Debug\net6.0\InterfaceAndAbstraction.genruntimeconfig.cache
+C:\Users\tedil\source\repos\InterfaceAndAbstraction\InterfaceAndAbstraction\obj\Debug\net6.0\ref\InterfaceAndAbstraction.dll

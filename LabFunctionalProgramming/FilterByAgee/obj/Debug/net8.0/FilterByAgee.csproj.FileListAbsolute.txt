@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\LabFunctionalProgramming\FilterByAgee\obj\Debug\net8.0\FilterByAgee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\LabFunctionalProgramming\FilterByAgee\obj\Debug\net8.0\FilterByAgee.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\LabFunctionalProgramming\FilterByAgee\obj\Debug\net8.0\FilterByAgee.AssemblyInfo.cs
+C:\Users\tedil\source\repos\LabFunctionalProgramming\FilterByAgee\obj\Debug\net8.0\FilterByAgee.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\LabFunctionalProgramming\FilterByAgee\bin\Debug\net8.0\FilterByAgee.exe
+C:\Users\tedil\source\repos\LabFunctionalProgramming\FilterByAgee\bin\Debug\net8.0\FilterByAgee.deps.json
+C:\Users\tedil\source\repos\LabFunctionalProgramming\FilterByAgee\bin\Debug\net8.0\FilterByAgee.runtimeconfig.json
+C:\Users\tedil\source\repos\LabFunctionalProgramming\FilterByAgee\bin\Debug\net8.0\FilterByAgee.dll
+C:\Users\tedil\source\repos\LabFunctionalProgramming\FilterByAgee\bin\Debug\net8.0\FilterByAgee.pdb
+C:\Users\tedil\source\repos\LabFunctionalProgramming\FilterByAgee\obj\Debug\net8.0\FilterByAgee.dll
+C:\Users\tedil\source\repos\LabFunctionalProgramming\FilterByAgee\obj\Debug\net8.0\refint\FilterByAgee.dll
+C:\Users\tedil\source\repos\LabFunctionalProgramming\FilterByAgee\obj\Debug\net8.0\FilterByAgee.pdb
+C:\Users\tedil\source\repos\LabFunctionalProgramming\FilterByAgee\obj\Debug\net8.0\FilterByAgee.genruntimeconfig.cache
+C:\Users\tedil\source\repos\LabFunctionalProgramming\FilterByAgee\obj\Debug\net8.0\ref\FilterByAgee.dll

@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\ExerciseFunctionalProgramming\PartyResetv\bin\Debug\net6.0\PartyResetv.exe
+C:\Users\tedil\source\repos\ExerciseFunctionalProgramming\PartyResetv\bin\Debug\net6.0\PartyResetv.deps.json
+C:\Users\tedil\source\repos\ExerciseFunctionalProgramming\PartyResetv\bin\Debug\net6.0\PartyResetv.runtimeconfig.json
+C:\Users\tedil\source\repos\ExerciseFunctionalProgramming\PartyResetv\bin\Debug\net6.0\PartyResetv.dll
+C:\Users\tedil\source\repos\ExerciseFunctionalProgramming\PartyResetv\bin\Debug\net6.0\PartyResetv.pdb
+C:\Users\tedil\source\repos\ExerciseFunctionalProgramming\PartyResetv\obj\Debug\net6.0\PartyResetv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\ExerciseFunctionalProgramming\PartyResetv\obj\Debug\net6.0\PartyResetv.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\ExerciseFunctionalProgramming\PartyResetv\obj\Debug\net6.0\PartyResetv.AssemblyInfo.cs
+C:\Users\tedil\source\repos\ExerciseFunctionalProgramming\PartyResetv\obj\Debug\net6.0\PartyResetv.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\ExerciseFunctionalProgramming\PartyResetv\obj\Debug\net6.0\PartyResetv.dll
+C:\Users\tedil\source\repos\ExerciseFunctionalProgramming\PartyResetv\obj\Debug\net6.0\refint\PartyResetv.dll
+C:\Users\tedil\source\repos\ExerciseFunctionalProgramming\PartyResetv\obj\Debug\net6.0\PartyResetv.pdb
+C:\Users\tedil\source\repos\ExerciseFunctionalProgramming\PartyResetv\obj\Debug\net6.0\PartyResetv.genruntimeconfig.cache
+C:\Users\tedil\source\repos\ExerciseFunctionalProgramming\PartyResetv\obj\Debug\net6.0\ref\PartyResetv.dll

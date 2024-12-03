@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\CustomListStackAndQueue\CustomList\bin\Debug\net6.0\CustomList.exe
+C:\Users\tedil\source\repos\CustomListStackAndQueue\CustomList\bin\Debug\net6.0\CustomList.deps.json
+C:\Users\tedil\source\repos\CustomListStackAndQueue\CustomList\bin\Debug\net6.0\CustomList.runtimeconfig.json
+C:\Users\tedil\source\repos\CustomListStackAndQueue\CustomList\bin\Debug\net6.0\CustomList.dll
+C:\Users\tedil\source\repos\CustomListStackAndQueue\CustomList\bin\Debug\net6.0\CustomList.pdb
+C:\Users\tedil\source\repos\CustomListStackAndQueue\CustomList\obj\Debug\net6.0\CustomList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\CustomListStackAndQueue\CustomList\obj\Debug\net6.0\CustomList.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\CustomListStackAndQueue\CustomList\obj\Debug\net6.0\CustomList.AssemblyInfo.cs
+C:\Users\tedil\source\repos\CustomListStackAndQueue\CustomList\obj\Debug\net6.0\CustomList.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\CustomListStackAndQueue\CustomList\obj\Debug\net6.0\CustomList.dll
+C:\Users\tedil\source\repos\CustomListStackAndQueue\CustomList\obj\Debug\net6.0\refint\CustomList.dll
+C:\Users\tedil\source\repos\CustomListStackAndQueue\CustomList\obj\Debug\net6.0\CustomList.pdb
+C:\Users\tedil\source\repos\CustomListStackAndQueue\CustomList\obj\Debug\net6.0\CustomList.genruntimeconfig.cache
+C:\Users\tedil\source\repos\CustomListStackAndQueue\CustomList\obj\Debug\net6.0\ref\CustomList.dll

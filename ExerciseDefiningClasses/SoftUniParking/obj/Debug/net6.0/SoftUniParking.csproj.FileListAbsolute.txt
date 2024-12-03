@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\ExerciseDefiningClasses\SoftUniParking\bin\Debug\net6.0\SoftUniParking.exe
+C:\Users\tedil\source\repos\ExerciseDefiningClasses\SoftUniParking\bin\Debug\net6.0\SoftUniParking.deps.json
+C:\Users\tedil\source\repos\ExerciseDefiningClasses\SoftUniParking\bin\Debug\net6.0\SoftUniParking.runtimeconfig.json
+C:\Users\tedil\source\repos\ExerciseDefiningClasses\SoftUniParking\bin\Debug\net6.0\SoftUniParking.dll
+C:\Users\tedil\source\repos\ExerciseDefiningClasses\SoftUniParking\bin\Debug\net6.0\SoftUniParking.pdb
+C:\Users\tedil\source\repos\ExerciseDefiningClasses\SoftUniParking\obj\Debug\net6.0\SoftUniParking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\ExerciseDefiningClasses\SoftUniParking\obj\Debug\net6.0\SoftUniParking.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\ExerciseDefiningClasses\SoftUniParking\obj\Debug\net6.0\SoftUniParking.AssemblyInfo.cs
+C:\Users\tedil\source\repos\ExerciseDefiningClasses\SoftUniParking\obj\Debug\net6.0\SoftUniParking.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\ExerciseDefiningClasses\SoftUniParking\obj\Debug\net6.0\SoftUniParking.dll
+C:\Users\tedil\source\repos\ExerciseDefiningClasses\SoftUniParking\obj\Debug\net6.0\refint\SoftUniParking.dll
+C:\Users\tedil\source\repos\ExerciseDefiningClasses\SoftUniParking\obj\Debug\net6.0\SoftUniParking.pdb
+C:\Users\tedil\source\repos\ExerciseDefiningClasses\SoftUniParking\obj\Debug\net6.0\SoftUniParking.genruntimeconfig.cache
+C:\Users\tedil\source\repos\ExerciseDefiningClasses\SoftUniParking\obj\Debug\net6.0\ref\SoftUniParking.dll

@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\AdvancedExamPrep\ChickenSnack\bin\Debug\net6.0\ChickenSnack.exe
+C:\Users\tedil\source\repos\AdvancedExamPrep\ChickenSnack\bin\Debug\net6.0\ChickenSnack.deps.json
+C:\Users\tedil\source\repos\AdvancedExamPrep\ChickenSnack\bin\Debug\net6.0\ChickenSnack.runtimeconfig.json
+C:\Users\tedil\source\repos\AdvancedExamPrep\ChickenSnack\bin\Debug\net6.0\ChickenSnack.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\ChickenSnack\bin\Debug\net6.0\ChickenSnack.pdb
+C:\Users\tedil\source\repos\AdvancedExamPrep\ChickenSnack\obj\Debug\net6.0\ChickenSnack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\AdvancedExamPrep\ChickenSnack\obj\Debug\net6.0\ChickenSnack.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\ChickenSnack\obj\Debug\net6.0\ChickenSnack.AssemblyInfo.cs
+C:\Users\tedil\source\repos\AdvancedExamPrep\ChickenSnack\obj\Debug\net6.0\ChickenSnack.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\ChickenSnack\obj\Debug\net6.0\ChickenSnack.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\ChickenSnack\obj\Debug\net6.0\refint\ChickenSnack.dll
+C:\Users\tedil\source\repos\AdvancedExamPrep\ChickenSnack\obj\Debug\net6.0\ChickenSnack.pdb
+C:\Users\tedil\source\repos\AdvancedExamPrep\ChickenSnack\obj\Debug\net6.0\ChickenSnack.genruntimeconfig.cache
+C:\Users\tedil\source\repos\AdvancedExamPrep\ChickenSnack\obj\Debug\net6.0\ref\ChickenSnack.dll

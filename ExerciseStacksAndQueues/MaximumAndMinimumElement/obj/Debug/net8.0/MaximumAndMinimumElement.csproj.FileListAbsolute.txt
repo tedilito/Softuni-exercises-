@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\MaximumAndMinimumElement\bin\Debug\net8.0\MaximumAndMinimumElement.exe
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\MaximumAndMinimumElement\bin\Debug\net8.0\MaximumAndMinimumElement.deps.json
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\MaximumAndMinimumElement\bin\Debug\net8.0\MaximumAndMinimumElement.runtimeconfig.json
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\MaximumAndMinimumElement\bin\Debug\net8.0\MaximumAndMinimumElement.dll
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\MaximumAndMinimumElement\bin\Debug\net8.0\MaximumAndMinimumElement.pdb
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\MaximumAndMinimumElement\obj\Debug\net8.0\MaximumAndMinimumElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\MaximumAndMinimumElement\obj\Debug\net8.0\MaximumAndMinimumElement.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\MaximumAndMinimumElement\obj\Debug\net8.0\MaximumAndMinimumElement.AssemblyInfo.cs
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\MaximumAndMinimumElement\obj\Debug\net8.0\MaximumAndMinimumElement.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\MaximumAndMinimumElement\obj\Debug\net8.0\MaximumAndMinimumElement.dll
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\MaximumAndMinimumElement\obj\Debug\net8.0\refint\MaximumAndMinimumElement.dll
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\MaximumAndMinimumElement\obj\Debug\net8.0\MaximumAndMinimumElement.pdb
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\MaximumAndMinimumElement\obj\Debug\net8.0\MaximumAndMinimumElement.genruntimeconfig.cache
+C:\Users\tedil\source\repos\ExerciseStacksAndQueues\MaximumAndMinimumElement\obj\Debug\net8.0\ref\MaximumAndMinimumElement.dll

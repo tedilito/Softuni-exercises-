@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\ExerciseFunctionalProgramming\PredicateForNames\bin\Debug\net6.0\PredicateForNames.exe
+C:\Users\tedil\source\repos\ExerciseFunctionalProgramming\PredicateForNames\bin\Debug\net6.0\PredicateForNames.deps.json
+C:\Users\tedil\source\repos\ExerciseFunctionalProgramming\PredicateForNames\bin\Debug\net6.0\PredicateForNames.runtimeconfig.json
+C:\Users\tedil\source\repos\ExerciseFunctionalProgramming\PredicateForNames\bin\Debug\net6.0\PredicateForNames.dll
+C:\Users\tedil\source\repos\ExerciseFunctionalProgramming\PredicateForNames\bin\Debug\net6.0\PredicateForNames.pdb
+C:\Users\tedil\source\repos\ExerciseFunctionalProgramming\PredicateForNames\obj\Debug\net6.0\PredicateForNames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\ExerciseFunctionalProgramming\PredicateForNames\obj\Debug\net6.0\PredicateForNames.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\ExerciseFunctionalProgramming\PredicateForNames\obj\Debug\net6.0\PredicateForNames.AssemblyInfo.cs
+C:\Users\tedil\source\repos\ExerciseFunctionalProgramming\PredicateForNames\obj\Debug\net6.0\PredicateForNames.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\ExerciseFunctionalProgramming\PredicateForNames\obj\Debug\net6.0\PredicateForNames.dll
+C:\Users\tedil\source\repos\ExerciseFunctionalProgramming\PredicateForNames\obj\Debug\net6.0\refint\PredicateForNames.dll
+C:\Users\tedil\source\repos\ExerciseFunctionalProgramming\PredicateForNames\obj\Debug\net6.0\PredicateForNames.pdb
+C:\Users\tedil\source\repos\ExerciseFunctionalProgramming\PredicateForNames\obj\Debug\net6.0\PredicateForNames.genruntimeconfig.cache
+C:\Users\tedil\source\repos\ExerciseFunctionalProgramming\PredicateForNames\obj\Debug\net6.0\ref\PredicateForNames.dll

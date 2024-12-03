@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tedil\\source\\repos\\ExceptionsandErrorHandlingLab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC6BFCAB-375A-4BBE-9579-C792E1860268}|MoneyTransaction\\MoneyTransaction.csproj|c:\\users\\tedil\\source\\repos\\exceptionsanderrorhandlinglab\\moneytransaction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC6BFCAB-375A-4BBE-9579-C792E1860268}|MoneyTransaction\\MoneyTransaction.csproj|solutionrelative:moneytransaction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473E41CA-3795-482C-A700-B8D6F7CA52C4}|PlayCatch\\PlayCatch.csproj|c:\\users\\tedil\\source\\repos\\exceptionsanderrorhandlinglab\\playcatch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{473E41CA-3795-482C-A700-B8D6F7CA52C4}|PlayCatch\\PlayCatch.csproj|solutionrelative:playcatch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A42FE4-5FE8-47F9-9588-146E175580A0}|SquareRoot\\SquareRoot.csproj|c:\\users\\tedil\\source\\repos\\exceptionsanderrorhandlinglab\\squareroot\\squareroot.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{68A42FE4-5FE8-47F9-9588-146E175580A0}|SquareRoot\\SquareRoot.csproj|solutionrelative:squareroot\\squareroot.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4341022F-98D4-47EE-A4D3-7073E05B01D6}|MoneyTransactions\\MoneyTransactions.csproj|c:\\users\\tedil\\source\\repos\\exceptionsanderrorhandlinglab\\moneytransactions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4341022F-98D4-47EE-A4D3-7073E05B01D6}|MoneyTransactions\\MoneyTransactions.csproj|solutionrelative:moneytransactions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC8165C4-106E-4A64-B010-DF38ACFE0310}|SumOfIntegers\\SumOfIntegers.csproj|c:\\users\\tedil\\source\\repos\\exceptionsanderrorhandlinglab\\sumofintegers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC8165C4-106E-4A64-B010-DF38ACFE0310}|SumOfIntegers\\SumOfIntegers.csproj|solutionrelative:sumofintegers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC435FB-9957-4894-9A7F-38E0EE38AA48}|Cards\\Cards.csproj|c:\\users\\tedil\\source\\repos\\exceptionsanderrorhandlinglab\\cards\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EC435FB-9957-4894-9A7F-38E0EE38AA48}|Cards\\Cards.csproj|solutionrelative:cards\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{095A5922-7D51-41BA-87E9-74D2676A000D}|EnterNumbers\\EnterNumbers.csproj|c:\\users\\tedil\\source\\repos\\exceptionsanderrorhandlinglab\\enternumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{095A5922-7D51-41BA-87E9-74D2676A000D}|EnterNumbers\\EnterNumbers.csproj|solutionrelative:enternumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExceptionsandErrorHandlingLab\\MoneyTransaction\\Program.cs",
+              "RelativeDocumentMoniker": "MoneyTransaction\\Program.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExceptionsandErrorHandlingLab\\MoneyTransaction\\Program.cs",
+              "RelativeToolTip": "MoneyTransaction\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T15:46:16.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SquareRoot",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExceptionsandErrorHandlingLab\\SquareRoot\\SquareRoot.csproj",
+              "RelativeDocumentMoniker": "SquareRoot\\SquareRoot.csproj",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExceptionsandErrorHandlingLab\\SquareRoot\\SquareRoot.csproj",
+              "RelativeToolTip": "SquareRoot\\SquareRoot.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-07T15:41:43.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExceptionsandErrorHandlingLab\\MoneyTransactions\\Program.cs",
+              "RelativeDocumentMoniker": "MoneyTransactions\\Program.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExceptionsandErrorHandlingLab\\MoneyTransactions\\Program.cs",
+              "RelativeToolTip": "MoneyTransactions\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T15:41:04.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExceptionsandErrorHandlingLab\\PlayCatch\\Program.cs",
+              "RelativeDocumentMoniker": "PlayCatch\\Program.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExceptionsandErrorHandlingLab\\PlayCatch\\Program.cs",
+              "RelativeToolTip": "PlayCatch\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAADQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T15:25:42.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExceptionsandErrorHandlingLab\\SumOfIntegers\\Program.cs",
+              "RelativeDocumentMoniker": "SumOfIntegers\\Program.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExceptionsandErrorHandlingLab\\SumOfIntegers\\Program.cs",
+              "RelativeToolTip": "SumOfIntegers\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAUwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T14:53:42.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExceptionsandErrorHandlingLab\\Cards\\Program.cs",
+              "RelativeDocumentMoniker": "Cards\\Program.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExceptionsandErrorHandlingLab\\Cards\\Program.cs",
+              "RelativeToolTip": "Cards\\Program.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAUwFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T14:15:10.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tedil\\source\\repos\\ExceptionsandErrorHandlingLab\\EnterNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "EnterNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\tedil\\source\\repos\\ExceptionsandErrorHandlingLab\\EnterNumbers\\Program.cs",
+              "RelativeToolTip": "EnterNumbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T19:46:40.857Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

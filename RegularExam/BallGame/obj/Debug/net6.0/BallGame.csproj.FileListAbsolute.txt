@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\RegularExam\BallGame\bin\Debug\net6.0\BallGame.exe
+C:\Users\tedil\source\repos\RegularExam\BallGame\bin\Debug\net6.0\BallGame.deps.json
+C:\Users\tedil\source\repos\RegularExam\BallGame\bin\Debug\net6.0\BallGame.runtimeconfig.json
+C:\Users\tedil\source\repos\RegularExam\BallGame\bin\Debug\net6.0\BallGame.dll
+C:\Users\tedil\source\repos\RegularExam\BallGame\bin\Debug\net6.0\BallGame.pdb
+C:\Users\tedil\source\repos\RegularExam\BallGame\obj\Debug\net6.0\BallGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\RegularExam\BallGame\obj\Debug\net6.0\BallGame.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\RegularExam\BallGame\obj\Debug\net6.0\BallGame.AssemblyInfo.cs
+C:\Users\tedil\source\repos\RegularExam\BallGame\obj\Debug\net6.0\BallGame.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\RegularExam\BallGame\obj\Debug\net6.0\BallGame.dll
+C:\Users\tedil\source\repos\RegularExam\BallGame\obj\Debug\net6.0\refint\BallGame.dll
+C:\Users\tedil\source\repos\RegularExam\BallGame\obj\Debug\net6.0\BallGame.pdb
+C:\Users\tedil\source\repos\RegularExam\BallGame\obj\Debug\net6.0\BallGame.genruntimeconfig.cache
+C:\Users\tedil\source\repos\RegularExam\BallGame\obj\Debug\net6.0\ref\BallGame.dll

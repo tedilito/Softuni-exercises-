@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\CitiesbyContinentandCountry\obj\Debug\net8.0\CitiesbyContinentandCountry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\CitiesbyContinentandCountry\obj\Debug\net8.0\CitiesbyContinentandCountry.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\CitiesbyContinentandCountry\obj\Debug\net8.0\CitiesbyContinentandCountry.AssemblyInfo.cs
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\CitiesbyContinentandCountry\obj\Debug\net8.0\CitiesbyContinentandCountry.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\CitiesbyContinentandCountry\bin\Debug\net8.0\CitiesbyContinentandCountry.exe
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\CitiesbyContinentandCountry\bin\Debug\net8.0\CitiesbyContinentandCountry.deps.json
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\CitiesbyContinentandCountry\bin\Debug\net8.0\CitiesbyContinentandCountry.runtimeconfig.json
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\CitiesbyContinentandCountry\bin\Debug\net8.0\CitiesbyContinentandCountry.dll
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\CitiesbyContinentandCountry\bin\Debug\net8.0\CitiesbyContinentandCountry.pdb
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\CitiesbyContinentandCountry\obj\Debug\net8.0\CitiesbyContinentandCountry.dll
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\CitiesbyContinentandCountry\obj\Debug\net8.0\refint\CitiesbyContinentandCountry.dll
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\CitiesbyContinentandCountry\obj\Debug\net8.0\CitiesbyContinentandCountry.pdb
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\CitiesbyContinentandCountry\obj\Debug\net8.0\CitiesbyContinentandCountry.genruntimeconfig.cache
+C:\Users\tedil\source\repos\LabSetsAmdDictionariesAdvanced\CitiesbyContinentandCountry\obj\Debug\net8.0\ref\CitiesbyContinentandCountry.dll
